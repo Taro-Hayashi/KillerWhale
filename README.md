@@ -1,4 +1,4 @@
-# Killer Whale 左手向けビルドガイド （[右手向け](README_R.md）
+# Killer Whale 左手向けビルドガイド（[右手向け](README_R.md)）
 
 - ベースユニットの組み立て（このページ）
 - 追加ユニットの組み立て
