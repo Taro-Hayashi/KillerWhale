@@ -10,9 +10,8 @@
 ## キット以外に必要なもの
 |部品名|数||
 |-|-|-|
-|[キースイッチ](https://shop.yushakobo.jp/search?sort_by=relevance&q=Cherry+MX&type=product&options%5Bprefix%5D=last&options%5Bunavailable_products%5D=last&filter.v.price.gte=&filter.v.price.lte=&filter.v.m.my_fields.switch_type=Clicky&filter.v.m.my_fields.switch_type=Linear&filter.v.m.my_fields.switch_type=Silent+Linear&filter.v.m.my_fields.switch_type=Silent+Tactile&filter.v.m.my_fields.switch_type=Tactile)|27|Cherry MX互換|
-|[キーキャップ](https://shop.yushakobo.jp/collections/keycaps?sort_by=best-selling&filter.v.availability=1&filter.v.m.my_fields.keycaps_profile=ASA+Profile&filter.v.m.my_fields.keycaps_profile=ASA-Low+Profile&filter.v.m.my_fields.keycaps_profile=CXA+Profile&filter.v.m.my_fields.keycaps_profile=Cherry+Profile&filter.v.m.my_fields.keycaps_profile=DCS+Profile&filter.v.m.my_fields.keycaps_profile=DSA+Profile&filter.v.m.my_fields.keycaps_profile=JDA+Profile&filter.v.m.my_fields.keycaps_profile=KAT+Profile&filter.v.m.my_fields.keycaps_profile=MA+Profile&filter.v.m.my_fields.keycaps_profile=MDA+Profile&filter.v.m.my_fields.keycaps_profile=NP+Profile&filter.v.m.my_fields.keycaps_profile=OEM+Profile&filter.v.m.my_fields.keycaps_profile=OSA+Profile&filter.v.m.my_fields.keycaps_profile=PG+Profile&filter.v.m.my_fields.keycaps_profile=SA+Profile&filter.v.m.my_fields.keycaps_profile=SAL+Profile&filter.v.m.my_fields.keycaps_profile=Tai-Hao+Cubic+Profile&filter.v.m.my_fields.keycaps_profile=XDA+Profile&filter.v.m.my_fields.keycaps_profile=特殊&filter.v.price.gte=&filter.v.price.lte=)|27|Cherry MX互換|
-
+|キースイッチ|27|Cherry MX互換|
+|キーキャップ|27|Cherry MX互換|
 |Raspberry Pi Pico|1|W、Type-C版も可|
 |USBケーブル|1||
 
