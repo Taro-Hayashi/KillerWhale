@@ -10,17 +10,17 @@
 ## キット以外に必要なもの
 |部品名|数||
 |-|-|-|
-|キースイッチ|27|Cherry MX互換|
-|キーキャップ|27|Cherry MX互換|
-|Raspberry Pi Pico|1|W、Type-C版も可|
-|USBケーブル|1||
+|[キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|27|Cherry MX互換|
+|[キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|27|Cherry MX互換|
+|[Raspberry Pi Pico](https://shop.yushakobo.jp/products/raspberry-pi-pico)|1|W、Type-C版も可|
+|[USBケーブル](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)|1||
 
 ### オプション
 |部品名|数||
 |-|-|-|
-|LED（SK6812MINI-E）|32|発光しますが難易度が上がります|
-|コンスルー20ピン|2|Raspberry Pi Picoをつけ外しできるようになります|
-|TRSケーブル、TRRSケーブル|1||2台を接続できます|
+|LED（[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)）|32|発光しますが難易度が上がります|
+|[コンスルー20ピン](https://shop.yushakobo.jp/products/31?variant=40815840067745)|2|Raspberry Pi Picoをつけ外しできるようになります|
+|TRSケーブル、[TRRSケーブル](https://shop.yushakobo.jp/products/trrs_cable)|1||2台を接続できます|
 
 ### 必要な工具
 |工具名|
