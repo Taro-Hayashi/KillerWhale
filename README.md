@@ -12,7 +12,7 @@
 |-|-|-|
 |キーキャップ|27|Cherry MX互換|
 |キースイッチ|27|Cherry MX互換|
-|Raspberry Pi Pico|1|Type-C版も可|
+|Raspberry Pi Pico|1|W、Type-C版も可|
 |USBケーブル|1||
 
 ### オプション
