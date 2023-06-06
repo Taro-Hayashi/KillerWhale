@@ -39,7 +39,7 @@
  - []
 
 Raspberry Pi Picoを、BOOTSELボタン押しながらUSBケーブルでPCと接続すると、RPI-RP2というUSBメモリとして認識されます。  
-![](img/IMG_3493.jpg)   
+![](img/IMG_3493.jpeg)   
 ![](img/rpi.jpg)   
 ここにダウンロードしたuf2ファイルを書き込むと、Raspberry Pi Picoをキーボードとして使えるようになります。 
 
