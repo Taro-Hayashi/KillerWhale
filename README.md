@@ -33,13 +33,13 @@
       <td><a href="https://shop.yushakobo.jp/products/7532">Raspberry Pi Pico 互換品 Type-C</a></td>
     </tr>
     <tr>
-      <td>[Raspberry Pi Pico W](https://shop.yushakobo.jp/products/7497)</td>
+      <td><a href="https://shop.yushakobo.jp/products/7497">Raspberry Pi Pico W</a></td>
     </tr>
     <tr>
-      <td>[コンスルー20ピン](https://shop.yushakobo.jp/products/31?variant=40815840067745)</td>
+      <td><a href="https://shop.yushakobo.jp/products/31?variant=40815840067745">コンスルー20ピン</a></td>
     </tr>
     <tr>
-      <td>[ピンソケット20ピン](https://shop.yushakobo.jp/products/3696?variant=42476836978919)</td>
+      <td><a href="https://shop.yushakobo.jp/products/3696?variant=42476836978919">ピンソケット20ピン</a></td>
     </tr>
  </table>
 
