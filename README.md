@@ -29,10 +29,10 @@
 ### そのほか対応している部品、互換品。
 |部品名|
 |-|
+|[Raspberry Pi Pico 互換品 Type-C](https://shop.yushakobo.jp/products/7532)|
+|[Raspberry Pi Pico W](https://shop.yushakobo.jp/products/7497)|
 |[コンスルー20ピン](https://shop.yushakobo.jp/products/31?variant=40815840067745)|
 |[ピンソケット20ピン](https://shop.yushakobo.jp/products/3696?variant=42476836978919)|
-|[Raspberry Pi Pico W](https://shop.yushakobo.jp/products/7497)|
-|[Raspberry Pi Pico 互換品 Type-C](https://shop.yushakobo.jp/products/7532)|
 
 ### 必要な工具
 ![ダミーキャプション 工具](img/IMG_.jpeg)  
