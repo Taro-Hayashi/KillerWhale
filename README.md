@@ -25,7 +25,6 @@
 |-|-|-|
 |LED（[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)）|32|発光させられますが難易度が上がります|
 |TRSケーブル、[TRRSケーブル](https://shop.yushakobo.jp/products/trrs_cable)|1|2台を接続できます|
-|ゲームボーイの十字キー|1|ゲームボーイカラーはサイズが違います|
 
 ### そのほか対応している部品、互換品。
 |部品名|
