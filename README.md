@@ -21,10 +21,19 @@
 |[Micro USBケーブル](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)|1||
 
 ### オプション
-|部品名|数||
-|-|-|-|
-|[LED（SK6812MINI-E)](https://shop.yushakobo.jp/products/sk6812mini-e-10)|32|発光させられますが難易度が上がります|
-|[TRSケーブル、TRRSケーブル](https://shop.yushakobo.jp/products/trrs_cable)|1|2台を接続できます|
+<table>
+    <tr>
+      <td><a href="https://shop.yushakobo.jp/products/sk6812mini-e-10">LED（SK6812MINI-E)</a></td>
+      <td>32</td>
+      <td>発光させられますが難易度が上がります</td>
+    </tr>
+    <tr>
+      <td><a href="https://shop.yushakobo.jp/products/trrs_cable">TRSケーブル、TRRSケーブル</a></td>
+       <td>1</td>
+      <td>2台を接続できます</td>
+    </tr>
+ </table>
+
 
 ### そのほか対応している部品、互換品
 
