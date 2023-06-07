@@ -22,7 +22,7 @@
 |-|-|-|
 |LED（[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)）|32|発光しますが難易度が上がります|
 |[コンスルー20ピン](https://shop.yushakobo.jp/products/31?variant=40815840067745)|2|Raspberry Pi Picoをつけ外しできるようになります|
-|TRSケーブル、[TRRSケーブル](https://shop.yushakobo.jp/products/trrs_cable)|1||2台を接続できます|
+|TRSケーブル、[TRRSケーブル](https://shop.yushakobo.jp/products/trrs_cable)|1|2台を接続できます|
 
 ### 必要な工具
 |工具名|
