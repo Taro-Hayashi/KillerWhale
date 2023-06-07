@@ -42,7 +42,7 @@
  </table>
 
 ### そのほか対応している部品、互換品
-
+※ビルドガイド内での解説はありませんので必要なタイミングで使ってください。
 <table>
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/7532">Raspberry Pi Pico 互換品 Type-C</a></td>
