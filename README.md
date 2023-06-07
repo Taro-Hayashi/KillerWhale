@@ -17,7 +17,7 @@
 |-|-|-|
 |[キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|27|Cherry MX互換|
 |[キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|27|Cherry MX互換|
-|[Raspberry Pi Pico](https://shop.yushakobo.jp/products/raspberry-pi-pico)|1|W、Type-C版も可|
+|[Raspberry Pi Pico](https://shop.yushakobo.jp/products/raspberry-pi-pico)|1||
 |[USBケーブル](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)|1||
 
 ### オプション
