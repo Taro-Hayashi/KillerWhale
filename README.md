@@ -30,7 +30,7 @@
 
 <table>
     <tr>
-      <td>[Raspberry Pi Pico 互換品 Type-C](https://shop.yushakobo.jp/products/7532)</td>
+      <td><a href="https://shop.yushakobo.jp/products/7532">Raspberry Pi Pico 互換品 Type-C</a></td>
     </tr>
     <tr>
       <td>[Raspberry Pi Pico W](https://shop.yushakobo.jp/products/7497)</td>
