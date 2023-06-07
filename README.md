@@ -47,9 +47,6 @@
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/31?variant=40815840067745">コンスルー20ピン</a></td>
     </tr>
-    <tr>
-      <td><a href="https://shop.yushakobo.jp/products/3696?variant=42476836978919">ピンソケット20ピン</a></td>
-    </tr>
  </table>
 
 ### 必要な工具
