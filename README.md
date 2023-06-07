@@ -54,7 +54,7 @@
       <td><a href="https://shop.yushakobo.jp/products/31?variant=40815840067745">コンスルー20ピン</a></td>
     </tr>
     <tr>
-      <td>>ゲームボーイの十字キー</td>
+      <td>ゲームボーイの十字キー</td>
     </tr>
     <tr>
       <td><a href="https://akizukidenshi.com/catalog/g/gP-12718/">トグルスイッチ用ラバーフード</a></td>
