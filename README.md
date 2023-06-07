@@ -21,12 +21,19 @@
 |[USBケーブル](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)|1||
 
 ### オプション
-![ダミーキャプション オプション](img/IMG_.jpeg)  
 |部品名|数||
 |-|-|-|
 |LED（[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)）|32|発光させられますが難易度が上がります|
-|[コンスルー20ピン](https://shop.yushakobo.jp/products/31?variant=40815840067745)|2|Raspberry Pi Picoをつけ外しできるようになります|
 |TRSケーブル、[TRRSケーブル](https://shop.yushakobo.jp/products/trrs_cable)|1|2台を接続できます|
+
+### 対応している部品、互換品
+![ダミーキャプション オプション](img/IMG_.jpeg)  
+|部品名|数||
+|-|-|-|
+|[コンスルー20ピン](https://shop.yushakobo.jp/products/31?variant=40815840067745)|
+|[Raspberry Pi Pico W](https://shop.yushakobo.jp/products/7497)|
+|[Raspberry Pi Pico 互換品 Type-C](https://shop.yushakobo.jp/products/7532)|
+|ゲームボーイの十字キー|
 
 ### 必要な工具
 ![ダミーキャプション 工具](img/IMG_.jpeg)  
