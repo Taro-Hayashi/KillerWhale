@@ -27,12 +27,21 @@
 |[TRSケーブル、TRRSケーブル](https://shop.yushakobo.jp/products/trrs_cable)|1|2台を接続できます|
 
 ### そのほか対応している部品、互換品
-|部品名|
-|-|
-|[Raspberry Pi Pico 互換品 Type-C](https://shop.yushakobo.jp/products/7532)|
-|[Raspberry Pi Pico W](https://shop.yushakobo.jp/products/7497)|
-|[コンスルー20ピン](https://shop.yushakobo.jp/products/31?variant=40815840067745)|
-|[ピンソケット20ピン](https://shop.yushakobo.jp/products/3696?variant=42476836978919)|
+
+<table>
+    <tr>
+      <td>[Raspberry Pi Pico 互換品 Type-C](https://shop.yushakobo.jp/products/7532)</td>
+    </tr>
+    <tr>
+      <td>[Raspberry Pi Pico W](https://shop.yushakobo.jp/products/7497)</td>
+    </tr>
+    <tr>
+      <td>[コンスルー20ピン](https://shop.yushakobo.jp/products/31?variant=40815840067745)</td>
+    </tr>
+    <tr>
+      <td>[ピンソケット20ピン](https://shop.yushakobo.jp/products/3696?variant=42476836978919)</td>
+    </tr>
+ </table>
 
 ### 必要な工具
 <table>
