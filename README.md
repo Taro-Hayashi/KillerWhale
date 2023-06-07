@@ -37,7 +37,7 @@
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/trrs_cable">TRSケーブル、TRRSケーブル</a></td>
        <td>1</td>
-      <td>2台を接続できます</td>
+      <td>2台を接続し、左右分割キーボードとして使用できます。</td>
     </tr>
  </table>
 
