@@ -7,12 +7,12 @@
 6. [天面ユニットの組み立て](左手用/天面ユニット.md)
 7. [カスタマイズ](左手用/カスタマイズ.md)
 
-!画像  
+![](img/IMG_.jpeg)  
 大きな袋の中にスイッチプレートと5つの袋が入っています。キット以外に以下の部品が必要です。  
-!画像  
+![](img/IMG_.jpeg)   
 
 ## キット以外に必要なもの
-!画像  
+![](img/IMG_.jpeg)  
 |部品名|数||
 |-|-|-|
 |[キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|27|Cherry MX互換|
@@ -21,7 +21,7 @@
 |[USBケーブル](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)|1||
 
 ### オプション
-!画像  
+![](img/IMG_.jpeg)  
 |部品名|数||
 |-|-|-|
 |LED（[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)）|32|発光させられますが難易度が上がります|
@@ -29,7 +29,7 @@
 |TRSケーブル、[TRRSケーブル](https://shop.yushakobo.jp/products/trrs_cable)|1|2台を接続できます|
 
 ### 必要な工具
-!画像  
+![](img/IMG_.jpeg)  
 |工具名|
 |-|
 |はんだごて|
@@ -54,9 +54,9 @@ Raspberry Pi PicoのBOOTSELボタン押しながらUSBケーブルでPCと接続
 
 ### スイッチプレートの切り離し
 カッターで切れ目を入れ、折って切り離します。
-!画像  
+![](img/IMG_.jpeg)  
 断面は棒やすりや、平らな面に敷いた紙やすりで綺麗にします。
-!画像  
+![](img/IMG_.jpeg)  
 
 ### 左右を決める
 キットを左右どちらで作るか決めてベースユニットの組み立てに進んでください。
