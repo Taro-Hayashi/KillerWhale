@@ -25,8 +25,8 @@
 ![ダミーキャプション 追加パーツ](img/IMG_.jpeg)  
 |部品名|数||
 |-|-|-|
-|[キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|27|Cherry MX互換|
-|[キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|27|Cherry MX互換|
+|[キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|28|Cherry MX互換|
+|[キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|28|Cherry MX互換|
 |[Raspberry Pi Pico](https://shop.yushakobo.jp/products/raspberry-pi-pico)|1||
 |[Micro USBケーブル](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)|1||
 |[34mm トラックボール](https://www.amazon.co.jp/gp/product/B07BDGSX5X)|1|トラックボールを使う場合|
