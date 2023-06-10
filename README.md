@@ -29,6 +29,7 @@
 |[キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|27|Cherry MX互換|
 |[Raspberry Pi Pico](https://shop.yushakobo.jp/products/raspberry-pi-pico)|1||
 |[Micro USBケーブル](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)|1||
+|[34mm トラックボール](https://www.amazon.co.jp/gp/product/B07BDGSX5X)|1|トラックボールを使う場合|
 
 ### オプション
 <table>
@@ -40,7 +41,7 @@
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/sk6812mini-e-10">LED（SK6812MINI-E)</a></td>
       <td>32</td>
-      <td>発光させられますが難易度が上がります</td>
+      <td>発光させられますがはんだ付けの難易度が上がります</td>
     </tr>
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/trrs_cable">TRSケーブル、TRRSケーブル</a></td>
@@ -50,7 +51,7 @@
  </table>
 
 ### 別売ユニット
-※併せてご利用の場合はキースイッチ、キーキャップなど必要なパーツの個数に気をつけてください。
+※ご利用の場合はキースイッチ、キーキャップなど必要なパーツの総数に気をつけてください。
 <table>
     <tr>
       <td><a href="">側面ユニット ホイール 縦</a></td> 
