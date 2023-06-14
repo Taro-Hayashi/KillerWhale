@@ -35,7 +35,7 @@
     </tr>
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/sk6812mini-e-10">LED（SK6812MINI-E)</a></td>
-      <td></td>
+      <td>29〜35</td>
       <td>ベース3個, 天面23個, 側面3個, 追加3個</td>
     </tr>
     <tr>
