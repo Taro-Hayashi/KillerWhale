@@ -35,8 +35,8 @@
     </tr>
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/sk6812mini-e-10">LED（SK6812MINI-E)</a></td>
-      <td>32</td>
-      <td>発光させられますがはんだ付けの難易度が上がります</td>
+      <td>32〜</td>
+      <td>ベース3個, 天面23個, 側面3個, 追加3個です。</td>
     </tr>
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/trrs_cable">TRSケーブル、TRRSケーブル</a></td>
