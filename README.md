@@ -8,12 +8,10 @@
 6. [カスタマイズ](右手用/7_カスタマイズ.md)
 7. [その他](右手用/8_その他.md)
 
-![ダミーキャプション 完成品+十字キー](img/IMG_.jpeg)  
 大きな袋の中にスイッチプレートと5つの袋が入っています。
 ![ダミーキャプション 袋](img/IMG_.jpeg)   
 
 ## キット以外に必要なもの
-![](img/IMG_4615.jpeg)  
 |部品名|数||
 |-|-|-|
 |[キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|28|Cherry MX互換|
@@ -22,6 +20,7 @@
 |[Micro USBケーブル](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)|1||
 |[34mm トラックボール](https://www.amazon.co.jp/gp/product/B07BDGSX5X)|1|トラックボールを使う場合|
 
+![](img/IMG_4615.jpeg)  
 ### オプション
 <table>
     <tr>
@@ -32,14 +31,17 @@
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/sk6812mini-e-10">LED（SK6812MINI-E)</a></td>
       <td>29〜35</td>
-      <td>ベース3個, 天面23個, 側面3個, 追加3個必要です。</td>
+      <td>ユニットごとにベース3個, 天面23個, 側面3個x2, 追加3個使います。</td>
     </tr>
     <tr>
-      <td><a href="https://shop.yushakobo.jp/products/trrs_cable">TRRSケーブル</a></td>
+      <td><a href="https://shop.yushakobo.jp/products/trrs_cable">TRS、TRRSケーブル</a></td>
        <td>1</td>
-      <td>TRRS（3極）ではなくTRRS（4極）を使ってください。</td>
+      <td>2台を繋げて左右分割キーボードとして使用できます。</td>
     </tr>
  </table>
+
+
+![](img/IMG_4630.jpeg)   
 
 ### 別売ユニット
 <table>
@@ -57,6 +59,7 @@
     </tr>
  </table>
 
+![ダミーキャプション 袋](img/IMG_.jpeg)   
 ### そのほか対応している部品、互換品
 ※ビルドガイド内での解説はありませんので必要なタイミングで使ってください。
 <table>
@@ -119,10 +122,12 @@
 スイッチプレートは繋がった状態で入っていて、切り離して使います。
 ![ダミーキャプション スイッチプレート全体、文字](img/IMG_.jpeg)  
 カッターで切れ目を入れ、折って切り離します。
-![ダミーキャプション カッター](img/IMG_.jpeg)  
+![](img/IMG_4649.jpeg)  
 断面は棒やすりや、平らな面に敷いた紙やすりで綺麗にします。
-![ダミーキャプション やすり](img/IMG_.jpeg)  
+![](img/IMG_4681.jpeg)  
 削った粉がコネクタ類やトラックボールのセンサーに入り込まないようにここで一度服を払ったり机の上の掃除をすると安心です。
+![ダミーキャプション 文字](img/IMG_.jpeg)  
+それぞれのユニットのビルドガイドでスイッチプレートとして使います。
 
 ## ファームウェアを書き込む
 Raspberry Pi Picoをキーボードとして使えるようにします。
@@ -130,17 +135,17 @@ Raspberry Pi Picoをキーボードとして使えるようにします。
  - []
 
 Raspberry Pi PicoのBOOTSELボタン押しながらUSBケーブルでPCと接続すると、RPI-RP2というUSBメモリとして認識されます。  
-![](img/IMG_3493.jpeg)   
+![](img/IMG_4689.jpeg)   
 ![](img/rpi.jpg)   
 ダウンロードしたファイルをそこにドラッグ&ドロップしてドライブが自動的に消えたら成功です。  
 書き込みが終わったら一旦USBケーブルは外します。  
 
 ### 左右を決める
 キットを左右どちらで作るか決めてベースユニットの組み立てに進んでください。
+左右のビルドガイドの違いは写真だけです。
 - [ベースユニット 左手用](左手用/2_ベースユニット.md)
 - [ベースユニット 右手用](右手用/2_ベースユニット.md)
 
-左右のビルドガイドの違いは写真だけです。
 
 
 
