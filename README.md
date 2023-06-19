@@ -39,9 +39,9 @@
       <td>ベース3個, 天面23個, 側面3個, 追加3個必要です。</td>
     </tr>
     <tr>
-      <td><a href="https://shop.yushakobo.jp/products/trrs_cable">TRSケーブル、TRRSケーブル</a></td>
+      <td><a href="https://shop.yushakobo.jp/products/trrs_cable">TRRSケーブル</a></td>
        <td>1</td>
-      <td>2台を接続し、左右分割キーボードとして使用できます。</td>
+      <td>TRRS（3極）ではなくTRRS（4極）を使ってください。</td>
     </tr>
  </table>
 
