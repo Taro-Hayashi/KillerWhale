@@ -6,8 +6,8 @@
 4. [天面ユニットの組み立て](右手用/4_天面ユニット.md)
 5. [追加ユニットの組み立て](右手用/5_追加ユニット.md)
 6. [組み立て](右手用/6_組み立て.md)
-7. [カスタマイズ](右手用/7_カスタマイズ.md)
-8. [その他](右手用/8_その他.md)
+7. [カスタマイズ](7_カスタマイズ.md)
+8. [その他](8_その他.md)
 
 大きな袋の中にスイッチプレートと5つの袋が入っています。
 ![ダミーキャプション 袋](img/IMG_.jpeg)   
@@ -131,7 +131,8 @@
 ## ファームウェアを書き込む
 Raspberry Pi Picoをキーボードとして使えるようにします。
 こちらのファイルをダウンロードしてください。  
- - []
+- [tarohayashi_killerwhale_solo_default.uf2
+](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.3/tarohayashi_killerwhale_solo_default.uf2)
 
 Raspberry Pi PicoのBOOTSELボタン押しながらUSBケーブルでPCと接続すると、RPI-RP2というUSBメモリとして認識されます。  
 ![](img/start/IMG_4689.jpg)   
