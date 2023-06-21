@@ -30,8 +30,8 @@
     </tr>
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/sk6812mini-e-10">LED（SK6812MINI-E)</a></td>
-      <td>29〜35</td>
-      <td>ユニットごとにベース3個, 天面23個, 側面3個x2, 追加3個使います。</td>
+      <td>35</td>
+      <td>はんだ付けの難易度は上がります。</td>
     </tr>
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/trrs_cable">TRS、TRRSケーブル</a></td>
@@ -40,9 +40,7 @@
     </tr>
  </table>
 
-
-![](img/IMG_4630.jpeg)   
-
+![](img/IMG_4630.jpg)  
 ### 別売ユニット
 <table>
     <tr>
@@ -135,7 +133,7 @@ Raspberry Pi Picoをキーボードとして使えるようにします。
  - []
 
 Raspberry Pi PicoのBOOTSELボタン押しながらUSBケーブルでPCと接続すると、RPI-RP2というUSBメモリとして認識されます。  
-![](img/IMG_4689.jpeg)   
+![](img/IMG_4689.jpg)   
 ![](img/rpi.jpg)   
 ダウンロードしたファイルをそこにドラッグ&ドロップしてドライブが自動的に消えたら成功です。  
 書き込みが終わったら一旦USBケーブルは外します。  
