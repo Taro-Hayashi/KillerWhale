@@ -21,7 +21,7 @@
 |[Micro USBケーブル](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)|1||
 |[34mm トラックボール](https://www.amazon.co.jp/gp/product/B07BDGSX5X)|1|トラックボールを使う場合|
 
-![](img/start/IMG_4615.jpeg)    
+![](img/IMG_4615.jpeg)    
 ### オプション
 <table>
     <tr>
@@ -41,7 +41,7 @@
     </tr>
  </table>
 
-![](img/start/IMG_4630.jpg)    
+![](img/IMG_4630.jpg)    
 ### 別売ユニット
 <table>
     <tr>
@@ -118,9 +118,9 @@
 スイッチプレートは繋がった状態で入っていて、切り離して使います。  
 ![ダミーキャプション スイッチプレート全体、文字](img/IMG_.jpeg)    
 カッターで切れ目を入れ、折って切り離します。  
-![](img/start/IMG_4649.jpeg)    
+![](img/IMG_4649.jpeg)    
 断面は棒やすりで綺麗にします。  
-![](img/start/IMG_4681.jpeg)    
+![](img/IMG_4681.jpeg)    
 削った粉がコネクタ類やトラックボールのセンサーに入り込まないようにここで一度服を払ったり机の上の掃除をすると安心です。  
 ![ダミーキャプション 文字](img/IMG_.jpeg)    
 それぞれのユニットのビルドガイドでスイッチプレートとして使います。  
@@ -132,8 +132,8 @@ Raspberry Pi Picoをキーボードとして使えるようにします。
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.3.1/tarohayashi_killerwhale_solo_default.uf2)
 
 Raspberry Pi PicoのBOOTSELボタン押しながらUSBケーブルでPCと接続すると、RPI-RP2というUSBメモリとして認識されます。    
-![](img/start/IMG_4689.jpg)     
-![](img/start/rpi.jpg)     
+![](img/IMG_4689.jpg)     
+![](img/rpi.jpg)     
 ダウンロードしたファイルをそこにドラッグ&ドロップしてドライブが自動的に消えたら成功です。    
 書き込みが終わったら一旦USBケーブルは外します。    
 
