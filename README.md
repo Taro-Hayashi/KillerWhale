@@ -26,7 +26,7 @@
 <table>
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/oled">OLEDモジュール - ピンソケット付き</a></td> 
-      <td>1</td>
+      <td>1〜2</td>
       <td>画面にレイヤー番号を表示することができます。  </td>
     </tr>
     <tr>
