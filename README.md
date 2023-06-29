@@ -81,6 +81,9 @@
     <tr>
       <td><a href="https://akizukidenshi.com/catalog/g/gP-12718/">トグルスイッチ用ラバーフード</a></td>
     </tr>
+    <tr>
+      <td><a href="https://akizukidenshi.com/catalog/g/gP-05912/">トグルスイッチ用ツマミカバー</a></td>
+    </tr>
  </table>
 
 ### 必要な工具
