@@ -12,7 +12,7 @@
 大きな袋の中にスイッチプレートと5つの袋が入っています。  
 ![ダミーキャプション 袋](img/IMG_.jpeg)     
 
-## キット以外に必要なもの
+## キット以外に必要なもの（片手分）
 |部品名|数||
 |-|-|-|
 |[キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|28|Cherry MX互換|
@@ -22,7 +22,7 @@
 |[34mm トラックボール](https://www.amazon.co.jp/gp/product/B07BDGSX5X)|1|トラックボールを使う場合|
 
 ![](img/IMG_4615.jpeg)    
-### オプション
+### オプション（片手分）
 <table>
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/oled">OLEDモジュール - ピンソケット付き</a></td> 
