@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/sk6812mini-e-10">LED（SK6812MINI-E)</a></td>
-      <td>35〜38</td>
+      <td>33〜36</td>
       <td>はんだ付けの難易度は上がります。  </td>
     </tr>
     <tr>
