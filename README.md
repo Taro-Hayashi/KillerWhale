@@ -12,17 +12,17 @@
 大きな袋の中にスイッチプレートと5つの袋が入っています。  
 ![ダミーキャプション 袋](img/IMG_.jpeg)     
 
-## キット以外に必要なもの
+## キット以外に必要なもの（片手分）
 |部品名|数||
 |-|-|-|
-|[キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|28|Cherry MX互換|
-|[キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|28|Cherry MX互換|
+|[キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|28〜30|Cherry MX互換|
+|[キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|28〜30|Cherry MX互換|
 |[Raspberry Pi Pico](https://shop.yushakobo.jp/products/raspberry-pi-pico)|1||
 |[Micro USBケーブル](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)|1||
 |[34mm トラックボール](https://www.amazon.co.jp/gp/product/B07BDGSX5X)|1|トラックボールを使う場合|
 
 ![](img/IMG_4615.jpeg)    
-### オプション
+### オプション（片手分）
 <table>
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/oled">OLEDモジュール - ピンソケット付き</a></td> 
@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/sk6812mini-e-10">LED（SK6812MINI-E)</a></td>
-      <td>35</td>
+      <td>33〜36</td>
       <td>はんだ付けの難易度は上がります。  </td>
     </tr>
     <tr>
