@@ -41,7 +41,7 @@
     </tr>
  </table>
 
-![](img/IMG_4630.jpeg)    
+![](img/IMG_4630.jpg)    
 
 ### 別売ユニット
 <table>
