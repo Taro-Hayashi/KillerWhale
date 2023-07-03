@@ -71,10 +71,10 @@
       <td><a href="https://shop.yushakobo.jp/products/7532">Raspberry Pi Pico 互換品 Type-C</a></td>
     </tr>
     <tr>
-      <td><a href="https://shop.yushakobo.jp/products/7497">Raspberry Pi Pico W</a></td>
+      <td><a href="https://shop.yushakobo.jp/products/7497">Type-C USBケーブル</a></td>
     </tr>
     <tr>
-      <td><a href="https://shop.yushakobo.jp/products/7497">Type-C USBケーブル</a></td>
+      <td><a href="https://shop.yushakobo.jp/products/7497">Raspberry Pi Pico W</a></td>
     </tr>
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/31?variant=40815840067745">コンスルー20ピン 2.5mm</a></td>
@@ -111,7 +111,7 @@
       <td>マスキングテープ</td>
     </tr>
     <tr>
-      <td>棒やすり</td>
+      <td>やすり</td>
     </tr>
     <tr>
       <td>+の精密ドライバー</td>
@@ -127,7 +127,7 @@
 ![](img/IMG_6058.jpeg)    
 カッターで切れ目を入れ、折って切り離します。  
 ![](img/IMG_4649.jpeg)    
-断面は棒やすりで綺麗にします。  
+断面はやすりで綺麗にします。  
 ![](img/IMG_4681.jpeg)    
 削った粉がコネクタ類やトラックボールのセンサーに入り込まないようにここで一度服を払ったり机の上の掃除をすると安心です。  
 ![](img/IMG_6094.jpg)    
