@@ -31,7 +31,7 @@
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/oled">OLEDモジュール - ピンソケット付き</a></td> 
       <td>1〜2</td>
-      <td>画面にレイヤー番号などを表示することができます。  </td>
+      <td>通常は1個、予備の側面ユニットにも付けるならもう1個</td>
     </tr>
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/sk6812mini-e-10">LED（SK6812MINI-E)</a></td>
