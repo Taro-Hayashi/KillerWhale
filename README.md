@@ -10,7 +10,7 @@
 8. [その他](右手用/8_その他.md)
 
 大きな袋の中にスイッチプレートと5つの袋が入っています。  
-![ダミーキャプション 袋](img/IMG_.jpeg)     
+![](img/IMG_6281.jpg)     
 
 ## キット以外に必要なもの（片手分）
 |部品名|数||
@@ -80,6 +80,9 @@
     </tr>
     <tr>
       <td><a href="https://akizukidenshi.com/catalog/g/gP-12718/">トグルスイッチ用ラバーフード</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://akizukidenshi.com/catalog/g/gP-05912/">トグルスイッチ用ツマミカバー</a></td>
     </tr>
  </table>
 
