@@ -71,10 +71,10 @@
       <td><a href="https://shop.yushakobo.jp/products/7532">Raspberry Pi Pico 互換品 Type-C</a></td>
     </tr>
     <tr>
-      <td><a href="https://shop.yushakobo.jp/products/7497">Raspberry Pi Pico W</a></td>
+      <td><a href="https://shop.yushakobo.jp/products/7497">Type-C USBケーブル</a></td>
     </tr>
     <tr>
-      <td><a href="https://shop.yushakobo.jp/products/7497">Type-C USBケーブル</a></td>
+      <td><a href="https://shop.yushakobo.jp/products/7497">Raspberry Pi Pico W</a></td>
     </tr>
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/31?variant=40815840067745">コンスルー20ピン 2.5mm</a></td>
