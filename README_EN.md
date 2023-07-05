@@ -1,4 +1,4 @@
-# Killer Whale ビルドガイド スタートページ（[English](README_EN.md)）
+# Killer Whale Build Manual First Page（[日本語](README.md)）
 
 1. スタートページ（このページ）
 2. [ベースユニットの組み立て](rightside/2_BASE.md)
