@@ -20,7 +20,7 @@
 |[Raspberry Pi Pico](https://shop.yushakobo.jp/products/raspberry-pi-pico)|1||
 |[Micro USBケーブル](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)|1||
 
-![](img/IMG_4615.jpeg)    
+![](img/IMG_4615.jpg)    
 ### オプション（片手分）
 <table>
     <tr>
@@ -124,11 +124,11 @@
 ## 準備
 ### スイッチプレートの切り離し
 スイッチプレートは繋がった状態で入っていて、切り離して使います。  
-![](img/IMG_6058.jpeg)    
+![](img/IMG_6058.jpg)    
 カッターで切れ目を入れ、折って切り離します。  
-![](img/IMG_4649.jpeg)    
+![](img/IMG_4649.jpg)    
 断面はやすりで綺麗にします。  
-![](img/IMG_4681.jpeg)    
+![](img/IMG_4681.jpg)    
 削った粉がコネクタ類やトラックボールのセンサーに入り込まないようにここで一度服を払ったり机の上の掃除をすると安心です。  
 ![](img/IMG_6094.jpg)    
 それぞれのユニットのビルドガイドでスイッチプレートとして使います。  
