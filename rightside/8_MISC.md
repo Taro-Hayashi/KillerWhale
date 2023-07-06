@@ -1,4 +1,4 @@
-# Killer Whale その他 右手用ビルドガイド （[左手用](../leftside/8_MISC.md)）
+# Killer Whale その他 右手用Build Manual （[左手用](../leftside/8_MISC.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../rightside/2_BASE.md)
@@ -7,7 +7,7 @@
 5. [ADDITIONAL Unit](../rightside/5_ADD.md)
 6. [Assemble](../rightside/6_ASSEMBLE.md)
 7. [Customize](../rightside/7_CUSTOM.md)
-8. その他（このページ）
+8. その他
 ## ファームウェアまとめ（最終更新日: 2023/6/24 18:00）
 完成後にファームウェアを入れ替えたくなった場合はこちらからもダウンロード可能です。  
 - 単体使用 左右共用キーマップ [tarohayashi_killerwhale_solo_default.uf2

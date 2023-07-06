@@ -1,9 +1,9 @@
-# Killer Whal　天面ユニット 左手用ビルドガイド （[右手用](../rightside/4_TOP.md)）
+# Killer Whal　天面ユニット 左手用Build Manual （[右手用](../rightside/4_TOP.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../leftside/2_BASE.md)
 3. [SIDE Unit](../leftside/3_SIDE_TRACKBALL.md)
-4. TOP Unit LEFT Side（このページ）
+4. TOP Unit LEFT Side
    - [（別売）ホイール付きTOP Unit](../leftside/4_TOP_WHEEL.md)
 5. [ADDITIONAL Unit](../leftside/5_ADD.md)
 6. [Assemble](../leftside/6_ASSEMBLE.md)

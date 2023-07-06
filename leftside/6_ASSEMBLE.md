@@ -1,11 +1,11 @@
-# Killer Whal　ASSEMBLE 左手用ビルドガイド （[右手用](../rightside/6_ASSEMBLE.md)）
+# Killer Whal　ASSEMBLE 左手用Build Manual （[右手用](../rightside/6_ASSEMBLE.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../leftside/2_BASE.md)
 3. [SIDE Unit](../leftside/3_SIDE_TRACKBALL.md)
 4. [TOP Unit](../leftside/4_TOP.md)
 5. [ADDITIONAL Unit](../leftside/5_ADD.md)
-6. ASSEMBLE LEFT Side（このページ）
+6. ASSEMBLE LEFT Side
 7. [Customize](../leftside/7_CUSTOM.md)
 8. [Misc](../leftside/8_MISC.md)
 

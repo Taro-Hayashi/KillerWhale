@@ -1,122 +1,86 @@
 
-# Killer Whale 十字キー側面ユニット 左手用ビルドガイド （[右手用](../rightside/3_側面ユニット_十字キー.md)）
+# Killer Whale 十字キー側面ユニット 左手用Build Manual （[右手用](../rightside/3_側面ユニット_十字キー.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../leftside/2_BASE.md)
 3. SIDE Unit
-   - [トラックボール](../leftside/3_SIDE_TRACKBALL.md)
-   - 十字キー LEFT Side（このページ）
-   - [（別売）ホイール 縦/横](../leftside/3_SIDE_WHEEL.md)
-   - [（別売）ジョイスティック](../leftside/3_SIDE_JOYSTICK.md)
+   - [Trackball](../leftside/3_SIDE_TRACKBALL.md)
+   - D-Pad LEFT Side
+   - [Wheel (selling separately)](../leftside/3_SIDE_WHEEL.md)
+   - [Joystick (selling separately)](../leftside/3_SIDE_JOYSTICK.md)
 4. [TOP Unit](../leftside/4_TOP.md)
 5. [ADDITIONAL Unit](../leftside/5_ADD.md)
 6. [Assemble](../leftside/6_ASSEMBLE.md)
 7. [Customize](../leftside/7_CUSTOM.md)
 8. [Misc](../leftside/8_MISC.md)
 
-## 内容品 
-![ダミーキャプション ベース部品](../img/d-pad/IMG_5253.jpg)    
-||部品名|数||
+## Contents
+![(../img/d-pad/IMG_5253.jpg)    
+||types|quantities||
 |-|-|-|-|
-|1|メインボード|1|FR4|
-|2|スイッチプレート|1|FR4|
-|3|保護プレート|2|アクリル|
-|4|十字キー用プレート|2|アクリル|
-|5|M2バインドネジ（短）|5|6mm|
-|6|M2ネジ（長）|1|10mm|
-|7|M2ワッシャー|1||
-|8|M2スプリングワッシャー|1||
-|9|M2ナット|1||
-|10|M2ネジ（黒）|5|4mm|
-|11|M2スペーサー（短）|2|5mm|
-|12|M2スペーサー（長）|3|12mm|
-|13|ピンヘッダ|1||
-|14|ダイオード|8|1N4148|
-|15|Kailhミュートスイッチ|4|
-|16|MXスイッチソケット|2||
+|1|Mainboard|1|FR4|
+|2|Switch plate|1|FR4|
+|3|Cover plate|2|Acrylic|
+|4|D-pad plate|2|Acrylic|
+|5|M2 short screws|5|6mm|
+|6|M2 long screw|1|10mm|
+|7|M2 washer|1||
+|8|M2 spring washer|1||
+|9|M2 nut|1||
+|10|M2 black screws|5|4mm|
+|11|M2 short spacers|2|5mm|
+|12|M2 long spacers|3|12mm|
+|13|Pin header|1||
+|14|Diodes|8|1N4148|
+|15|Kailh mute switches|4|
+|16|MX hotswap Socket|2||
 
-メインボード、保護プレートには縦と横で違いがあります。  適宜読み替えてください。  
-## はんだ付け
-側面ユニットは表裏両方に部品を実装するので気をつけてください。  
-![](../img/d-pad/IMG_5257.jpg)  
-左右の記載がある方が裏面です。 
-### （オプション）LEDのはんだ付け
-LEDは3個取り付けます。すべてはんだ付けする面から見て丸い発光面が向こう向きです。  
+## Soldering
+### (Optional)LED 
 ![](../img/d-pad/IMG_5262.jpg)  
 
-### MXスイッチソケットのはんだ付け（裏面）
-裏面にピンセットで押し付けながらハンダごてに乗せたはんだを流し込みます。  
+### MX hotswap socket
 ![](../img/d-pad/IMG_5263.jpg)  
-両側をはんだしてずれなくなったらピンセットからはんだに持ち替えて追加で流し込みしましょう。  表面積が広く多めのはんだが必要です。  
-### ダイオードのはんだ付け（裏面）
-ダイオードには向きがあります。線と基板のマークの方向を合わせてください。 
-![](../img/trackball/IMG_5075.jpg) 
-8箇所に裏からダイオードを差し、マスキングテープで固定します。  
+
+### Diodes
 ![](../img/d-pad/IMG_5265.jpg)  
-表ではんだ付けして足を切ります。  
 ![](../img/d-pad/IMG_5269.jpg)  
 
-### ピンヘッダーのはんだ付け（裏面）
-40ピンヘッダーから6ピンを4本切り出し、裏面にピンヘッダーを立ててはんだ付けします。
-長い方を差し込んでください。反対にした場合は短い方と同程度まで切ってください。
+### Pin headers
 ![](../img/d-pad/IMG_5276.jpg)  
-### （オプション）OLEDモジュールのはんだ付け（表面）
-表面にOLED用ソケットをはんだ付けします。  
+### (Optional) OLED Display
 ![](../img/d-pad/IMG_5282.jpg)  
-付け外しを考えないのであれば、OLEDモジュールを直接はんだ付けしてしまうのも良いと思います。
-
-
-OLEDモジュールにはOLED用ピンヘッダをはんだ付けします。  
 ![](../img/trackball/IMG_5116.jpg)  
-まだ差し込まず別々に保管してください。  
-### 十字キーのスイッチのはんだ付け（表面）
-表面から差し込んで裏面ではんだ付けします。  
+
+
+### Kailh mute switch
 ![](../img/d-pad/IMG_5285.jpg)  
 
-## 組み立て
-側面ユニットには上下があります。  右手用はOLED用ソケットが下側、左手用は上側です。  
-![](../img/d-pad/IMG_5288.jpg)  
-### スイッチプレートの組み立て
-スイッチプレートにM2スペーサー（短2）をM2ネジ（黒）で取り付けます。  
+## Assembling
+Attach M2 short spacers with M2 black screws.
 ![](../img/d-pad/IMG_5290.jpg)  
-スイッチプレートも上下があるので気をつけてください。  
-  
-スペーサーに保護プレート2種を、M2バインドネジで取り付けます。  
+Attach cover plate with M2 short screws.
 ![](../img/d-pad/IMG_5292.jpg)  
-穴が空いている大きい方が上です。 
+If long spacer is silver, smaller cover plate is on top; if it is yellow, larger cover plate is on top.
+![](../img/d-pad/IMG_6245.jpg)  
 
-### ベースユニットへの取り付け
-側面ユニットにM2スペーサー（長）をM2ネジ（黒）で取り付けます。  
+Attach M2 long spacers with M2 black screws.
 ![](../img/d-pad/IMG_5315.jpg)  
-下側はスペーサーが一本、上側に2本で正三角形を作るように立てます。  
    
-初めて側面ユニットを作る場合、ベースユニットで余ったピンソケットから6ピンを2つ切り出して側面ユニットのピンソケットに差し込みます。
+Insert pin socket into pin header
 ![](../img/d-pad/IMG_5296.jpg)  
-ベースユニットのM3ネジ２本にワッシャーを通します。  
+Attach M3 short spacers with M3 screws.
 ![](../img/trackball/IMG_5169.jpg)   
-支柱に側面ユニットを差し込み、M3ネジで止めます。  ベースユニットの縦長のスルーホールにピンソケットの足が入るようにしてください。  
-![ダミーキャプション ](../img/d-pad/IMG_5318.jpg)  
-ベースユニットの裏面でピンソケットをはんだ付けします。  多めにはんだを流して表面までしっかりはんだ付けされるようにしてください。  
+![](../img/d-pad/IMG_5318.jpg)  
 
-![](../img/trackball/IMG_5184.jpg)  
-これで側面ユニットのはんだ付けは終わりです。  
+![](../img/trackball/IMG_5184.jpg)   
+![](../img/d-pad/IMG_5320.jpg)  
 
-OLEDモジュールを使う場合はここでピンソケットに差し込みます。  
-![ダミーキャプション ](../img/d-pad/IMG_5320.jpg)  
+  
+![](../img/d-pad/IMG_5297.jpg)  
 
-十字キー用プレートをM2ネジ（長）とワッシャー、スプリングワッシャー、ナットで固定します。  
-![ダミーキャプション ](../img/d-pad/IMG_5297.jpg)  
-
-十字キーを挟み込むようにして、スイッチプレートにキースイッチを取り付けてMXソケットに差し込みます。  
-![ダミーキャプション ](../img/d-pad/IMG_5322.jpg)  
-保護プレートをM2バインドネジで固定したら完成です。  
+![](../img/d-pad/IMG_5322.jpg)  
  
-USBケーブルを差し動作確認してみましょう。  LEDは天面ユニットを取り付けるまで光りません。  
-問題がなくキーやホイールが反応したら天面ユニットの組み立てに進んでください。
-  
-
-同梱されているものと、別売のホイール付きの2種類があります。  
-  
 4. [TOP Unit](../rightside/4_TOP.md)
-   - [（別売）ホイール付き天面ユニット](../rightside/4_TOP_WHEEL.md)
+   - [TOP Unit with wheel (selling separately)](../rightside/4_TOP_WHEEL.md)
 

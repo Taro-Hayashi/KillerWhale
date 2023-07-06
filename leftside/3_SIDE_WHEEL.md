@@ -1,12 +1,12 @@
-# Killer Whale ホイール側面ユニット 縦/横 左手用ビルドガイド （[右手用](../rightside/3_SIDE_WHEEL.md)）
+# Killer Whale ホイール側面ユニット 縦/横 左手用Build Manual （[右手用](../rightside/3_SIDE_WHEEL.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../leftside/2_BASE.md)
 3. SIDE Unit
-   - [トラックボール](../leftside/3_SIDE_TRACKBALL.md)
+   - [Trackball](../leftside/3_SIDE_TRACKBALL.md)
    - [D-PAD](../leftside/3_SIDE_DPAD.md.md)
-   - （別売）ホイール 縦/横 LEFT Side（このページ）
-   - [（別売）ジョイスティック](../leftside/3_SIDE_JOYSTICK.md)
+   - （別売）ホイール 縦/横 LEFT Side
+   - [Joystick (selling separately)](../leftside/3_SIDE_JOYSTICK.md)
 4. [TOP Unit](../leftside/4_TOP.md)
 5. [ADDITIONAL Unit](../leftside/5_ADD.md)
 6. [Assemble](../leftside/6_ASSEMBLE.md)

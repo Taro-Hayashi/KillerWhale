@@ -1,12 +1,12 @@
-# Killer Whale トラックボール側面ユニット 左手用ビルドガイド （[右手用](../rightside/3_SIDE_TRACKBALL.md)）
+# Killer Whale トラックボール側面ユニット 左手用Build Manual （[右手用](../rightside/3_SIDE_TRACKBALL.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../leftside/2_BASE.md)
 3. SIDE Unit
-   - トラックボール LEFT Side（このページ）
+   - トラックボール LEFT Side
    - [D-PAD](../leftside/3_SIDE_DPAD.md.md)
-   - [（別売）ホイール 縦/横](../leftside/3_SIDE_WHEEL.md)
-   - [（別売）ジョイスティック](../leftside/3_SIDE_JOYSTICK.md)
+   - [Wheel (selling separately)](../leftside/3_SIDE_WHEEL.md)
+   - [Joystick (selling separately)](../leftside/3_SIDE_JOYSTICK.md)
 4.  [TOP Unit](../leftside/4_TOP.md)
 5. [ADDITIONAL Unit](../leftside/5_ADD.md)
 6. [Assemble](../leftside/6_ASSEMBLE.md)

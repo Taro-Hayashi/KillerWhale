@@ -1,11 +1,11 @@
 
-# Killer Whale 追加ユニット 左手用ビルドガイド （[右手用](../rightside/5_ADD.md)）
+# Killer Whale 追加ユニット 左手用Build Manual （[右手用](../rightside/5_ADD.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../2_BASE.md)
 3. [SIDE Unit](../leftside/3_SIDE_TRACKBALL.md)
 4. [TOP Unit](../leftside/4_TOP.md)
-5. ADDITIONAL Unit LEFT Side（このページ）
+5. ADDITIONAL Unit LEFT Side
 6. [Assemble](../leftside/6_ASSEMBLE.md)
 7. [Customize](../leftside/7_CUSTOM.md)
 8. [Misc](../leftside/8_MISC.md)

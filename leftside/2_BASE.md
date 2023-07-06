@@ -1,7 +1,7 @@
-# Killer Whale BASE Unit LEFT Side ビルドガイド （[RIGHT Side](../rightside/2_BASE.md)）
+# Killer Whale BASE Unit LEFT Side Build Manual （[RIGHT Side](../rightside/2_BASE.md)）
 
 1. [First Page](../README_EN.md)
-2. BASE Unit LEFT Side（このページ）
+2. BASE Unit LEFT Side
 3. [SIDE Unit](../leftside/3_SIDE_TRACKBALL.md)
 4. [TOP Unit](../leftside/4_TOP.md)
 5. [ADDITIONAL Unit](../leftside/5_ADD.md)
@@ -9,34 +9,33 @@
 7. [Customize](../leftside/7_CUSTOM.md)
 8. [Misc](../leftside/8_MISC.md)
 
-## 内容品
+## Contents
 ![](../img/base/IMG_4724.jpg)      
-||部品名|数||
+||types|quantities||
 |-|-|-|-|
-|1|メインボード|1|FR4|
-|2|ボトムプレート|1|アクリル|
-|3|側面ユニット支柱|4|アクリル|
-|4|天面ユニット支柱|4|アクリル|
-|5|M2なべネジ|12|10mm|
-|6|M2ワッシャー|24||
-|7|M2スプリングワッシャー|12||
-|8|M2ナット|12||
-|9|M2スペーサー|12|3mm|
-|10|M2ネジ（黒）|4|8mm|
-|11|M2ワッシャー（黒）|8||
-|12|M2スプリングワッシャー（黒）|4|
-|13|M2ナット（黒）|4|
-|14|M3なべネジ|11|10mm|
-|15|M3ワッシャー|11||
-|16|M3四角ナット|11||
-|17|TRRSジャック|2||
-|18|ピンヘッダ|2||
-|19|ピンソケット|2||
-|20|L字ピンソケット|1||
-|21|ジャンパー|6||
-|22|ゴム足|4||
+|1|Main Board|1|FR4|
+|2|Bottom Plate|1|Acrylic|
+|3|SIDE Unit Pillar|4|Acrylic|
+|4|TOP Unit Pillar|4|Acrylic|
+|5|M2 screw|12|10mm|
+|6|M2 washers|24||
+|7|M2 spring washers|12||
+|8|M2 nuts|12||
+|9|M2 spacers|12|3mm|
+|10|M2 black screws|4|8mm|
+|11|M2 black washers|8||
+|12|M2 black spring washers|4|
+|13|M2 black nuts|4|
+|14|M3 screws|11|10mm|
+|15|M3 washers|11||
+|16|M3 square nuts|11||
+|17|TRRS jacks|2||
+|18|Pin headers|2||
+|19|Pin sockets|2||
+|20|Angle pin socket|1||
+|21|Jumpers|6||
+|22|Rubber feet|4||
 
-以下はLED用の小さい部品で専用の小袋に入っています
 <table>
     <tr>
       <td>23</td>
@@ -46,92 +45,59 @@
     </tr>
     <tr>
       <td>24</td>
-      <td>抵抗R</td>
+      <td>Resistors</td>
       <td>2</td>
       <td>10kΩ</td>
     </tr>
  </table>
  
-## はんだ付け
-ベースユニットには全ての部品を表に実装します。  
-![](../img/base/IMG_4734.jpg)    
-### Raspberry Pi Picoのはんだ付け
-ピンヘッダを20ピンずつニッパーで切ります。  
+## Soldering
+### Raspberry Pi Pico
 ![](../img/base/IMG_6022.jpg)    
-メインボードに差し込み、Raspberry Pi Picoをのせてマスキングテープで固定します。  
-![](../img/base/IMG_4758.jpg)    
-左右でRaspberry Pi Picoの裏表が変わるのでGP0,VBUSの位置を確認して合わせてからはんだ付けしてください。  
+![](../img/base/IMG_4758.jpg)     
 ![](../img/base/IMG_4766.jpg)    
-表裏両面をはんだ付けします。  長い方のピンはニッパーで短くします。  
+Solder both sides of the front and back. 
 
-### L字ピンソケットのハンダ付け
-マスキングテープを使って水平になるように固定して、裏側をはんだ付けします。  
+### Angle Pin Socket
 ![](../img/base/IMG_4769.jpg)    
 
-### TRRSジャックのはんだ付け
-2台を接続するために使う部品です。  
-2箇所取り付け位置があり好きな方だけはんだ付けしても両方はんだ付けしても、使う予定がない場合は取り付けなくても問題ありません。  
+### TRRS Jacks
 ![ ](../img/base/IMG_4775.jpg)    
 
-### ジャンパーピンのはんだ付け
-ジャンパーピンを3ピンを2つ、4ピンを8つ切り出し、枠で囲われたところにはんだ付けします。  
-短い方をホールに差して長い方は表側にしてください。   
+### Jumpers
 ![](../img/base/IMG_4797.jpg)    
-マスキングテープを突き破るように固定すると垂直に付けやすいです。  
-![](../img/base/IMG_4782.jpg)    
-3箇所にジャンパーピンを6つ差し込み、どのように組み立てるかを選びます。    
-左手側、追加ユニットを付け、側面ユニットが十字キーの場合は以下のようになります。  
+Attach six jumpers and specify how they are assembled.
 ![](../img/base/IMG_6151.jpg)    
-ジャンパーピンの付け外しをする時はUSBケーブルは抜いてください。  
 
-### （オプション）LED部品のはんだ付け
-LED用小袋内のMOSFETと抵抗を取り付けます。部品が小さいのでピンセットを使いやけどをしないように注意してください。  
-![](../img/base/IMG_4817.jpg)      
-LEDには向きがあります。  丸い発光面が向こう向きになり、基板の角のマークとLEDの足の切り欠きの方向が一致するようにします。  
+### (Optional) LED
+![](../img/base/IMG_4817.jpg)        
 ![](../img/base/IMG_4827.jpg)    
-ベースユニットには3箇所取り付けます。  
-![](../img/base/IMG_4840.jpg) 
-USBケーブルを接続して発光するかどうかチェックしましょう   
+![](../img/base/IMG_4840.jpg)  
 
-ベースユニットのはんだ付けは以上です。  
+## Pillars
 
-## 支柱の取り付け
-
-### 支柱の組み立て
-支柱は8パーツ4組あります。  
 ![](../img/base/IMG_4845.jpg)    
-前準備としてなべネジ12本にワッシャーを通します。  切れ目が入っているのはスプリングワッシャーで反対側を固定する時に使います。  
+Thread the M2 washers onto 12 M2 screws.
 ![](../img/base/IMG_4848.jpg)    
-ワッシャー、スプリングワッシャーはナットがゆるむことを防止するために使っています。  無くしてしまったりした場合は使わなくても組み立てには問題ありません。  
-  
-ワッシャーを通したなべネジを支柱パーツの片側に通し、スペーサーで止めます。  
+Fasten with M2 spacers.
 ![](../img/base/IMG_4856.jpg)    
-スリットに四角ナットを斜めにして立てます。  小さいパーツは2箇所、中くらいのパーツは3箇所、大きいパーツは4箇所スリットがあります。  
+ 
+Insert the square nuts.
 ![](../img/base/IMG_4861.jpg)    
-反対側の支柱パーツをネジに通して、四角ナットをはさみこみます。  
-![](../img/base/IMG_4862.jpg)    
-ワッシャー、スプリングワッシャーの順にネジに入れ、ナットで固定します。  
+![](../img/base/IMG_4862.jpg)   
 ![](../img/base/IMG_4864.jpg)    
-最後にドライバーでネジを少し締めるとより強固になりますが力をかけすぎると割れるので気をつけてください。 
 ![](../img/base/IMG_4874.jpg)    
-4種類作り終えたところです。  
 
 
-### 支柱の取り付け
-M3なべネジ5本にワッシャーを通します。  
+Thread the M3 washers onto 5 M3 screws.
 ![](../img/base/IMG_4879.jpg)    
-表面に支柱を立てて裏面からネジ止めします。  
-ここに使っているネジはなめやすく、あとで一度外すのできつく締めすぎないでください。  
+Attach the pillars.
 ![](../img/base/IMG_4898.jpg)    
-取り付ける場所、方向は画像を参考にしてください。  
-  
-残りの部品はこの後の工程で使うので小皿に入れる等して保管してください。    
+Remaining parts.
 ![](../img/base/IMG_4910.jpg)    
 
-組み立てる予定の側面ユニットの説明に進んでください。  
-
 3. SIDE Unit
-   - [トラックボール](../leftside/3_SIDE_TRACKBALL.md)
+   - [Trackball](../leftside/3_SIDE_TRACKBALL.md)
    - [D-PAD](../leftside/3_SIDE_DPAD.md.md)
-   - [（別売）ホイール 縦/横](../leftside/3_SIDE_WHEEL.md)
-   - [（別売）ジョイスティック](../leftside/3_SIDE_JOYSTICK.md)
+   - [Wheel |(selling separately)](../leftside/3_SIDE_WHEEL.md)
+   - [Joystick (selling separately)](../leftside/3_SIDE_JOYSTICK.md)

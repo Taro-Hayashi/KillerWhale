@@ -1,12 +1,12 @@
-# Killer Whale ジョイスティック側面ユニット 右手用ビルドガイド （[左手用](../leftside/3_SIDE_JOYSTICK.md)）
+# Killer Whale ジョイスティック側面ユニット 右手用Build Manual （[左手用](../leftside/3_SIDE_JOYSTICK.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../rightside/2_BASE.md)
 3. SIDE Unit
-   - [トラックボール](../rightside/3_SIDE_TRACKBALL.md)
+   - [Trackball](../rightside/3_SIDE_TRACKBALL.md)
    - [D-PAD](../rightside/3_SIDE_DPAD.md.md)
-   - [（別売）ホイール 縦/横](../rightside/3_SIDE_WHEEL.md)
-   - （別売）ジョイスティックRIGHT Side（このページ）
+   - [Wheel (selling separately)](../rightside/3_SIDE_WHEEL.md)
+   - （別売）ジョイスティックRIGHT Side
 4. [TOP Unit](../rightside/4_TOP.md)
 5. [ADDITIONAL Unit](../rightside/5_ADD.md)
 6. [Assemble](../rightside/6_ASSEMBLE.md)
