@@ -1,13 +1,13 @@
-# Killer Whale ベースユニット 右手用ビルドガイド （[左手用](../leftside/2_BASE.md)）
+# Killer Whale BASE Unit 右手用ビルドガイド （[左手用](../leftside/2_BASE.md)）
 
-1. [スタートページ](../README_EN.md)
-2. ベースユニットの組み立て（右手用）（このページ）
-3. [側面ユニットの組み立て](../rightside/3_SIDE_TRACKBALL.md)
-4. [天面ユニットの組み立て](../rightside/4_TOP.md)
-5. [追加ユニットの組み立て](../rightside/5_ADD.md)
-6. [全体の組み立て](../rightside/6_ASSEMBLE.md)
-7. [カスタマイズ](../rightside/7_CUSTOM.md)
-8. [その他](../rightside/8_MISC.md)
+1. [First Page](../README_EN.md)
+2. BASE UnitRIGHT Side（このページ）
+3. [SIDE Unit](../rightside/3_SIDE_TRACKBALL.md)
+4. [TOP Unit](../rightside/4_TOP.md)
+5. [ADDITIONAL Unit](../rightside/5_ADD.md)
+6. [Assemble](../rightside/6_ASSEMBLE.md)
+7. [Customize](../rightside/7_CUSTOM.md)
+8. [Misc](../rightside/8_MISC.md)
 
 ## 内容品
 ![](../img/base/IMG_4724.jpg)      
@@ -129,8 +129,8 @@ M3なべネジ5本にワッシャーを通します。
 ![](../img/base/IMG_4910.jpg)    
 
 組み立てる予定の側面ユニットの説明に進んでください。  
-1. 側面ユニットの組み立て
+1. SIDE Unit
    - [トラックボール](../rightside/3_SIDE_TRACKBALL.md)
-   - [十字キー](../rightside/3_SIDE_DPAD.md.md)
+   - [D-PAD](../rightside/3_SIDE_DPAD.md.md)
    - [（別売）ホイール 縦/横](../rightside/3_SIDE_WHEEL.md)
    - [（別売）ジョイスティック](../rightside/3_SIDE_JOYSTICK.md)

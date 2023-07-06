@@ -1,13 +1,13 @@
-# Killer Whal　全体の組み立て 左手用ビルドガイド （[右手用](../rightside/6_ASSEMBLE.md)）
+# Killer Whal　ASSEMBLE 左手用ビルドガイド （[右手用](../rightside/6_ASSEMBLE.md)）
 
-1. [スタートページ](../README_EN.md)
-2. [ベースユニットの組み立て](../leftside/2_BASE.md)
-3. [側面ユニットの組み立て](../leftside/3_SIDE_TRACKBALL.md)
-4. [天面ユニットの組み立て](../leftside/4_TOP.md)
-5. [追加ユニットの組み立て](../leftside/5_ADD.md)
-6. 全体の組み立て（左手用）（このページ）
-7. [カスタマイズ](../leftside/7_CUSTOM.md)
-8. [その他](../leftside/8_MISC.md)
+1. [First Page](../README_EN.md)
+2. [BASE Unit](../leftside/2_BASE.md)
+3. [SIDE Unit](../leftside/3_SIDE_TRACKBALL.md)
+4. [TOP Unit](../leftside/4_TOP.md)
+5. [ADDITIONAL Unit](../leftside/5_ADD.md)
+6. ASSEMBLE LEFT Side（このページ）
+7. [Customize](../leftside/7_CUSTOM.md)
+8. [Misc](../leftside/8_MISC.md)
 
 
 ##　組み立て
@@ -47,4 +47,4 @@ USBを繋いで動作を確認します。LEDは天面ユニットを取り付�
 
 次のページでキーの設定をします。
 
-7. [カスタマイズ](../leftside/7_CUSTOM.md)
+7. [Customize](../leftside/7_CUSTOM.md)

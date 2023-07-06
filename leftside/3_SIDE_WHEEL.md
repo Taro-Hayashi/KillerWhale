@@ -1,17 +1,17 @@
 # Killer Whale ホイール側面ユニット 縦/横 左手用ビルドガイド （[右手用](../rightside/3_SIDE_WHEEL.md)）
 
-1. [スタートページ](../README_EN.md)
-2. [ベースユニットの組み立て](../leftside/2_BASE.md)
-3. 側面ユニットの組み立て
+1. [First Page](../README_EN.md)
+2. [BASE Unit](../leftside/2_BASE.md)
+3. SIDE Unit
    - [トラックボール](../leftside/3_SIDE_TRACKBALL.md)
-   - [十字キー](../leftside/3_SIDE_DPAD.md.md)
-   - （別売）ホイール 縦/横（左手用）（このページ）
+   - [D-PAD](../leftside/3_SIDE_DPAD.md.md)
+   - （別売）ホイール 縦/横 LEFT Side（このページ）
    - [（別売）ジョイスティック](../leftside/3_SIDE_JOYSTICK.md)
-4. [天面ユニットの組み立て](../leftside/4_TOP.md)
-5. [追加ユニットの組み立て](../leftside/5_ADD.md)
-6. [全体の組み立て](../leftside/6_ASSEMBLE.md)
-7. [カスタマイズ](../leftside/7_CUSTOM.md)
-8. [その他](../leftside/8_MISC.md)
+4. [TOP Unit](../leftside/4_TOP.md)
+5. [ADDITIONAL Unit](../leftside/5_ADD.md)
+6. [Assemble](../leftside/6_ASSEMBLE.md)
+7. [Customize](../leftside/7_CUSTOM.md)
+8. [Misc](../leftside/8_MISC.md)
 
 
 ## 内容品
@@ -142,7 +142,7 @@ USBケーブルを差し動作確認してみましょう。  LEDは天面ユニ
 
 同梱されているものと、別売のホイール付きの2種類があります。  
   
-1. [天面ユニットの組み立て](../rightside/4_TOP.md)
+1. [TOP Unit](../rightside/4_TOP.md)
    - [（別売）ホイール付き天面ユニット](../rightside/4_TOP_WHEEL.md)
 
 

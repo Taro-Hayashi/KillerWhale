@@ -1,14 +1,14 @@
 
 # Killer Whale 追加ユニット 左手用ビルドガイド （[右手用](../rightside/5_ADD.md)）
 
-1. [スタートページ](../README_EN.md)
-2. [ベースユニットの組み立て](../2_BASE.md)
-3. [側面ユニットの組み立て](../leftside/3_SIDE_TRACKBALL.md)
-4. [天面ユニットの組み立て](../leftside/4_TOP.md)
-5. 追加ユニットの組み立て（左手用）（このページ）
-6. [全体の組み立て](../leftside/6_ASSEMBLE.md)
-7. [カスタマイズ](../leftside/7_CUSTOM.md)
-8. [その他](../leftside/8_MISC.md)
+1. [First Page](../README_EN.md)
+2. [BASE Unit](../2_BASE.md)
+3. [SIDE Unit](../leftside/3_SIDE_TRACKBALL.md)
+4. [TOP Unit](../leftside/4_TOP.md)
+5. ADDITIONAL Unit LEFT Side（このページ）
+6. [Assemble](../leftside/6_ASSEMBLE.md)
+7. [Customize](../leftside/7_CUSTOM.md)
+8. [Misc](../leftside/8_MISC.md)
 
 ## 内容品
 ![ダミーキャプション ベース部品](../img/add/IMG_4929.jpg)    
@@ -87,4 +87,4 @@ M2ネジ（黒）（短）2個とM2ネジ（黒）（長）1本にワッシャ�
 
 全体の組立てに進んでください。
 
-6. [全体の組み立て](../leftside/6_ASSEMBLE.md)
+6. [Assemble](../leftside/6_ASSEMBLE.md)

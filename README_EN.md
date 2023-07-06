@@ -1,155 +1,97 @@
 # Killer Whale Build Manual First Page（[日本語](README.md)）
 
 1. First Page
-2. [ベースユニットの組み立て](rightside/2_BASE.md)
-3. [側面ユニットの組み立て](rightside/3_SIDE_TRACKBALL.md)
-4. [天面ユニットの組み立て](rightside/4_TOP.md)
-5. [追加ユニットの組み立て](rightside/5_ADD.md)
-6. [全体の組み立て](rightside/6_ASSEMBLE.md)
-7. [カスタマイズ](rightside/7_CUSTOM.md)
-8. [その他](rightside/8_MISC.md)
+2. [BASE Unit](rightside/2_BASE.md)
+3. [SIDE Unit](rightside/3_SIDE_TRACKBALL.md)
+4. [TOP Unit](rightside/4_TOP.md)
+5. [ADDITIONAL Unit](rightside/5_ADD.md)
+6. [Assemble](rightside/6_ASSEMBLE.md)
+7. [Customize](rightside/7_CUSTOM.md)
+8. [Misc](rightside/8_MISC.md)
 
-大きな袋の中にスイッチプレートと5つの袋が入っています。  
 ![](img/IMG_6281.jpg)     
 
-## キット以外に必要なもの（片手分）
-|部品名|数||
-|-|-|-|
-|[キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|26〜30|Cherry MX互換|
-|[キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|26〜30|Cherry MX互換|
-|[Raspberry Pi Pico](https://shop.yushakobo.jp/products/raspberry-pi-pico)|1||
-|[Micro USBケーブル](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)|1||
-
-![](img/IMG_4615.jpg)    
-### オプション（片手分）
+## Additional Required
 <table>
     <tr>
-      <td><a href="https://www.amazon.co.jp/gp/product/B07BDGSX5X">34mm トラックボール</a></td>
+      <td>Keyswitches</td>
+       <td>up to 30</td>
+    </tr>
+    <tr>
+      <td>Keycaps</td> 
+      <td>up to 30</td>
+    </tr>
+    <tr>
+      <td>Raspberry Pi Pico</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Micro USB cabale</td>
        <td>1</td>
-      <td>ブルー、シルバー、グリーンは動作確認済みです。</td>
     </tr>
+ </table>
+
+![](img/IMG_4615.jpg)    
+### Optional Parts
+<table>
     <tr>
-      <td><a href="https://shop.yushakobo.jp/products/oled">OLEDモジュール - ピンソケット付き</a></td> 
-      <td>1〜2</td>
-      <td>通常は1個、予備の側面ユニットにも付けるならもう1個</td>
-    </tr>
-    <tr>
-      <td><a href="https://shop.yushakobo.jp/products/sk6812mini-e-10">LED（SK6812MINI-E)</a></td>
-      <td>30〜36</td>
-      <td>通常は33個、追加ユニットなしで30個、予備の側面ユニットに3個</td>
-    </tr>
-    <tr>
-      <td><a href="https://shop.yushakobo.jp/products/trrs_cable">TRS、TRRSケーブル</a></td>
+      <td>34mm Trackball</td>
        <td>1</td>
-      <td>2台を繋げて左右分割キーボードとして使用できます。  </td>
+    </tr>
+    <tr>
+      <td>OLED Display</td> 
+      <td>1 or 2</td>
+    </tr>
+    <tr>
+      <td>SK6812MINI-E</td>
+      <td>up to 36</td>
+    </tr>
+    <tr>
+      <td>TRRS Cable</td>
+       <td>1</td>
     </tr>
  </table>
 
 ![](img/IMG_4630.jpg)    
 
-### 別売ユニット
+### Optional Units
 <table>
     <tr>
-      <td><a href="">側面ユニット ホイール 縦</a></td> 
+      <td><a href="https://tarohayashi.booth.pm/items/4877491">SIDE Unit (Vertical Wheel)</a></td> 
     </tr>
     <tr>
-      <td><a href="">側面ユニット ホイール 横</a></td>
+      <td><a href="https://tarohayashi.booth.pm/items/4877491">SIDE Unit (Horizontal Wheel)</a></td>
     </tr>
     <tr>
-      <td><a href="">側面ユニット ジョイスティック</a></td>
+      <td><a href="https://tarohayashi.booth.pm/items/4877491">SIDE Unit (Joystick)</a></td>
     </tr>
     <tr>
-      <td><a href="">ホイール付き天面ユニット</a></td>
+      <td><a href="https://tarohayashi.booth.pm/items/4877486">TOP Unit with wheel</a></td>
     </tr>
  </table>
 
-![](img/IMG_6297.jpg)      
-### そのほか対応している部品、互換品
-※ビルドガイド内での解説はありませんので必要なタイミングで使ってください。  
-<table>
-    <tr>
-      <td><a href="https://shop.yushakobo.jp/products/7532">Raspberry Pi Pico 互換品 Type-C</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://shop.yushakobo.jp/products/7497">Type-C USBケーブル</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://shop.yushakobo.jp/products/7497">Raspberry Pi Pico W</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://shop.yushakobo.jp/products/31?variant=40815840067745">コンスルー20ピン 2.5mm</a></td>
-    </tr>
-    <tr>
-      <td>ゲームボーイの十字キー</td>
-    </tr>
-    <tr>
-      <td><a href="https://akizukidenshi.com/catalog/g/gP-12718/">トグルスイッチ用ラバーフード</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://akizukidenshi.com/catalog/g/gP-05912/">トグルスイッチ用ツマミカバー</a></td>
-    </tr>
- </table>
+![](img/IMG_6297.jpg)     
 
-### 必要な工具
-<table>
-    <tr>
-      <td>はんだごて</td>
-    </tr>
-    <tr>
-      <td>はんだ</td>
-    </tr>
-    <tr>
-      <td>ピンセット</td>
-    </tr>
-    <tr>
-      <td>ニッパー</td>
-    </tr>
-    <tr>
-      <td>カッター（デザインナイフ）</td>
-    </tr>
-    <tr>
-      <td>マスキングテープ</td>
-    </tr>
-    <tr>
-      <td>やすり</td>
-    </tr>
-    <tr>
-      <td>+の精密ドライバー</td>
-    </tr>
-    <tr>
-      <td>ナットをしめるもの（ラジオペンチ、M2スパナ）</td>
-    </tr>
- </table>
-
-## 準備
-### スイッチプレートの切り離し
-スイッチプレートは繋がった状態で入っていて、切り離して使います。  
+## Preparations
+### Detach the switch plates
 ![](img/IMG_6058.jpg)    
-カッターで切れ目を入れ、折って切り離します。  
 ![](img/IMG_4649.jpg)    
-断面はやすりで綺麗にします。  
 ![](img/IMG_4681.jpg)    
-削った粉がコネクタ類やトラックボールのセンサーに入り込まないようにここで一度服を払ったり机の上の掃除をすると安心です。  
-![](img/IMG_6094.jpg)    
-それぞれのユニットのビルドガイドでスイッチプレートとして使います。  
 
-## ファームウェアを書き込む
-Raspberry Pi Picoをキーボードとして使えるようにします。  
-こちらのファイルをダウンロードしてください。    
+## Write firmware
+Download uf2 file.
 - [tarohayashi_killerwhale_solo_default.uf2
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.3.1/tarohayashi_killerwhale_solo_default.uf2)
 
-Raspberry Pi PicoのBOOTSELボタン押しながらUSBケーブルでPCと接続すると、RPI-RP2というUSBメモリとして認識されます。    
+Connect the Raspberry Pi Pico to the PC while holding down the BOOTSEL button, it will be recognized as a USB memory device called RPI-RP2.
 ![](img/IMG_4689.jpg)     
 ![](img/rpi.jpg)     
-ダウンロードしたファイルをそこにドラッグ&ドロップしてドライブが自動的に消えたら成功です。    
-書き込みが終わったら一旦USBケーブルは外します。    
+Writing the uf2 file, it will automatically reboot.
 
-### 左右を決める
-キットを左右どちらで作るか決めてベースユニットの組み立てに進んでください。  
-- [ベースユニット 左手用](leftside/2_BASE.md)
-- [ベースユニット 右手用](rightside/2_BASE.md)
+### Decide left or right side
+Decide left or right side and proceed to BASE Unit page.
+- [BASE Unit LEFT Side](leftside/2_BASE.md)
+- [BASE Unit RIGHT Side](rightside/2_BASE.md)
 
-※左右のビルドガイドの違いは写真だけですが、間違えやすいので合った側を見ることをお勧めします。
-
+The only difference between the left and right manuals is the image.
 

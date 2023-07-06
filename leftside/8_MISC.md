@@ -1,12 +1,12 @@
 # Killer Whale その他 右手用ビルドガイド （[左手用](../leftside/8_MISC.md)）
 
-1. [スタートページ](../README_EN.md)
-2. [ベースユニットの組み立て](../leftside/2_BASE.md)
-3. [側面ユニットの組み立て](../leftside/3_SIDE_TRACKBALL.md)
-4. [天面ユニットの組み立て](../leftside/4_TOP.md)
-5. [追加ユニットの組み立て](../leftside/5_ADD.md)
-6. [全体の組み立て](../leftside/6_ASSEMBLE.md)
-7. [カスタマイズ](../leftside/7_CUSTOM.md)
+1. [First Page](../README_EN.md)
+2. [BASE Unit](../leftside/2_BASE.md)
+3. [SIDE Unit](../leftside/3_SIDE_TRACKBALL.md)
+4. [TOP Unit](../leftside/4_TOP.md)
+5. [ADDITIONAL Unit](../leftside/5_ADD.md)
+6. [Assemble](../leftside/6_ASSEMBLE.md)
+7. [Customize](../leftside/7_CUSTOM.md)
 8. その他（このページ）
 ## ファームウェアまとめ（最終更新日: 2023/6/24 18:00）
 完成後にファームウェアを入れ替えたくなった場合はこちらからもダウンロード可能です。  

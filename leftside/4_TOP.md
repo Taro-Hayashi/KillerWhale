@@ -1,14 +1,14 @@
 # Killer Whal　天面ユニット 左手用ビルドガイド （[右手用](../rightside/4_TOP.md)）
 
-1. [スタートページ](../README_EN.md)
-2. [ベースユニットの組み立て](../leftside/2_BASE.md)
-3. [側面ユニットの組み立て](../leftside/3_SIDE_TRACKBALL.md)
-4. 天面ユニットの組み立て（左手用）（このページ）
-   - [（別売）ホイール付き天面ユニットの組み立て](../leftside/4_TOP_WHEEL.md)
-5. [追加ユニットの組み立て](../leftside/5_ADD.md)
-6. [全体の組み立て](../leftside/6_ASSEMBLE.md)
-7. [カスタマイズ](../leftside/7_CUSTOM.md)
-8. [その他](../leftside/8_MISC.md)
+1. [First Page](../README_EN.md)
+2. [BASE Unit](../leftside/2_BASE.md)
+3. [SIDE Unit](../leftside/3_SIDE_TRACKBALL.md)
+4. TOP Unit LEFT Side（このページ）
+   - [（別売）ホイール付きTOP Unit](../leftside/4_TOP_WHEEL.md)
+5. [ADDITIONAL Unit](../leftside/5_ADD.md)
+6. [Assemble](../leftside/6_ASSEMBLE.md)
+7. [Customize](../leftside/7_CUSTOM.md)
+8. [Misc](../leftside/8_MISC.md)
 
 ## 内容品
 ![](../img/top/IMG_5610.jpg)    
@@ -59,5 +59,5 @@ USBを繋いで動作確認をしてみてください。
 
 追加ユニットは必須ではありません。取り付ける場合は追加ユニットの説明に、取り付けない場合は全体の組立てに進んでください。  
 
-5. [追加ユニットの組み立て](../leftside/5_ADD.md)
-6. [全体の組み立て](../leftside/6_ASSEMBLE.md)
+5. [ADDITIONAL Unit](../leftside/5_ADD.md)
+6. [Assemble](../leftside/6_ASSEMBLE.md)

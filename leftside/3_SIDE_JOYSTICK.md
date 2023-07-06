@@ -1,17 +1,17 @@
 # Killer Whale ジョイスティック側面ユニット 左手用ビルドガイド （[右手用](../rightside/3_SIDE_JOYSTICK.md)）
 
-1. [スタートページ](../README_EN.md)
-2. [ベースユニットの組み立て](../leftside/2_BASE.md)
-3. 側面ユニットの組み立て
+1. [First Page](../README_EN.md)
+2. [BASE Unit](../leftside/2_BASE.md)
+3. SIDE Unit
    - [トラックボール](../leftside/3_SIDE_TRACKBALL.md)
-   - [十字キー](../leftside/3_SIDE_DPAD.md.md)
+   - [D-PAD](../leftside/3_SIDE_DPAD.md.md)
    - [（別売）ホイール 縦/横](../leftside/3_SIDE_WHEEL.md)
-   - （別売）ジョイスティック（左手用）（このページ）
-4.  [天面ユニットの組み立て](../leftside/4_TOP.md)
-5. [追加ユニットの組み立て](../leftside/5_ADD.md)
-6. [全体の組み立て](../leftside/6_ASSEMBLE.md)
-7. [カスタマイズ](../leftside/7_CUSTOM.md)
-8. [その他](../leftside/8_MISC.md)
+   - （別売）ジョイスティック LEFT Side（このページ）
+4.  [TOP Unit](../leftside/4_TOP.md)
+5. [ADDITIONAL Unit](../leftside/5_ADD.md)
+6. [Assemble](../leftside/6_ASSEMBLE.md)
+7. [Customize](../leftside/7_CUSTOM.md)
+8. [Misc](../leftside/8_MISC.md)
 ## ご注意
 左右分割キーボードとして使用する時、ジョイスティックはUSBを接続している側のみ動作します。  
 たとえば左をジョイスティック、右をトラックボールをお使いになる場合は右手トラックボール用のファームウェアを使って左手用にUSBを接続してください。
@@ -138,7 +138,7 @@ USBケーブルを差し動作確認してみましょう。  LEDは天面ユニ
 
 同梱されているものと、別売のホイール付きの2種類があります。  
   
-4. [天面ユニットの組み立て](../rightside/4_TOP.md)
+4. [TOP Unit](../rightside/4_TOP.md)
    - [（別売）ホイール付き天面ユニット](../rightside/4_TOP_WHEEL.md)
 
 

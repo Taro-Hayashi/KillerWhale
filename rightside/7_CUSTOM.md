@@ -1,13 +1,13 @@
 # Killer Whale カスタマイズ 右手用ビルドガイド （[左手用](../leftside/7_CUSTOM.md)）
 
-1. [スタートページ](../README_EN.md)
-2. [ベースユニットの組み立て](../rightside/2_BASE.md)
-3. [側面ユニットの組み立て](../rightside/3_SIDE_TRACKBALL.md)
-4. [天面ユニットの組み立て](../rightside/4_TOP.md)
-5. [追加ユニットの組み立て](../rightside/5_ADD.md)
-6. [全体の組み立て](../rightside/6_ASSEMBLE.md)
-7. カスタマイズ（このページ）
-8. [その他](../rightside/8_MISC.md)
+1. [First Page](../README_EN.md)
+2. [BASE Unit](../rightside/2_BASE.md)
+3. [SIDE Unit](../rightside/3_SIDE_TRACKBALL.md)
+4. [TOP Unit](../rightside/4_TOP.md)
+5. [ADDITIONAL Unit](../rightside/5_ADD.md)
+6. [Assemble](../rightside/6_ASSEMBLE.md)
+7. Customize
+8. [Misc](../rightside/8_MISC.md)
 ## 左右を切り替える（単体使用時）
 標準では左手用のQWERTYの配列になっていて、右手用で作るとキーマップがずれています。
 側面ユニットに一番近いキー（B、N）を押しながらピンヘッダに一番近いキー（Ctrl、Shift）を押すと右手用のYUIOPの配列に切り替えることができます。
@@ -169,4 +169,4 @@ LSFT_T(KC_Z)
 
 
 最後のページはファームウェア、JSONファイル、トラブルシューティングの簡単なまとめです。
-8. [その他](../rightside/8_MISC.md)
+8. [Misc](../rightside/8_MISC.md)
