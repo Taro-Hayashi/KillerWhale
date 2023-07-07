@@ -1,5 +1,6 @@
 # Killer Whale Build Manual First Page（[日本語](README.md)）
 
+Translation in progress. It will be finished by the time of delivery.
 1. First Page
 2. [BASE Unit](rightside/2_BASE.md)
 3. [SIDE Unit](rightside/3_SIDE_TRACKBALL.md)
