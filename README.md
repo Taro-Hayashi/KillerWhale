@@ -48,7 +48,7 @@
 ![](img/IMG_4630.jpg)    
 
 
-### 別売ユニット
+### 別売ユニット（販売開始後公開予定）
 <table>
     <tr>
       <td><a href="https://tarohayashi.booth.pm/items/4877491">側面ユニット ホイール 縦</a></td> 
