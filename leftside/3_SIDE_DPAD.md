@@ -15,7 +15,7 @@
 8. [Misc](../leftside/8_MISC.md)
 
 ## Contents
-![(../img/d-pad/IMG_5253.jpg)    
+![](../img/d-pad/IMG_5253.jpg)    
 ||types|quantities||
 |-|-|-|-|
 |1|Mainboard|1|FR4|
@@ -24,8 +24,8 @@
 |4|D-pad plate|2|Acrylic|
 |5|M2 short screws|5|6mm|
 |6|M2 long screw|1|10mm|
-|7|M2 washer|1||
-|8|M2 spring washer|1||
+|7|M2 silver washer|1||
+|8|M2 silver spring washer|1||
 |9|M2 nut|1||
 |10|M2 black screws|5|4mm|
 |11|M2 short spacers|2|5mm|
@@ -69,7 +69,7 @@ Attach M2 long spacers with M2 black screws.
    
 Insert pin socket into pin header
 ![](../img/d-pad/IMG_5296.jpg)  
-Attach M3 short spacers with M3 screws.
+Attach M3 washers with M3 screws.
 ![](../img/trackball/IMG_5169.jpg)   
 ![](../img/d-pad/IMG_5318.jpg)  
 
@@ -81,6 +81,6 @@ Attach M3 short spacers with M3 screws.
 
 ![](../img/d-pad/IMG_5322.jpg)  
  
-4. [TOP Unit](../rightside/4_TOP.md)
+1. [TOP Unit](../rightside/4_TOP.md)
    - [TOP Unit with wheel (selling separately)](../rightside/4_TOP_WHEEL.md)
 

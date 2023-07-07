@@ -14,6 +14,7 @@
 側面ユニットに一番近いキー（B、N）を押しながらピンヘッダに一番近いキー（Ctrl、Shift）を押すと右手用のYUIOPの配列に切り替えることができます。
 ![](../img/custom/lr.png)  
 - 画像のBOOTでRPI-RP2フォルダが出てファームウェアの更新をすることができます。
+- 画像のOLED切替で詳細表示/簡易表示の切り替えができます。
 - 追加ユニットのトグルスイッチでも左右を切り替えられるようになっています。
 
 ## 2台を接続する
@@ -21,11 +22,11 @@
 こちらのファームウェアをダウンロードしてください。
 
 - 左右分割 左手ボール [tarohayashi_killerwhale_duo_ballleft.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.3.1/tarohayashi_killerwhale_duo_ballleft.uf2)
+](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.4.1/tarohayashi_killerwhale_duo_ballleft.uf2)
 - 左右分割 右手ボール [tarohayashi_killerwhale_duo_ballright.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.3.1/tarohayashi_killerwhale_duo_ballright.uf2)
+](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.4.1/tarohayashi_killerwhale_duo_ballright.uf2)
 - 左右分割 両手ボール [tarohayashi_killerwhale_duo_default.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.3.1/tarohayashi_killerwhale_duo_default.uf2)
+](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.4.1/tarohayashi_killerwhale_duo_default.uf2)
 
 両手ともファームウェアを更新したらUSBケーブルを外してTRRS（TRS）ケーブルで左右を繋いでください。
 ### ※左右間のケーブルを着け外しする前には毎回USBケーブルを抜いてください
@@ -59,9 +60,9 @@
 こちらのJSONファイルをダウンロードしてください。
 
 - 単体使用向け [killer_whale_solo.json
-](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.3.1/killer_whale_solo.json)
+](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.4.1/killer_whale_solo.json)
 - 左右分割向け [killer_whale_duo.json
-](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.3/killer_whale_duo.json)
+](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.4.1/killer_whale_duo.json)
 
 
 Google Chrome（Microsoft Edge）を利用して下記webサイトにアクセスするか、VIAのアプリケーションをダウンロードして起動してください。  
@@ -78,7 +79,7 @@ CONFIGUREタブのAuthorize device+からKiller Whale SOLO\DUOを追加してく
 VIAで設定したキーマップは保存、復元することができます。ファームウェアを入れ替えると初期化されるので保存しておくと便利です。
 ![](../img/custom/save.png)  
 単体使用の時、左右切り替えなしで使うためのlayoutを用意したので、カスタマイズ元に使ってください。
-- 単体使用左手用キーマップ[solo_left.layout.json](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.4.0/solo_left.layout.json)
+- 単体使用左手用キーマップ[solo_left.layout.json](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.4.1/solo_left.layout.json)
 
 
 ### 左右の変更（単体使用時）
@@ -167,6 +168,7 @@ LSFT_T(KC_Z)
 |スクロールの反転|CUSTOM(75)|
 |押下時だけスクロールモード|CUSTOM(76)|
 |オートマウスの切り替え|CUSTOM(77)|
+|OLED表示の切り替え|CUSTOM(78)|
 
 
 

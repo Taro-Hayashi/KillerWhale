@@ -17,10 +17,10 @@
 |2|Bottom Plate|1|Acrylic|
 |3|SIDE Unit Pillar|4|Acrylic|
 |4|TOP Unit Pillar|4|Acrylic|
-|5|M2 screw|12|10mm|
-|6|M2 washers|24||
-|7|M2 spring washers|12||
-|8|M2 nuts|12||
+|5|M2 silver screw|12|10mm|
+|6|M2 silver washers|24||
+|7|M2 silver spring washers|12||
+|8|M2 silver nuts|12||
 |9|M2 spacers|12|3mm|
 |10|M2 black screws|4|8mm|
 |11|M2 black washers|8||

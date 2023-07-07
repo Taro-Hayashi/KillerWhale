@@ -6,93 +6,68 @@
    - [Trackball](../leftside/3_SIDE_TRACKBALL.md)
    - [D-PAD](../leftside/3_SIDE_DPAD.md.md)
    - [Wheel (selling separately)](../leftside/3_SIDE_WHEEL.md)
-   - （別売）ジョイスティック LEFT Side
+   - Joystick (selling separately) LEFT Side
 4.  [TOP Unit](../leftside/4_TOP.md)
 5. [ADDITIONAL Unit](../leftside/5_ADD.md)
 6. [Assemble](../leftside/6_ASSEMBLE.md)
 7. [Customize](../leftside/7_CUSTOM.md)
 8. [Misc](../leftside/8_MISC.md)
-## ご注意
-左右分割キーボードとして使用する時、ジョイスティックはUSBを接続している側のみ動作します。  
-たとえば左をジョイスティック、右をトラックボールをお使いになる場合は右手トラックボール用のファームウェアを使って左手用にUSBを接続してください。
-## 内容品
-![ダミーキャプション ベース部品](../img/joystick/IMG_5459.jpg)    
-||部品名|数||
+   
+## Contents
+![](../img/joystick/IMG_5459.jpg)    
+||Types|quantities||
 |-|-|-|-|
-|1|メインボード|1|FR4|
-|2|スイッチプレート|1|FR4|
-|3|保護プレート|2|アクリル|
-|4|M2バインドネジ|5|6mm|
-|5|M2ネジ（黒）|5|4mm|
-|6|M2スペーサー（短）|2|9mm|
-|7|M2スペーサー（長）|3|16mm|
-|8|ピンヘッダ|1||
-|9|ダイオード|5|1N4148|
-|10|ジョイスティック|1||
-|11|キャップ|1||
-|12|MXスイッチソケット|2||
+|1|Mainboard|1|FR4|
+|2|Switch plate|1|FR4|
+|3|Cover plates|2|Acrylic|
+|4|M2 silver screws|5|6mm|
+|5|M2 black screws|5|4mm|
+|6|M2 short spacers|2|9mm|
+|7|M2 long spacers|3|16mm|
+|8|Pin headers|1||
+|9|Diodes|5|1N4148|
+|10|Joystick|1||
+|11|Joystick cap|1||
+|12|MX Hoswap sockets|2||
 
 
-### キット以外に必要なもの
-|部品名|数||
-|-|-|-|
-|[キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|2|Cherry MX互換|
-|[キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|2|Cherry MX互換|
-|幅1cm以下の棒やすり||整形済みで必要ないことがあります|
+### Additional Required
+|Types|quantities|
+|-|-|
+|Keyswitches|2|
+|Keycaps|2|
 
 
-### オプション
+### Optional Parts
 <table>
     <tr>
-      <td><a href="https://shop.yushakobo.jp/products/oled">OLEDモジュール - ピンソケット付き</a></td> 
+      <td>OLED Display</a></td> 
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="https://shop.yushakobo.jp/products/sk6812mini-e-10">LED（SK6812MINI-E)</a></td>
+      <td>SK6812MINI-E</td>
       <td>3</td>
     </tr>
  </table>
- 
-## 準備
-スイッチプレートにタブがついていたらカットしてやすりがけします。
-![](../img/joystick/IMG_6090.jpg)  
 
-## はんだ付け
-側面ユニットは表裏両方に部品を実装するので気をつけてください。  
-![](../img/joystick/IMG_5464.jpg)  
-左右の記載がある方が裏面です。  
-### （オプション）LEDのはんだ付け
-LEDは3個取り付けます。すべてはんだ付けする面から見て丸い発光面が向こう向きです。  
+## Soldering
+### (Optional)LED 
 ![](../img/joystick/IMG_5469.jpg)  
-3個ともはんだ付けする面から見て丸い発光面が向こう向きです。  
-### MXスイッチソケットのはんだ付け（裏面）
-裏面にピンセットで押し付けながらハンダごてに乗せたはんだを流し込みます。  
+### MX hotswap socket
 ![](../img/joystick/IMG_5472.jpg)  
-両側をはんだしてずれなくなったらピンセットからはんだに持ち替えて追加で流し込みしましょう。  表面積が広く多めのはんだが必要です。  
-### ダイオードのはんだ付け（裏面）
-ダイオードには向きがあります。線と基板のマークの方向を合わせてください。 
-![](../img/trackball/IMG_5075.jpg) 
-5箇所に裏からダイオードを差し、マスキングテープで固定します。  
+### Diodes
 ![](../img/joystick/IMG_5478.jpg)  
-表ではんだ付けして足を切ります。  
 ![](../img/joystick/IMG_5482.jpg)  
 
 
-
-### ピンヘッダーのはんだ付け（裏面）
-40ピンヘッダーから6ピンを4本切り出し、裏面にピンヘッダーを立ててはんだ付けします。
-長い方を差し込んでください。反対にした場合は短い方と同程度まで切ってください。
+### Pin headers
 ![](../img/joystick/IMG_5493.jpg)  
 
-### （オプション）OLEDモジュールのはんだ付け（表面）
-表面にOLED用ソケットをはんだ付けします。  
+### (Optional) OLED Display
 ![](../img/joystick/IMG_5505.jpg)  
-付け外しを考えないのであれば、OLEDモジュールを直接はんだ付けしてしまうのも良いと思います。
 
-OLEDモジュールにはOLED用ピンヘッダをはんだ付けします。  
 ![](../img/trackball/IMG_5116.jpg)  
-まだ差し込まず別々に保管してください。  
-### ジョイスティックのはんだ付け（表面）
+### Joystick
 表から差し込んで裏ではんだ付けします。  
 ![](../img/joystick/IMG_5508.jpg)  
 
