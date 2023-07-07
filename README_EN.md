@@ -9,6 +9,7 @@
 7. [Customize](rightside/7_CUSTOM.md)
 8. [Misc](rightside/8_MISC.md)
 
+Translation in progress. It will be finished by the time of delivery.
 ![](img/IMG_6281.jpg)     
 
 ## Additional Required
