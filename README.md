@@ -138,7 +138,7 @@
 Raspberry Pi Picoをキーボードとして使えるようにします。  
 こちらのファイルをダウンロードしてください。    
 - [tarohayashi_killerwhale_solo_default.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.4.0/tarohayashi_killerwhale_solo_default.uf2)
+](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.4.1/tarohayashi_killerwhale_solo_default.uf2)
 
 Raspberry Pi PicoのBOOTSELボタン押しながらUSBケーブルでPCと接続すると、RPI-RP2というUSBメモリとして認識されます。    
 ![](img/IMG_4689.jpg)     
