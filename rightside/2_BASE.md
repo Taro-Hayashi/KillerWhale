@@ -76,7 +76,6 @@ Attach six jumpers and specify how they are assembled.
 
 ## Pillars
 
-### 支柱の組み立て  
 ![](../img/base/IMG_4845.jpg)    
 Thread the M2 washers onto 12 M2 screws.
 ![](../img/base/IMG_4848.jpg)    
