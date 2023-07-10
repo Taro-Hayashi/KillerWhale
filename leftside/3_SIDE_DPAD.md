@@ -1,5 +1,5 @@
 
-# Killer Whale 十字キー側面ユニット 左手用Build Manual （[右手用](../rightside/3_側面ユニット_十字キー.md)）
+# Killer Whale SIDE Unit D-Pad LEFT Side Build Manual （[RIGHT Side](../rightside/3_SIDE_DPAD.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../leftside/2_BASE.md)
@@ -33,7 +33,7 @@
 |13|Pin header|1||
 |14|Diodes|8|1N4148|
 |15|Kailh mute switches|4|
-|16|MX hotswap Socket|2||
+|16|MX hotswap sockets|2||
 
 ## Soldering
 ### (Optional)LED 
@@ -67,11 +67,12 @@ If long spacer is silver, smaller cover plate is on top; if it is yellow, larger
 Attach M2 long spacers with M2 black screws.
 ![](../img/d-pad/IMG_5315.jpg)  
    
-Insert pin socket into pin header
+Insert pin socket into pin header.
 ![](../img/d-pad/IMG_5296.jpg)  
 Attach M3 washers with M3 screws.
 ![](../img/trackball/IMG_5169.jpg)   
 ![](../img/d-pad/IMG_5318.jpg)  
+Solder pin sockets on the bottom.
 
 ![](../img/trackball/IMG_5184.jpg)   
 ![](../img/d-pad/IMG_5320.jpg)  
@@ -81,6 +82,6 @@ Attach M3 washers with M3 screws.
 
 ![](../img/d-pad/IMG_5322.jpg)  
  
-1. [TOP Unit](../rightside/4_TOP.md)
-   - [TOP Unit with wheel (selling separately)](../rightside/4_TOP_WHEEL.md)
+1. [TOP Unit](../leftside/4_TOP.md)
+   - [TOP Unit with wheel (selling separately)](../leftside/4_TOP_WHEEL.md)
 

@@ -1,4 +1,4 @@
-# Killer Whale ジョイスティック側面ユニット 左手用Build Manual （[右手用](../rightside/3_SIDE_JOYSTICK.md)）
+# Killer Whale SIDE Unit Joystick LEFT Side Build Manual （[RIGHT Side](../rightside/3_SIDE_JOYSTICK.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../leftside/2_BASE.md)
@@ -67,53 +67,34 @@
 ![](../img/joystick/IMG_5505.jpg)  
 
 ![](../img/trackball/IMG_5116.jpg)  
-### Joystick
-表から差し込んで裏ではんだ付けします。  
+### Joystick 
 ![](../img/joystick/IMG_5508.jpg)  
 
 
 
-## 仮組みとソケットのはんだ付け
-側面ユニットには上下があります。  右手用はOLED用ソケットが下側、左手用は上側です。  
-![](../img/joystick/IMG_5510.jpg)  
-### スイッチプレートの組み立て
-スイッチプレートにM2スペーサー（短）をM2ネジ（黒）で取り付けます。  
+## Assembling
+Attach M2 short spacers with M2 black screws. 
 ![](../img/joystick/IMG_5550.jpg)  
-スイッチプレートも上下があるので気をつけてください。  
-  
-スペーサーに保護プレート2種を、M2バインドネジで取り付けます。  
+Attach cover plate with M2 short screws.
 ![](../img/joystick/IMG_5553.jpg)  
-穴が空いている大きい方が上です。 
+Larger cover plate is on top.
 
-### ベースユニットへの取り付け
-側面ユニットにM2スペーサー（長）3つをM2ネジ（黒）で取り付けます。  
+Attach M2 long spacers with M2 black screws.
 ![](../img/joystick/IMG_5556.jpg)  
-下側はスペーサーが一本、上側に2本で正三角形を作るように立てます。  
   
-初めて側面ユニットを作る場合、ベースユニットで余ったピンソケットから6ピンを2つ切り出して側面ユニットのピンソケットに差し込みます。
+Insert pin socket into pin header.
 ![](../img/joystick/IMG_5559.jpg)  
-ベースユニットのM3ネジ２本にワッシャーを通します。   
+Attach M3 washers with M3 screws. 
 ![](../img/trackball/IMG_5169.jpg)    
-支柱に側面ユニットを差し込み、M3ネジで止めます。  ベースユニットの縦長のスルーホールにピンソケットの足が入るようにしてください。  
 ![](../img/joystick/IMG_5563.jpg)  
-ベースユニットの裏面でピンソケットをはんだ付けします。  多めにはんだを流して表面までしっかりはんだ付けされるようにしてください。  
+
+Solder pin sockets on the bottom.
 ![](../img/trackball/IMG_5184.jpg)  
-これで側面ユニットのはんだ付けは終わりです。  
 
-OLEDモジュールを使う場合はここでピンソケットに差し込みます。  
 ![](../img/joystick/IMG_5567.jpg)  
-
-ジョイスティックにキャップをはめて、スイッチプレートにキースイッチを取り付けてMXソケットに差し込みます。  
 ![](../img/joystick/IMG_5574.jpg)  
-保護プレートをM2バインドネジで固定したら完成です。  
-  
-USBケーブルを差し動作確認してみましょう。  LEDは天面ユニットを取り付けるまで光りません。  
-問題がなくキーやホイールが反応したら天面ユニットの組み立てに進んでください。  
-  
 
-同梱されているものと、別売のホイール付きの2種類があります。  
-  
-4. [TOP Unit](../rightside/4_TOP.md)
-   - [（別売）ホイール付き天面ユニット](../rightside/4_TOP_WHEEL.md)
+1. [TOP Unit](../leftside/4_TOP.md)
+   - [TOP Unit with wheel (selling separately)](../leftside/4_TOP_WHEEL.md)
 
 

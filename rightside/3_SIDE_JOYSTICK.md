@@ -1,4 +1,4 @@
-# Killer Whale ジョイスティック側面ユニット 右手用Build Manual （[左手用](../leftside/3_SIDE_JOYSTICK.md)）
+# Killer Whale SIDE Unit Joystick RIGHT Side Build Manual （[LEFT Side](../leftside/3_SIDE_JOYSTICK.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../rightside/2_BASE.md)
@@ -6,139 +6,96 @@
    - [Trackball](../rightside/3_SIDE_TRACKBALL.md)
    - [D-PAD](../rightside/3_SIDE_DPAD.md.md)
    - [Wheel (selling separately)](../rightside/3_SIDE_WHEEL.md)
-   - （別売）ジョイスティックRIGHT Side
+   - Joystick (selling separately) RIGHT Side
 4. [TOP Unit](../rightside/4_TOP.md)
 5. [ADDITIONAL Unit](../rightside/5_ADD.md)
 6. [Assemble](../rightside/6_ASSEMBLE.md)
 7. [Customize](../rightside/7_CUSTOM.md)
 8. [Misc](../rightside/8_MISC.md)
 
-## ご注意
-左右分割キーボードとして使用する時、ジョイスティックはUSBを接続している側のみ動作します。  
-たとえば左をジョイスティック、右をトラックボールをお使いになる場合は右手トラックボール用のファームウェアを使って左手用にUSBを接続してください。
-## 内容品 
+
+## Contents
 ![](../img/joystick/IMG_5459.jpg)    
-||部品名|数||
+||Types|quantities||
 |-|-|-|-|
-|1|メインボード|1|FR4|
-|2|スイッチプレート|1|FR4|
-|3|保護プレート|2|アクリル|
-|4|M2バインドネジ|5|6mm|
-|5|M2ネジ（黒）|5|4mm|
-|6|M2スペーサー（短）|2|9mm|
-|7|M2スペーサー（長）|3|16mm|
-|8|ピンヘッダ|1||
-|9|ダイオード|5|1N4148|
-|10|ジョイスティック|1||
-|11|キャップ|1||
-|12|MXスイッチソケット|2||
+|1|Mainboard|1|FR4|
+|2|Switch plate|1|FR4|
+|3|Cover plates|2|Acrylic|
+|4|M2 silver screws|5|6mm|
+|5|M2 black screws|5|4mm|
+|6|M2 short spacers|2|9mm|
+|7|M2 long spacers|3|16mm|
+|8|Pin headers|1||
+|9|Diodes|5|1N4148|
+|10|Joystick|1||
+|11|Joystick cap|1||
+|12|MX Hoswap sockets|2||
 
-### キット以外に必要なもの
-|部品名|数||
-|-|-|-|
-|[キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|2|Cherry MX互換|
-|[キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|2|Cherry MX互換|
-|幅1cm以下の棒やすり||整形済みで必要ないことがあります|
+### Additional Required
+|Types|quantities|
+|-|-|
+|Keyswitches|2|
+|Keycaps|2|
 
-
-### オプション
+### Optional Parts
 <table>
     <tr>
-      <td><a href="https://shop.yushakobo.jp/products/oled">OLEDモジュール - ピンソケット付き</a></td> 
+      <td>OLED Display</a></td> 
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="https://shop.yushakobo.jp/products/sk6812mini-e-10">LED（SK6812MINI-E)</a></td>
+      <td>SK6812MINI-E</td>
       <td>3</td>
     </tr>
  </table>
 
-## 準備
-スイッチプレートにタブがついていたらカットしてやすりがけします。
-![](../img/joystick/IMG_6090.jpg)  
 
-## はんだ付け
-側面ユニットは表裏両方に部品を実装するので気をつけてください。  
-![](../img/joystick/IMG_5463.jpg)  
-左右の記載がある方が裏面です。 
-### （オプション）LEDのはんだ付け
-LEDは3個取り付けます。すべてはんだ付けする面から見て丸い発光面が向こう向きです。  
+## Soldering
+### (Optional)LED  
 ![](../img/joystick/IMG_5466.jpg)  
-3個ともはんだ付けする面から見て丸い発光面が向こう向きです。  
-### MXスイッチソケットのはんだ付け（裏面）
-裏面にピンセットで押し付けながらハンダごてに乗せたはんだを流し込みます。  
+### MX hotswap socket
 ![](../img/joystick/IMG_5474.jpg)  
-両側をはんだしてずれなくなったらピンセットからはんだに持ち替えて追加で流し込みしましょう。  表面積が広く多めのはんだが必要です。  
-### ダイオードのはんだ付け（裏面）
-ダイオードには向きがあります。線と基板のマークの方向を合わせてください。 
-![](../img/trackball/IMG_5075.jpg) 
-5箇所に裏からダイオードを差し、マスキングテープで固定します。  
+### Diodes
 ![](../img/joystick/IMG_5477.jpg)  
-表ではんだ付けして足を切ります。  
 ![](../img/joystick/IMG_5481.jpg)  
 
-
-
-### ピンヘッダーのはんだ付け（裏面）
-40ピンヘッダーから6ピンを4本切り出し、裏面にピンヘッダーを立ててはんだ付けします。
-長い方を差し込んでください。反対にした場合は短い方と同程度まで切ってください。
+### Pin headers
 ![](../img/joystick/IMG_5491.jpg)  
 
-### （オプション）OLEDモジュールのはんだ付け（表面）
-表面にOLED用ソケットをはんだ付けします。  
-![](../img/joystick/IMG_5502.jpg)  
-付け外しを考えないのであれば、OLEDモジュールを直接はんだ付けしてしまうのも良いと思います。
 
-OLEDモジュールにはOLED用ピンヘッダをはんだ付けします。  
+### (Optional) OLED Display
+![](../img/joystick/IMG_5502.jpg)   
 ![](../img/trackball/IMG_5116.jpg)  
-まだ差し込まず別々に保管してください。  
-### ジョイスティックのはんだ付け（表面）
-表から差し込んで裏ではんだ付けします。  
+### Joystick 
 ![](../img/joystick/IMG_5506.jpg)  
 
 
 
-## 仮組みとソケットのはんだ付け
-側面ユニットには上下があります。  右手用はOLED用ソケットが下側、左手用は上側です。  
-![](../img/joystick/IMG_5512.jpg)  
-### スイッチプレートの組み立て
-スイッチプレートにM2スペーサー（短）をM2ネジ（黒）で取り付けます。  
+## Assembling
+Attach M2 short spacers with M2 black screws. 
 ![](../img/joystick/IMG_5515.jpg)  
-スイッチプレートも上下があるので気をつけてください。  
   
-スペーサーに保護プレート2種をM2バインドネジで取り付けます。  
+Attach cover plate with M2 short screws.
 ![](../img/joystick/IMG_5519.jpg)  
-穴が空いている大きい方が上です。
+Larger cover plate is on top.
 
-### ベースユニットへの取り付け
-側面ユニットにM2スペーサー（長）3つをM2ネジ（黒）で取り付けます。  
+
+Attach M2 long spacers with M2 black screws.
 ![](../img/joystick/IMG_5520.jpg)  
-下側はスペーサーが一本、上側に2本で正三角形を作るように立てます。  
-  
-初めて側面ユニットを作る場合、ベースユニットで余ったピンソケットから6ピンを2つ切り出して側面ユニットのピンソケットに差し込みます。
+Insert pin socket into pin header.
 ![](../img/joystick/IMG_5524.jpg)  
-ベースユニットのM3ネジ２本にワッシャーを通します。   
+Attach M3 washers with M3 screws. 
 ![](../img/trackball/IMG_5169.jpg)    
-支柱に側面ユニットを差し込み、M3ネジで止めます。  ベースユニットの縦長のスルーホールにピンソケットの足が入るようにしてください。  
 ![](../img/joystick/IMG_5531.jpg)  
-ベースユニットの裏面でピンソケットをはんだ付けします。  多めにはんだを流して表面までしっかりはんだ付けされるようにしてください。  
-![](../img/trackball/IMG_5184.jpg)  
-これで側面ユニットのはんだ付けは終わりです。  
 
-OLEDモジュールを使う場合はここでピンソケットに差し込みます。  
+Solder pin sockets on the bottom.
+![](../img/trackball/IMG_5184.jpg)  
+
 ![](../img/joystick/IMG_5541.jpg)  
 
-ジョイスティックにキャップをはめて、スイッチプレートにキースイッチを取り付けてMXソケットに差し込みます。  
 ![](../img/joystick/IMG_5549.jpg)  
-保護プレートをM2バインドネジで固定したら完成です。  
-  
-USBケーブルを差し動作確認してみましょう。  LEDは天面ユニットを取り付けるまで光りません。  
-問題がなくキーやジョイスティックが反応したら天面ユニットの組み立てに進んでください。  
-  
 
-同梱されているものと、別売のホイール付きの2種類があります。  
-  
 1. [TOP Unit](../rightside/4_TOP.md)
-   - [（別売）ホイール付き天面ユニット](../rightside/4_TOP_WHEEL.md)
+   - [TOP Unit with wheel (selling separately)](../rightside/4_TOP_WHEEL.md)
 
 

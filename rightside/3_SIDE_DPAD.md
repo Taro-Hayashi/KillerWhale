@@ -1,11 +1,11 @@
 
-# Killer Whale 十字キー側面ユニット 右手用Build Manual （[左手用](../leftside/3_SIDE_DPAD.md.md)）
+# Killer Whale SIDE Unit D-Pad RIGHT Side Build Manual （[LEFT SIDE](../leftside/3_SIDE_DPAD.md.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../rightside/2_BASE.md)
 3. SIDE Unit
    - [Trackball](../rightside/3_SIDE_TRACKBALL.md)
-   - 十字キーRIGHT Side
+   - D-Pad RIGHT Side
    - [Wheel (selling separately)](../rightside/3_SIDE_WHEEL.md)
    - [Joystick (selling separately)](../rightside/3_SIDE_JOYSTICK.md)
 4. [TOP Unit](../rightside/4_TOP.md)
@@ -15,7 +15,7 @@
 8. [Misc](../rightside/8_MISC.md)
 
 ## Contents
-![(../img/d-pad/IMG_5253.jpg)    
+![](../img/d-pad/IMG_5253.jpg)    
 ||types|quantities||
 |-|-|-|-|
 |1|Mainboard|1|FR4|
@@ -64,11 +64,12 @@ If long spacer is silver, smaller cover plate is on top; if it is yellow, larger
 
 Attach M2 long spacers with M2 black screws.
 ![](../img/d-pad/IMG_5294.jpg)  
-Insert pin socket into pin header
+Insert pin socket into pin header.
 ![](../img/d-pad/IMG_5296.jpg)  
 Attach M3 washers with M3 screws. 
 ![](../img/trackball/IMG_5169.jpg)   
 ![](../img/d-pad/IMG_6134.jpg)    
+Solder pin sockets on the bottom.
 ![](../img/trackball/IMG_5184.jpg)  
 ![](../img/d-pad/IMG_6143.jpg)  
 ![](../img/d-pad/IMG_5297.jpg)  

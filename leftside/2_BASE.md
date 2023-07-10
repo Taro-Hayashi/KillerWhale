@@ -79,7 +79,7 @@ Attach six jumpers and specify how they are assembled.
 ![](../img/base/IMG_4845.jpg)    
 Thread the M2 silver washers onto 12 M2 silver screws.
 ![](../img/base/IMG_4848.jpg)    
-Fasten with M2 silver spacers.
+Fasten with M2 spacers.
 ![](../img/base/IMG_4856.jpg)    
  
 Insert the square nuts.

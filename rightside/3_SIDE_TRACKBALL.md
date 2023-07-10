@@ -1,9 +1,9 @@
-# Killer Whale トラックボール側面ユニット 右手用Build Manual （[左手用](../leftside/3_SIDE_TRACKBALL.md)）
+# Killer Whale SIDE Unit Trackball RIGHT Side Build Manual （[LEFT Side](../leftside/3_SIDE_TRACKBALL.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../rightside/2_BASE.md)
 3. SIDE Unit
-   - トラックボールRIGHT Side
+   - Trackball RIGHT Side
    - [D-PAD](../rightside/3_SIDE_DPAD.md.md)
    - [Wheel (selling separately)](../rightside/3_SIDE_WHEEL.md)
    - [Joystick (selling separately)](../rightside/3_SIDE_JOYSTICK.md)
@@ -13,144 +13,100 @@
 7. [Customize](../rightside/7_CUSTOM.md)
 8. [Misc](../rightside/8_MISC.md)
 
-## 内容品 
+## Contents
 ![](../img/trackball/IMG_5057.jpg)    
-||部品名|数||
+||types|quantities||
 |-|-|-|-|
-|1|メインボード|1|FR4|
-|2|スイッチプレート|1|FR4|
-|3|ボールケース支柱|6|アクリル|
-|4|保護プレート|1|アクリル|
-|5|M2なべネジ|9|10mm|
-|6|M2バインドネジ|2|6mm|
-|7|M2ワッシャー|18||
-|8|M2スプリングワッシャー|9||
-|9|M2ネジ（黒）|2|4mm|
-|10|M2スペーサー（短）|6|3mm|
-|11|M2スペーサー（長）|2|7mm|
-|12|M2ナット|9|
-|13|M3なべネジ|3|10mm|
-|14|M3ワッシャー|3||
-|15|M3四角ナット|3||
-|16|ピンヘッダ|1||
-|17|ダイオード|4|1N4148|
-|18|センサーとレンズ|1|PMW3360|
-|19|コンデンサーC1,C2|2|10uF|
-|20|コンデンサーC3|1|4.7uF|
-|21|レギュレーター|1|UT7500L-18|
-|22|ベアリング|3|2x5x2.5|
-|23|MXスイッチソケット|2||
+|1|Mainboard|1|FR4|
+|2|Switch plate|1|FR4|
+|3|Ball pillars|6|アクリル|
+|4|Cover plate|1|アクリル|
+|5|M2 long screws|9|10mm|
+|6|M2 short screws|2|6mm|
+|7|M2 silver washers|18||
+|8|M2 silver spring washers|9||
+|9|M2 black screws|2|4mm|
+|10|M2 short spacers|6|3mm|
+|11|M2 long spacers|2|7mm|
+|12|M2 nuts|9|
+|13|M3 screws|3|10mm|
+|14|M3 washers|3||
+|15|M3 square nuts|3||
+|16|Pin header|1||
+|17|Diodes|4|1N4148|
+|18|Sensor & lens|1|PMW3360|
+|19|Capasitor C1,C2|2|10uF|
+|20|Capasitor C3|1|4.7uF|
+|21|Regulator|1|UT7500L-18|
+|22|Bearing|3|2x5x2.5|
+|23|MX Switch Socket|2||
 
-※コンデンサーは使う直前まで袋から出さない方が間違えにくいです。  
-
-## はんだ付け
-側面ユニットは表裏両方に部品を実装するので気をつけてください。  
-![](../img/trackball/IMG_5060.jpg)  
-左右の記載がある方が裏面です。  
-### （オプション）LEDのはんだ付け
-LEDは3個取り付けます。すべてはんだ付けする面から見て丸い発光面が向こう向きです。  
+## Soldering
+### (Optional)LED  
 ![](../img/trackball/IMG_5063.jpg)  
 
 
-
-### MXスイッチソケットのはんだ付け（裏面）
-裏面にピンセットで押し付けながらハンダごてに乗せたはんだを流し込みます。  
+### MX hotswap socket
 ![](../img/trackball/IMG_6009.jpg)  
-両側をはんだしてずれなくなったらピンセットからはんだに持ち替えて追加で流し込みしましょう。表面積が広く多めのはんだが必要です。  
 
-### ダイオードのはんだ付け（裏面）
-ダイオードには向きがあります。線と基板のマークの方向を合わせてください。 
-![](../img/trackball/IMG_5075.jpg) 
-4箇所に裏からダイオードを差し、マスキングテープで固定します。  
+
+### Diodes
 ![](../img/trackball/IMG_6012.jpg)  
-表ではんだ付けして足を切ります。  
 ![](../img/trackball/IMG_6016.jpg)  
 
-### センサー類のはんだ付け（裏面）
-念のためセンサーを保護しているテープはまだ剥がさないでください。  
-裏面で基板の丸マークとチップの丸の位置を合わせてマスキングテープで固定して、表面ではんだ付けします。  
+
+### Sensor, regulator, capasitors
+
 ![](../img/trackball/IMG_5084.jpg)  
 
-レギュレーターの足を裏面から差し、基板の印刷どおり平面が下になるように折り曲げてはんだ付けします。  
 ![](../img/trackball/IMG_5091.jpg)  
-
-コンデンサーをはんだ付けします。106と書いてあるのがC1,C2で475がC3です。  
+ 
 ![](../img/trackball/IMG_5096.jpg)  
 
-### ピンヘッダーのはんだ付け（裏面）
-40ピンヘッダーから6ピンを4本切り出し、裏面にピンヘッダーを立ててはんだ付けします。  
-長い方を差し込んでください。反対にした場合は短い方と同程度まで切ってください。
+
+### Pin headers
 ![](../img/trackball/IMG_5107.jpg)  
 
-### （オプション）OLEDモジュールのはんだ付け（表面）
-表面にOLED用ソケットをはんだ付けします。  
+### (Optional) OLED Display
 ![](../img/trackball/IMG_5109.jpg)  
-付け外しを考えないのであれば、OLEDモジュールを直接はんだ付けしてしまうのも良いと思います。
 
-OLEDモジュールにはOLED用ピンヘッダをはんだ付けします。  
 ![](../img/trackball/IMG_5116.jpg)  
-まだ差し込まず別々に保管してください。  
 
-## 仮組みとソケットのはんだ付け
-側面ユニットには上下があります。右手用はOLED用ソケットが下側、左手用は上側です。  
-![](../img/trackball/IMG_5117.jpg)  
-### スイッチプレートの組み立て
-スイッチプレートにM2スペーサー（長）をM2ネジ（黒）で取り付けます。  
+
+## Assembling  
+Attach M2 short spacers with M2 black screws.  
 ![](../img/trackball/IMG_5126.jpg)  
-スイッチプレートも上下があるので気をつけてください。  
   
-スペーサーに保護プレートを、M2バインドネジで取り付けます。  
+Attach cover plate with M2 short screws.  
 ![](../img/trackball/IMG_5127.jpg)  
-
-### トラックボールケースの組み立て
-M2なべネジ9本にワッシャーを通します。  
+Larger cover plate is on top.  
+  
+Thread the M2 silver washers onto 9 M2 silver screws.  
 ![](../img/trackball/IMG_5130.jpg)  
-ボールケース支柱3つのネジ穴2つにネジを通してM2スペーサーで止めます。  
+  Fasten with M2 spacers. 
 ![](../img/trackball/IMG_5134.jpg)  
-反対側のボールケース支柱をワッシャー、スプリングワッシャー、ナットで止めます。  
 ![](../img/trackball/IMG_5137.jpg)  
-余った3本のネジにはベアリングを通し、切れ込みに引っ掛けます。  
 ![](../img/trackball/IMG_5142.jpg)  
-ワッシャー、スプリングワッシャー、ナットで固定します。3つ作ってください。  
 ![](../img/trackball/IMG_5147.jpg)  
 
-### トラックボールケースの取り付け
-M3なべネジ3本にワッシャーを通します。  
+Thread the M3 washers onto 3 M3 screws. 
 ![](../img/trackball/IMG_5149.jpg)  
-センサーの保護フィルムをはがし、レンズを取り付けます。レンズには取り付け方向があるので無理に力をくわえないようにします。  
 ![](../img/trackball/IMG_5155.jpg)  
-ボールケース支柱を立て、スリットにM3角ナットを当てたら裏面からネジ止めします。  
-メインボードの上下に気をつけてください。  
+Attach the pillars with square nuts. 
 ![](../img/trackball/IMG_5157.jpg)  
-下側は支柱が一本、上側に2本で正三角形を作るように立てます。  
-
 ![](../img/trackball/IMG_5159.jpg)  
-3箇所を止めたらボールを入れて平らな場所に置き、スムーズに動くか確かめて問題がなければボールは外してください。   
 
-### ベースユニットへの取り付け
-初めて側面ユニットを作る場合、ベースユニットで余ったピンソケットから6ピンを2つ切り出して側面ユニットのピンソケットに差し込みます。  
+
+Insert pin socket into pin header.
 ![](../img/trackball/IMG_5167.jpg)  
-ベースユニットのM3ネジ２本にワッシャーを通します。  
+Attach M3 washers with M3 screws.  
 ![](../img/trackball/IMG_5169.jpg)  
-支柱に側面ユニットを差し込み、M3ネジで止めます。ベースユニットの縦長のスルーホールにピンソケットの足が入るようにしてください。  
 ![](../img/trackball/IMG_5177.jpg)  
-ベースユニットの裏面でピンソケットをはんだ付けします。  
+Solder pin sockets on the bottom.
 ![](../img/trackball/IMG_5180.jpg)  
-多めにはんだを流して表面までしっかりはんだ付けされるようにしてください。  
 ![](../img/trackball/IMG_5184.jpg)  
-これで側面ユニットのはんだ付けは終わりです。  
-
-
-OLEDモジュールを使う場合はここでピンソケットに差し込みます。  
 ![](../img/trackball/IMG_5190.jpg) 
-
-スイッチプレートにキースイッチを取り付けてMXソケットに差し込みます。
 ![](../img/trackball/IMG_5193.jpg) 
-
-USBケーブルを差し動作確認してみましょう。  LEDは天面ユニットを取り付けるまで光りません。  
-問題がなくキーやボールが反応したら天面ユニットの組み立てに進んでください（カーソルの速度や方向は後で調節できます）。  
   
-同梱されているものと、別売のホイール付きの2種類があります。  
-  
-4. [TOP Unit](../rightside/4_TOP.md)
-   - [（別売）ホイール付き天面ユニット](../rightside/4_TOP_WHEEL.md)
+1. [TOP Unit](../rightside/4_TOP.md)
+   - [TOP Unit with wheel (selling separately)](../rightside/4_TOP_WHEEL.md)

@@ -1,11 +1,11 @@
-# Killer Whale ホイール側面ユニット 縦/横 右手用Build Manual （[左手用](../leftside/3_SIDE_WHEEL.md)）
+# Killer Whale SIDE Unit Wheel RIGHT Side Build Manual （[LEFT Side](../leftside/3_SIDE_WHEEL.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../rightside/2_BASE.md)
 3. SIDE Unit
    - [Trackball](../rightside/3_SIDE_TRACKBALL.md)
    - [D-PAD](../rightside/3_SIDE_DPAD.md.md)
-   - （別売）ホイール 縦/横RIGHT Side
+   - Wheel (selling separately) RIGHT Side
    - [Joystick (selling separately)](../rightside/3_SIDE_JOYSTICK.md)
 4. [TOP Unit](../rightside/4_TOP.md)
 5. [ADDITIONAL Unit](../rightside/5_ADD.md)
@@ -13,137 +13,94 @@
 7. [Customize](../rightside/7_CUSTOM.md)
 8. [Misc](../rightside/8_MISC.md)
 
-## 内容品
+
+## Contents
 ![](../img/wheel/IMG_5337.jpg)    
-||部品名|数||
+Vertical and horizontal common build manuals.
+||types|quantities||
 |-|-|-|-|
-|1|メインボード|1|FR4|
-|2|スイッチプレート|1|FR4|
-|3|保護プレート|2|アクリル|
-|4|M2バインドネジ|4|6mm|
-|5|M2ネジ（黒）|5|4mm|
-|6|M2スペーサー（短1）|1|8mm|
-|6|M2スペーサー（短2）|2|9mm|
-|7|M2スペーサー（長）|2|16mm|
-|8|ピンヘッダ|1||
-|9|ダイオード|4|1N4148|
-|10|ホイールエンコーダー|1||
-|11|ホイール|1||
-|12|MXスイッチソケット|2||
+|1|Main board|1|FR4|
+|2|Switch plate|1|FR4|
+|3|Cover plates|2|Acryic|
+|4|M2 silver screw|4|6mm|
+|5|M2 black screw|5|4mm|
+|6|M2 short spacer|1|8mm|
+|6|M2 middle spacers|2|9mm|
+|7|M2 long spacers|2|16mm|
+|8|Pin header|1||
+|9|Diodes|4|1N4148|
+|10|Wheel encoder|1||
+|11|Wheel|1||
+|12|MX hotswap sockets|2||
 
 
-※メインボード、保護プレートに縦と横の違いがありますが大きく違いはありませんので適宜読み替えてください。  
+### Additional Required
+|Types|quantities|
+|-|-|
+|Keyswitches|2|
+|Keycaps|2|
 
 
 
-### キット以外に必要なもの
-|部品名|数||
-|-|-|-|
-|[キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|2|Cherry MX互換|
-|[キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|2|Cherry MX互換|
-|幅1cm以下の棒やすり||整形済みで必要ないことがあります|
 
-
-### オプション
+### Optional Parts
 <table>
     <tr>
-      <td><a href="https://shop.yushakobo.jp/products/oled">OLEDモジュール - ピンソケット付き</a></td> 
+      <td>OLED Display</a></td> 
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="https://shop.yushakobo.jp/products/sk6812mini-e-10">LED（SK6812MINI-E)</a></td>
+      <td>SK6812MINI-E</td>
       <td>3</td>
     </tr>
  </table>
  
-## 準備
-スイッチプレートにタブがついていたらカットしてやすりがけします。
-
-![](../img/joystick/IMG_6090.jpg)  
-
-## はんだ付け
-側面ユニットは表裏両方に部品を実装するので気をつけてください。  
-![](../img/wheel/IMG_5343.jpg)  
-記載がある方が裏面です。  
-### （オプション）LEDのはんだ付け
-LEDは3個取り付けます。すべてはんだ付けする面から見て丸い発光面が向こう向きです。  
+## Soldering
+### (Optional)LED 
 ![](../img/wheel/IMG_5348.jpg)  
-### MXスイッチソケットのはんだ付け（裏面）
-裏面にピンセットで押し付けながらハンダごてに乗せたはんだを流し込みます。  
+### MX hotswap socket
 ![](../img/wheel/IMG_5354.jpg)  
-両側をはんだしてずれなくなったらピンセットからはんだに持ち替えて追加で流し込みしましょう。  表面積が広く多めのはんだが必要です。  
-### ダイオードのはんだ付け（裏面）
-ダイオードには向きがあります。線と基板のマークの方向を合わせてください。 
-![](../img/trackball/IMG_5075.jpg) 
-4箇所に裏からダイオードを差し、マスキングテープで固定します。  
+### Diodes
 ![](../img/wheel/IMG_5359.jpg)  
-表ではんだ付けして足を切ります。  
 ![](../img/wheel/IMG_5366.jpg)  
 
-
-### ピンヘッダーのはんだ付け（裏面）
-40ピンヘッダーから6ピンを4本切り出し、裏面にピンヘッダーを立ててはんだ付けします。
-長い方を差し込んでください。反対にした場合は短い方と同程度まで切ってください。 
+### Pin headers
 ![](../img/wheel/IMG_5377.jpg)  
 
-### （オプション）OLEDモジュールのはんだ付け（表面）
-表面にOLED用ソケットをはんだ付けします。  
+
+### (Optional) OLED Display
 ![](../img/wheel/IMG_5382.jpg)  
 
-付け外しを考えないのであれば、OLEDモジュールを直接はんだ付けしてしまうのも良いと思います。
-
-OLEDモジュールにはO&_Y4_Y
-LED用ピンzヘッダをはんだ付けします。  
 ![](../img/trackball/IMG_5116.jpg)  
-まだ差し込まず別々に保管してください。  
-### ホイールエンコーダーのはんだ付け（表面）
-基板の四角マークに合わせてホイールを差し込みマスキングテープで垂直に固定したら、裏面をはんだ付けします。  
+
+### Wheel encoder
+Widen the plate at the hem of the encoder 
+![](../img/wheel/IMG_4976.jpg)  
 ![](../img/wheel/IMG_5387.jpg)  
-垂直が難しい場合はホイール側の穴に傾くようにしてください。
 
-## 組み立て
-側面ユニットには上下があります。  右手用はOLED用ソケットが下側、左手用は上側です。  
-![](../img/wheel/IMG_6155.jpg)  
-### スイッチプレートの組み立て
-スイッチプレートにM2スペーサー（短2）をM2ネジ（黒）で取り付けます。  M2スペーサー（短2）は長さが近いものも入っていますが長めの2本を使って同じ高さにしてください。  
+## Assembling
+Attach M2 middle spacers with M2 black screws. 
 ![](../img/wheel/IMG_5398.jpg) 
-スイッチプレートも上下があるので気をつけてください。  
-  
-スペーサーに保護プレート2種をM2バインドネジで取り付けます。  
-穴が空いている大きい方が上です。  
+Attach cover plate with M2 short screws.
 ![](../img/wheel/IMG_5403.jpg)  
-ホイール横版はメインボードのスペーサーと保護プレートのネジ穴の上下を合わせてください。  
+Larger cover plate is on top.
 
-### ベースユニットへの取り付け
-側面ユニットにM2スペーサー（短1）とM2スペーサー（長）をM2ネジ（黒）で取り付けます。  
+Attach M2 long spacers and short spacer with M2 black screws.
 ![](../img/wheel/IMG_5410.jpg)  
-真ん中がM2スペーサー（短1）です。  
   
-初めて側面ユニットを作る場合、ベースユニットで余ったピンソケットから6ピンを2つ切り出して側面ユニットのピンソケットに差し込みます。
+
+Insert pin socket into pin header.
 ![](../img/wheel/IMG_5417.jpg)  
 
-ベースユニットのM3ネジ２本にワッシャーを通します。  
+Attach M3 washers with M3 screws. 
 ![](../img/trackball/IMG_5169.jpg)   
-支柱に側面ユニットを差し込み、M3ネジで止めます。  ベースユニットの縦長のスルーホールにピンソケットの足が入るようにしてください。  
 ![](../img/wheel/IMG_5421.jpg)  
-ベースユニットの裏面でピンソケットをはんだ付けします。  多めにはんだを流して表面までしっかりはんだ付けされるようにしてください。  
+Solder pin sockets on the bottom.
 ![](../img/trackball/IMG_5184.jpg)  
-これで側面ユニットのはんだ付けは終わりです。  
-
-OLEDモジュールを使う場合はここでピンソケットに差し込みます。  
 ![](../img/wheel/IMG_5438.jpg)  
+![](../img/wheel/IMG_5448.jpg)  
 
-ホイールエンコーダーにホイールを差し込み、スイッチプレートにキースイッチを取り付けてMXソケットに差し込みます。  
-![ダミーキャプション ](../img/wheel/IMG_5448.jpg)  
-保護プレートをM2バインドネジで固定したら完成です。  
-  
-USBケーブルを差し動作確認してみましょう。  LEDは天面ユニットを取り付けるまで光りません。  
-問題がなくキーやホイールが反応したら天面ユニットの組み立てに進んでください。  
-   
-
-同梱されているものと、別売のホイール付きの2種類があります。  
-  
-4. [TOP Unit](../rightside/4_TOP.md)
-   - [（別売）ホイール付き天面ユニット](../rightside/4_TOP_WHEEL.md)
+1. [TOP Unit](../rightside/4_TOP.md)
+   - [TOP Unit with wheel (selling separately)](../rightside/4_TOP_WHEEL.md)
 
 
