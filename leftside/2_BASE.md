@@ -98,6 +98,6 @@ Remaining parts.
 
 1. SIDE Unit
    - [Trackball](../leftside/3_SIDE_TRACKBALL.md)
-   - [D-PAD](../leftside/3_SIDE_DPAD.md.md)
+   - [D-PAD](../leftside/3_SIDE_DPAD.md)
    - [Wheel |(selling separately)](../leftside/3_SIDE_WHEEL.md)
    - [Joystick (selling separately)](../leftside/3_SIDE_JOYSTICK.md)

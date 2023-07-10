@@ -4,7 +4,7 @@
 2. [BASE Unit](../leftside/2_BASE.md)
 3. SIDE Unit
    - [Trackball](../leftside/3_SIDE_TRACKBALL.md)
-   - [D-PAD](../leftside/3_SIDE_DPAD.md.md)
+   - [D-PAD](../leftside/3_SIDE_DPAD.md)
    - [Wheel (selling separately)](../leftside/3_SIDE_WHEEL.md)
    - Joystick (selling separately) LEFT Side
 4.  [TOP Unit](../leftside/4_TOP.md)

@@ -1,80 +1,73 @@
-# Killer Whale ホイール付き天面ユニット 左手用Build Manual （[右手用](../rightside/4_TOP_WHEEL.md)）
+# Killer Whale TOP Unit with Wheel LEFT Side Build Manual （[RIGHT Side](../rightside/4_TOP_WHEEL.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../leftside/2_BASE.md)
 3. [SIDE Unit](../leftside/3_SIDE_TRACKBALL.md)
 4. [TOP Unit](../leftside/4_TOP.md)
-   - （別売）ホイール付きTOP Unit LEFT Side
+   - TOP Unit with wheel (selling separately) LEFT Side
 5. [ADDITIONAL Unit](../leftside/5_ADD.md)
 6. [Assemble](../leftside/6_ASSEMBLE.md)
 7. [Customize](../leftside/7_CUSTOM.md)
 8. [Misc](../leftside/8_MISC.md)
 
-## 内容品
+## Contents
 ![](../img/wheeltop/IMG_5894.jpg)    
-||部品名|数||
+||types|quantities||
 |-|-|-|-|
-|1|メインボード|1|FR4|
-|2|スイッチプレート|1|FR4|
-|3|保護プレート|2|アクリル|
-|4|M2バインドネジ|4|6mm|
-|5|M2ネジ（黒）|6|4mm|
-|6|M2スペーサー（短）|2|8mm|
-|7|M2スペーサー（長）|4|16mm|
-|8|ピンヘッダ|1||
-|9|ダイオード|27||
-|10|ホイールエンコーダー|2||
-|11|ホイール|2||
-|12|MXスイッチソケット|21||
+|1|Main board|1|FR4|
+|2|Switch plate|1|FR4|
+|3|Cover plate|2|Acrylic|
+|4|M2 silver screws|4|6mm|
+|5|M2 black screws|6|4mm|
+|6|M2 short spacers|2|8mm|
+|7|M2 long spacers|4|16mm|
+|8|Pin header|1||
+|9|Diodes|27||
+|10|Wheel encoders|2||
+|11|Wheels|2||
+|12|MX hotswap sockets|21||
 
-## はんだ付け
-ホイール付き天面ユニットは表裏両方に部品を実装するので気をつけてください。  
-![](../img/wheeltop/IMG_5898.jpg)  
+### Additional Required
+|Types|quantities|
+|-|-|
+|Keyswitches|21|
+|Keycaps|21|
 
-### （オプション）LEDのはんだ付け（裏面）
-すべて発光面が向こう向きになります。   
+## Soldering
+### (Optional)LED 
 ![](../img/wheeltop/IMG_5907.jpg)  
 
-### ダイオードのはんだ付け（裏面）
-裏面にD1からD27までダイオードを差し、マスキングテープで固定します。  
-![](../img/wheeltop/IMG_5913.jpg)  
-表ではんだ付けして足を切ります。  
-![](../img/wheeltop/IMG_5916.jpg)  
-### MXスイッチソケットのはんだ付け（裏面）
-裏面にピンセットで押し付けながらハンダごてに乗せたはんだを流し込みます。  
-![](../img/wheeltop/IMG_6200.jpg)  
-両側をはんだしてずれなくなったらピンセットからはんだに持ち替えて追加で流し込みしましょう。  表面積が広く多めのはんだが必要です。  
 
-### ピンヘッダーのはんだ付け（裏面）
-40ピンヘッダーから7ピンを2本切り出して裏面に立ててはんだ付けします。長い方を差し込んでください。  
+### Diodes
+![](../img/wheeltop/IMG_5913.jpg)  
+![](../img/wheeltop/IMG_5916.jpg)  
+
+### MX hotswap socket
+![](../img/wheeltop/IMG_6200.jpg)  
+
+
+### Pin headers
 ![](../img/wheeltop/IMG_5938.jpg)  
 
-### ホイールエンコーダーのはんだ付け（表面）
-エンコーダーの裾のプレートを少し広げます（ショートを防ぐため）。  
+### Wheel encoder
+Widen the plate at the hem of the encoder 
 ![](../img/wheel/IMG_4976.jpg)  
-基板の四角マークに合わせてホイールを差し込みマスキングテープで垂直に固定したら、裏面をはんだ付けします。  
 ![](../img/wheeltop/IMG_5949.jpg)  
-M2ネジ（黒）でスペーサー6つを止めます。真ん中に短いスペーサーを使います。  
+Attach M2 long spacers and short spacer with M2 black screws.
 ![](../img/wheeltop/IMG_5952.jpg)  
+## Assembling
 
-## 仮組みとソケットのはんだ付け
-ベースユニットにピンソケットを取り付けていない場合、ベースユニットで余ったピンソケットから7ピンを2つ切り出して側面ユニットのピンソケットに差し込みます。  
+Insert pin socket into pin header.
 ![](../img/wheeltop/IMG_6206.jpg)  
-ベースユニットのM3ネジ4本にワッシャーを通します。  
+Thread the M3 washers onto 4 M3 screws.  
 ![](../img/top/IMG_5631.jpg)   
-支柱に天面ユニットを差し込み、M3ネジで止めます。  ベースユニットの横長のスルーホールにピンソケットの足が入るようにしてください。  
 ![](../img/wheeltop/IMG_5963.jpg)  
-ベースユニットの裏面でピンソケットをはんだ付けします。  多めにはんだを流して表面までしっかりはんだ付けされるようにしてください。  
+Solder pin sockets on the bottom.
 ![](../img/top/IMG_5641.jpg)  
-スイッチプレートの四角にキースイッチを取り付けてMXソケットに差し込みます。  
 ![](../img/wheeltop/IMG_5964.jpg)  
-全てのスイッチを取り付けました。
 ![](../img/wheeltop/IMG_5972.jpg)  
-ホイールをホイールエンコーダーに差し込み、保護プレートをバインドネジで固定します。
 ![](../img/wheeltop/IMG_5985.jpg)  
-USBを繋いで動作確認をしてみてください。
 
-追加ユニットは必須ではありません。取り付ける場合は追加ユニットの説明に、取り付けない場合は全体の組立てに進んでください。  
 
 5. [ADDITIONAL Unit](../leftside/5_ADD.md)
 6. [Assemble](../leftside/6_ASSEMBLE.md)

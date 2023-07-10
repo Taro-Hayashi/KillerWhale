@@ -76,6 +76,7 @@ Attach six jumpers and specify how they are assembled.
 
 ## Pillars
 
+### 支柱の組み立て  
 ![](../img/base/IMG_4845.jpg)    
 Thread the M2 washers onto 12 M2 screws.
 ![](../img/base/IMG_4848.jpg)    
@@ -99,6 +100,6 @@ Remaining parts.
 
 1. SIDE Unit
    - [Trackball](../rightside/3_SIDE_TRACKBALL.md)
-   - [D-PAD](../rightside/3_SIDE_DPAD.md.md)
+   - [D-PAD](../rightside/3_SIDE_DPAD.md)
    - [Wheel (selling separately)](../rightside/3_SIDE_WHEEL.md)
    - [Joystick (selling separately)](../rightside/3_SIDE_JOYSTICK.md)

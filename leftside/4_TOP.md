@@ -1,63 +1,52 @@
-# Killer Whal　天面ユニット 左手用Build Manual （[右手用](../rightside/4_TOP.md)）
+# Killer Whal　TOP Unit LEFT Side Build Manual （[RIGHT Side](../rightside/4_TOP.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../leftside/2_BASE.md)
 3. [SIDE Unit](../leftside/3_SIDE_TRACKBALL.md)
 4. TOP Unit LEFT Side
-   - [（別売）ホイール付きTOP Unit](../leftside/4_TOP_WHEEL.md)
+   - [TOP Unit with wheel (selling separately)](../leftside/4_TOP_WHEEL.md)
 5. [ADDITIONAL Unit](../leftside/5_ADD.md)
 6. [Assemble](../leftside/6_ASSEMBLE.md)
 7. [Customize](../leftside/7_CUSTOM.md)
 8. [Misc](../leftside/8_MISC.md)
 
-## 内容品
+## Contents
 ![](../img/top/IMG_5610.jpg)    
-||部品名|数||
+||types|quantities||
 |-|-|-|-|
-|1|メインボード|1|FR4|
-|2|スイッチプレート|1|FR4|
-|3|ピンヘッダ|1||
-|4|ダイオード|30||
-|5|MXスイッチソケット|24||
+|1|Main board|1|FR4|
+|2|Switch plate|1|FR4|
+|3|Pin header|1||
+|4|Diodes|30||
+|5|MX hotswap socket|24||
 
-## はんだ付け
-天面ユニットは全ての部品を裏に実装します。  
-![](../img/top/IMG_5903.jpg)  
 
-### （オプション）LEDのはんだ付け 
-すべて発光面が向こう向きになります。  
+## Soldering
+### (Optional)LED 
 ![](../img/top/IMG_5765.jpg)  
 
-### ダイオードのはんだ付け
-D1からD30までダイオードを差し、マスキングテープで固定します。  
-![](../img/top/IMG_5770.jpg)  
-表ではんだ付けして足を切ります。  
-![](../img/top/IMG_5773.jpg)  
-### MXスイッチソケットのはんだ付け
-ピンセットで押し付けながらハンダごてに乗せたはんだを流し込みます。  
-![](../img/top/IMG_5778.jpg)  
-両側をはんだしてずれなくなったらピンセットからはんだに持ち替えて追加で流し込みしましょう。  表面積が広く多めのはんだが必要です。  
 
-### ピンヘッダーのはんだ付け
-40ピンヘッダーから7ピンを2本切り出し、裏面に立ててはんだ付けします。長い方を差し込んでください。  
+### Diodes 
+![](../img/top/IMG_5770.jpg)  
+![](../img/top/IMG_5773.jpg)  
+### MX hotswap socket
+![](../img/top/IMG_5778.jpg)  
+
+
+### Pin headers
 ![](../img/top/IMG_5780.jpg)  
 
-### 仮組みとソケットのはんだ付け
-初めて天面ユニットを作る場合、ベースユニットで余ったピンソケットから7ピンを2つ切り出して側面ユニットのピンソケットに差し込みます。  
-![](../img/top/IMG_5795.jpg)  
-ベースユニットのM3ネジ4本にワッシャーを通します。  
-![](../img/top/IMG_5631.jpg)  
-支柱に天面ユニットを差し込み、M3ネジで止めます。  ベースユニットの横長のスルーホールにピンソケットの足が入るようにしてください。  
-![](../img/top/IMG_5786.jpg)  
-ベースユニットの裏面でピンソケットをはんだ付けします。  多めにはんだを流して表面までしっかりはんだ付けされるようにしてください。  
-![](../img/top/IMG_5793.jpg)  
-スイッチプレートの四角にキースイッチを取り付けてMXソケットに差し込みます。  
-![](../img/top/IMG_5798.jpg)  
-全てのスイッチを取り付けました。
-![](../img/top/IMG_5805.jpg)  
-USBを繋いで動作確認をしてみてください。
+## Assembling
 
-追加ユニットは必須ではありません。取り付ける場合は追加ユニットの説明に、取り付けない場合は全体の組立てに進んでください。  
+Insert pin socket into pin header.
+![](../img/top/IMG_5795.jpg)  
+Thread the M3 washers onto 4 M3 screws. 
+![](../img/top/IMG_5631.jpg)  
+![](../img/top/IMG_5786.jpg)  
+Solder pin sockets on the bottom.
+![](../img/top/IMG_5793.jpg)  
+![](../img/top/IMG_5798.jpg)  
+![](../img/top/IMG_5805.jpg)  
 
 5. [ADDITIONAL Unit](../leftside/5_ADD.md)
 6. [Assemble](../leftside/6_ASSEMBLE.md)

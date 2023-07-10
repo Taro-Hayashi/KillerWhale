@@ -1,5 +1,5 @@
 
-# Killer Whale SIDE Unit D-Pad RIGHT Side Build Manual （[LEFT SIDE](../leftside/3_SIDE_DPAD.md.md)）
+# Killer Whale SIDE Unit D-Pad RIGHT Side Build Manual （[LEFT SIDE](../leftside/3_SIDE_DPAD.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../rightside/2_BASE.md)

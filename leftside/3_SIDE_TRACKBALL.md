@@ -4,7 +4,7 @@
 2. [BASE Unit](../leftside/2_BASE.md)
 3. SIDE Unit
    - Trackball LEFT Side
-   - [D-PAD](../leftside/3_SIDE_DPAD.md.md)
+   - [D-PAD](../leftside/3_SIDE_DPAD.md)
    - [Wheel (selling separately)](../leftside/3_SIDE_WHEEL.md)
    - [Joystick (selling separately)](../leftside/3_SIDE_JOYSTICK.md)
 4.  [TOP Unit](../leftside/4_TOP.md)
@@ -106,5 +106,5 @@ Solder pin sockets on the bottom.
 
   
 1. [TOP Unit](../leftside/4_TOP.md)
-   - [OP Unit with wheel (selling separately)](../leftside/4_TOP_WHEEL.md)
+   - [TOP Unit with wheel (selling separately)](../leftside/4_TOP_WHEEL.md)
 

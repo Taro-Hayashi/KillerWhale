@@ -1,10 +1,10 @@
-# Killer Whale ホイール側面ユニット 縦/横 左手用Build Manual （[右手用](../rightside/3_SIDE_WHEEL.md)）
+# Killer Whale SIDE Unit Wheel LEFT Side Build Manual （[RIGHT Side](../rightside/3_SIDE_WHEEL.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../leftside/2_BASE.md)
 3. SIDE Unit
    - [Trackball](../leftside/3_SIDE_TRACKBALL.md)
-   - [D-PAD](../leftside/3_SIDE_DPAD.md.md)
+   - [D-PAD](../leftside/3_SIDE_DPAD.md)
    - Wheel (selling separately) LEFT Side
    - [Joystick (selling separately)](../leftside/3_SIDE_JOYSTICK.md)
 4. [TOP Unit](../leftside/4_TOP.md)
@@ -61,7 +61,6 @@ Vertical and horizontal common build manuals.
 ![](../img/wheel/IMG_5353.jpg)  
 ### MX hotswap socket
 ![](../img/wheel/IMG_5358.jpg)  
-両側をはんだしてずれなくなったらピンセットからはんだに持ち替えて追加で流し込みしましょう。  表面積が広く多めのはんだが必要です。  
 
 ### Diodes
 ![](../img/wheel/IMG_5362.jpg)  
