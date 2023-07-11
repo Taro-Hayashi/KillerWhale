@@ -10,7 +10,7 @@
 8. [Misc](../rightside/8_MISC.md)
 ## Toggle LEFT and RIGHT keymap, bootloader mode, oled setting
 Hold B（N）to move to utility layer.
-![](../img/custom/lr.png)  
+![](../img/custom/lr_e.jpg)  
 
 ## Firmware for split keyboard
 
@@ -27,16 +27,16 @@ Hold B（N）to move to utility layer.
 ## Mouse layer and auto mouse
 Hold S（L）or use trackball to move to mouse layer.
 
-![](../img/custom/click.jpg)  
+![](../img/custom/click_e.jpg)  
 
 ## Trackball settings
 Hold 4（7）or use trackball to move to ball setteing layer.
-![](../img/custom/mouse.jpg)  
+![](../img/custom/mouse_e.jpg)  
 
 
 ## LED settings
 Hold 5（6）or use trackball to move to RGB setteing layer.
-![](../img/custom/led.jpg)  
+![](../img/custom/rgb_e.jpg)  
 
 ## Using VIA
 Download JSON File.
