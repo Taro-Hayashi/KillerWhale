@@ -93,7 +93,8 @@ Thread the M3 washers onto 5 M3 screws.
 ![](../img/base/IMG_4879.jpg)    
 Attach the pillars.　As it will be removed later, do not tighten too tightly now.
 ![](../img/base/IMG_4898.jpg)    
-Remaining parts.
+
+Remaining parts are used in subsequent processes.
 ![](../img/base/IMG_4910.jpg)    
 
 1. SIDE Unit
