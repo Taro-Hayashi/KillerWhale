@@ -56,8 +56,7 @@ Widen the plate at the hem of the encoder
 ### Toggle switch
 ![](../img/add/IMG_4994.jpg)  
 
-## 組み立て
-### アクリルプレートの取り付け
+## Assembling
 Attach M2 black washers with M2 black screws. 
 ![](../img/add/IMG_5027.jpg)  
 
