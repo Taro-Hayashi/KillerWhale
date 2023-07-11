@@ -38,29 +38,26 @@ Hold 4（7）or use trackball to move to ball setteing layer.
 Hold 5（6）or use trackball to move to RGB setteing layer.
 ![](../img/custom/led.jpg)  
 
-## キーマップのカスタマイズ
-
-- 単体使用向け [killer_whale_solo.json
+## Using VIA
+Download JSON File.
+- SOLO [killer_whale_solo.json
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.4.1/killer_whale_solo.json)
-- 左右分割向け [killer_whale_duo.json
+- DUO [killer_whale_duo.json
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.4.1/killer_whale_duo.json)
 
 
-Google Chrome（Microsoft Edge）を利用して下記webサイトにアクセスするか、VIAのアプリケーションをダウンロードして起動してください。  
+Access VIA.
 - [Web版VIA（Google Chromeでアクセスしてください）](https://usevia.app/#/design)
 - [アプリ版VIA](https://github.com/the-via/releases/releases)
-
-DESIGNタブのLoadでダウンロードしたJSONファイルを読み込ませるとキーの変更が出来るようになります（アプリ版ではまずShow Design tabをオンにしてください）。  
+  
+Load JSON.
 ![](../img/custom/via1.png)  
-JSONファイルは一度読み込むとブラウザに保存されるので次からは接続するだけで使うことができます。  
-CONFIGUREタブのAuthorize device+からKiller Whale SOLO\DUOを追加してください。  
 
 
-### 保存と復元
-VIAで設定したキーマップは保存、復元することができます。ファームウェアを入れ替えると初期化されるので保存しておくと便利です。
+### Save and restore
+
 ![](../img/custom/save.png)  
-単体使用の時、左右切り替えなしで使うためのlayoutを用意したので、カスタマイズ元に使ってください。
-- 単体使用左手用キーマップ[solo_left.layout.json](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.4.1/solo_left.layout.json)
+- sample keymap [solo_left.layout.json](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.4.1/solo_left.layout.json)
 
 
 ### 左右の変更（単体使用時）
