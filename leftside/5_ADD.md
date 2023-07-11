@@ -10,81 +10,63 @@
 7. [Customize](../leftside/7_CUSTOM.md)
 8. [Misc](../leftside/8_MISC.md)
 
-## 内容品
-![ダミーキャプション ベース部品](../img/add/IMG_4929.jpg)    
-||部品名|数||
+## Contents
+![](../img/add/IMG_4929.jpg)    
+||types|quantities||
 |-|-|-|-|
-|1|メインボード|1|FR4|
-|2|スイッチプレート|1|FR4|
-|3|ボトムプレート|1|アクリル|
-|4|保護プレート|1|アクリル|
-|5|M2バインドネジ|2|6mm|
-|6|M2スペーサー（短）|1|8mm|
-|7|M2スペーサー（長）|2|16mm|
-|8|M2ネジ（黒）（短）|2|4mm|
-|9|M2ネジ（黒）（長）|5|8mm|
-|10|M2ワッシャー（黒）|6|
-|11|M2スプリングワッシャー（黒）|3|
-|12|M2ナット（黒）|3|
-|13|ダイオード|5||
-|14|L字ピンヘッダ|1||
-|15|ホイールエンコーダー|1||
-|16|ホイール|1||
-|17|トグルスイッチ|1||
-|18|MXスイッチソケット|2||
-|19|ゴム足|2||
+|1|Main board|1|FR4|
+|2|Switch plate|1|FR4|
+|3|Bottom plate|1|Acrylic|
+|4|Cover plate|1|Acrylic|
+|5|M2 silver screws|2|6mm|
+|6|M2 short spacer|1|8mm|
+|7|M2 long spacers|2|16mm|
+|8|M2 short black screws|2|4mm|
+|9|M2 short black screws|5|8mm|
+|10|M2 black washers|6|
+|11|M2 black spring washers|3|
+|12|M2 black nuts|3|
+|13|Diodes|5||
+|14|Angle pin header|1||
+|15|Wheel encoder|1||
+|16|Wheel|1||
+|17|Toggle switch|1||
+|18|MX Hotswap sockets|2||
+|19|Rubber feet|2||
 
-## はんだ付け
-追加ユニットは表裏両方に部品を実装するので気をつけてください。  
-![ダミーキャプション ](../img/add/IMG_6219.jpg)  
+## Soldering
+### (Optional)LED 
+![](../img/add/IMG_6224.jpg)  
 
-### （オプション）LEDのはんだ付け（裏側）
-追加ユニットには3箇所、すべて裏側にはんだ付けします。
-![ダミーキャプション ](../img/add/IMG_6224.jpg)  
-2個は丸い発光面がが向こう向き、間の一つはこちら向きになります。  
-
-### ダイオードのはんだ付け（裏側）
-裏面から差し、表ではんだ付けして足を切ります。  
+### Diodes
 ![](../img/add/IMG_4955.jpg)  
 
-### MXスイッチソケットのはんだ付け（裏側）
-ピンセットで押し付けながらハンダごてに乗せたはんだを流し込みます。  
-![](../img/add/IMG_4967.jpg)  
-両側をはんだしてずれなくなったらピンセットからはんだに持ち替えて追加で流し込みしましょう。  表面積が広く多めのはんだが必要です。  
 
-### L字ピンヘッダのはんだ付け（表側）
-マスキングテープで固定して裏側をはんだ付けします。  
+### MX hotswap socket
+![](../img/add/IMG_4967.jpg)  
+
+### Angle pin header 
 ![](../img/add/IMG_4971.jpg)  
 
-### ホイールエンコーダーのはんだ付け（表側）
-エンコーダーの裾のプレートを少し広げます（ショートを防ぐため）。  
+### Wheel encoder
+Widen the plate at the hem of the encoder 
 ![](../img/wheel/IMG_4976.jpg)  
-基板の四角マークに合わせてホイールを差し込みマスキングテープで垂直に固定したら、裏面をはんだ付けします。  
 ![](../img/add/IMG_4983.jpg)  
-左手用と右手用でエンコーダーの向きが違うので気をつけてください。  
-### トグルスイッチのはんだ付け
-表から差して裏ではんだ付けします。 
 
+### Toggle switch
 ![](../img/add/IMG_4994.jpg)  
-  
-追加ユニットのはんだ付けは以上です。  
 
 ## 組み立て
 ### アクリルプレートの取り付け
-M2ネジ（黒）（短）2個とM2ネジ（黒）（長）1本にワッシャー（黒）を通します。  
+Attach M2 black washers with M2 black screws. 
 ![](../img/add/IMG_5027.jpg)  
 
-追加ユニットの裏にボトムプレートをあててM2ネジ（黒）（長）をホイールエンコーダーの反対側のネジ穴に通します。  
+Attach bottom plate with M2 long black screw and M2 short spacer.
 ![](../img/add/IMG_5033.jpg)  
-表はM2スペーサー（短）で止めます。  
-  
-その左右にM2ネジ（黒）（短）でM2スペーサー（長）を止めます。  
+    
+Attach M2 short black screws and M2 long spacers.
 ![](../img/add/IMG_5034.jpg)  
-ホイールをホイールエンコーダーに差し込み、保護プレートを載せてM2バインドネジで固定します。  
 ![](../img/add/IMG_5037.jpg)  
-キースイッチをスイッチプレートに取り付けて、追加ユニットのMXスイッチソケットに差し込みます。  
 ![](../img/add/IMG_5041.jpg)  
-
-全体の組立てに進んでください。
 
 6. [Assemble](../leftside/6_ASSEMBLE.md)
