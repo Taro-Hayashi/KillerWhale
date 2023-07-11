@@ -1,4 +1,4 @@
-# Killer Whale その他 右手用Build Manual （[左手用](../leftside/8_MISC.md)）
+# Killer Whale Misc
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../rightside/2_BASE.md)

@@ -1,5 +1,4 @@
-# Killer Whale Customize LEFT Side Build Manual （[RIGHT Side](../leftside/7_CUSTOM.md)）
-
+# Killer Whale Customize
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../leftside/2_BASE.md)
 3. [SIDE Unit](../leftside/3_SIDE_TRACKBALL.md)
@@ -9,55 +8,37 @@
 7. Customize
 8. [Misc](../leftside/8_MISC.md)
 
-## 左右を切り替える（単体使用時）
-標準では左手用のQWERTYの配列になっていて、右手用で作るとキーマップがずれています。
-側面ユニットに一番近いキー（B、N）を押しながらピンヘッダに一番近いキー（Ctrl、Shift）を押すと右手用のYUIOPの配列に切り替えることができます。
+## Toggle LEFT and RIGHT keymap, bootloader mode, oled setting
+Hold B（N）to move to utility layer.
 ![](../img/custom/lr.png)  
-- 画像のBOOTでRPI-RP2フォルダが出てファームウェアの更新をすることができます。
-- 画像のOLED切替で詳細表示/簡易表示の切り替えができます。
-- 追加ユニットのトグルスイッチでも左右を切り替えられるようになっています。
 
-## 2台を接続する
-左手用、右手用をTRSケーブルかTRRSケーブルで繋げると左右分割キーボードとして使用できます。  
-こちらのファームウェアをダウンロードしてください。
+## Firmware for split keyboard
 
-- 左右分割 左手ボール [tarohayashi_killerwhale_duo_ballleft.uf2
+
+- Ball in LEFT Side [tarohayashi_killerwhale_duo_ballleft.uf2
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.4.1/tarohayashi_killerwhale_duo_ballleft.uf2)
-- 左右分割 右手ボール [tarohayashi_killerwhale_duo_ballright.uf2
+- Ball in RIGHT Side [tarohayashi_killerwhale_duo_ballright.uf2
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.4.1/tarohayashi_killerwhale_duo_ballright.uf2)
-- 左右分割 両手ボール [tarohayashi_killerwhale_duo_default.uf2
+- Ball in BOTH Side [tarohayashi_killerwhale_duo_default.uf2
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.4.1/tarohayashi_killerwhale_duo_default.uf2)
 
-両手ともファームウェアを更新したらUSBケーブルを外してTRRS（TRS）ケーブルで左右を繋いでください。
-### ※左右間のケーブルを着け外しする前には毎回USBケーブルを抜いてください
 ![](../img/custom/IMG_5884.jpg)  
-差し込み口は2つありますが、どの組み合わせで使用しても大丈夫です。  
 
+## Mouse layer and auto mouse
+Hold S（L）or use trackball to move to mouse layer.
 
-## マウスのボタンとオートマウスについて
-トラックボールの側面ユニットを使った場合、ボールを動かした直後はF（J）キーがマウスのクリックになり、D（K）キーが右クリックになります（オートマウス機能）。
-マウスを動かさなくてもS（L）キーを長押ししている間はFとDがクリック、右クリックに入れ替わります。
-[label](4_%E5%A4%A9%E9%9D%A2%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88.md)![](../img/custom/click.jpg)  
+![](../img/custom/click.jpg)  
 
-- 側面ユニットに一番近いキーを長押ししている間はボールを動かしてスクロールすることができます。 
-- 追加ユニットのキーにもクリックが割り当てられています。ホイールはスクロールです。
-
-オートマウス機能は以下でオンオフできます。
-## トラックボールの方向、速度を変える
-角から2番目のキー（4、7）を長押しするとトラックボールの設定を変更できます。
+## Trackball settings
+Hold 4（7）or use trackball to move to ball setteing layer.
 ![](../img/custom/mouse.jpg)  
-- 角度の変更とX軸の反転を組み合わせて好みの角度に設定してください。
-- モード変更で、ボールをスクロールに使うかカーソルに使うかを持続的に変更することができます。
-- 両手ボールの時は左右で別々の設定が保存されます。
 
 
-## LEDの設定を変える
-角のキー（5、6）を長押しすると発光の設定が出来ます。
+## LED settings
+Hold 5（6）or use trackball to move to RGB setteing layer.
 ![](../img/custom/led.jpg)  
-## キーマップのカスタマイズ
-ジョイスティクやホイールを含めて全てのキーは、VIAというWebサイト（もしくはアプリケーション）で好きなように変更することができます。使いやすいように変えて使ってください。
 
-こちらのJSONファイルをダウンロードしてください。
+## キーマップのカスタマイズ
 
 - 単体使用向け [killer_whale_solo.json
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.4.1/killer_whale_solo.json)

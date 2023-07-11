@@ -68,4 +68,4 @@ Attach M2 short black screws and M2 long spacers.
 ![](../img/add/IMG_5037.jpg)  
 ![](../img/add/IMG_5041.jpg)  
 
-1. [Assemble](../leftside/6_ASSEMBLE.md)
+6. [Assemble](../leftside/6_ASSEMBLE.md)

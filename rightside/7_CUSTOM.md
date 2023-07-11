@@ -1,4 +1,4 @@
-# Killer Whale Customize RIGHT Side Build Manual （[LEFT Side](../leftside/7_CUSTOM.md)）
+# Killer Whale Customize
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../rightside/2_BASE.md)

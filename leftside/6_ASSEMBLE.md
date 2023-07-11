@@ -1,4 +1,4 @@
-# Killer Whale Assemble LEFT Side Build Manual （[RIGHT Side](../rightside/6_ASSEMBLE.md)）
+# Killer Whale Assemble LEFT Side （[RIGHT Side](../rightside/6_ASSEMBLE.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../leftside/2_BASE.md)
