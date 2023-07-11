@@ -1,5 +1,5 @@
 
-# Killer Whale 追加ユニット 右手用Build Manual （[左手用](../leftside/5_ADD.md)）
+# Killer Whale ADDITIONAL Unit RIGHT Side Build Manual （[Left Side](../leftside/5_ADD.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../rightside/2_BASE.md)
@@ -56,8 +56,7 @@ Widen the plate at the hem of the encoder
 ### Toggle switch
 ![](../img/add/IMG_4991.jpg)  
   
-## 組み立て
-### アクリルプレートの取り付け
+## Assembling
 Attach M2 black washers with M2 black screws. 
 ![](../img/add/IMG_5027.jpg)  
 

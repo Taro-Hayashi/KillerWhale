@@ -1,5 +1,5 @@
 
-# Killer Whale 追加ユニット 左手用Build Manual （[右手用](../rightside/5_ADD.md)）
+# Killer Whale ADDITIONAL Unit LEFT Side Build Manual （[RIGHT Side](../rightside/5_ADD.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../2_BASE.md)
