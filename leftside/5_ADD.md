@@ -1,11 +1,11 @@
 
-# Killer Whale ADDITIONAL Unit LEFT Side Build Manual （[RIGHT Side](../rightside/5_ADD.md)）
+# Killer Whale ADD Unit LEFT Side Build Manual （[RIGHT Side](../rightside/5_ADD.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../2_BASE.md)
 3. [SIDE Unit](../leftside/3_SIDE_TRACKBALL.md)
 4. [TOP Unit](../leftside/4_TOP.md)
-5. ADDITIONAL Unit LEFT Side
+5. ADD Unit LEFT Side
 6. [Assemble](../leftside/6_ASSEMBLE.md)
 7. [Customize](../leftside/7_CUSTOM.md)
 8. [Misc](../leftside/8_MISC.md)
@@ -56,9 +56,8 @@ Widen the plate at the hem of the encoder
 ### Toggle switch
 ![](../img/add/IMG_4994.jpg)  
 
-## 組み立て
-### アクリルプレートの取り付け
-Attach M2 black washers with M2 black screws. 
+## Assembling
+Attach M2 black washers with 2 M2 short black screws and M2 long black screw. 
 ![](../img/add/IMG_5027.jpg)  
 
 Attach bottom plate with M2 long black screw and M2 short spacer.

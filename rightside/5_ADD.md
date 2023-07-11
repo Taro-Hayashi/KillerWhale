@@ -1,11 +1,11 @@
 
-# Killer Whale ADDITIONAL Unit RIGHT Side Build Manual （[Left Side](../leftside/5_ADD.md)）
+# Killer Whale ADD Unit RIGHT Side Build Manual （[Left Side](../leftside/5_ADD.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../rightside/2_BASE.md)
 3. [SIDE Unit](../rightside/3_SIDE_TRACKBALL.md)
 4. [TOP Unit](../rightside/4_TOP.md)
-5. ADDITIONAL UnitRIGHT Side
+5. ADD UnitRIGHT Side
 6. [Assemble](../rightside/6_ASSEMBLE.md)
 7. [Customize](../rightside/7_CUSTOM.md)
 8. [Misc](../rightside/8_MISC.md)
@@ -57,7 +57,7 @@ Widen the plate at the hem of the encoder
 ![](../img/add/IMG_4991.jpg)  
   
 ## Assembling
-Attach M2 black washers with M2 black screws. 
+Attach M2 black washers with 2 M2 short black screws and M2 long black screw. 
 ![](../img/add/IMG_5027.jpg)  
 
 Attach bottom plate with M2 long black screw and M2 short spacer.

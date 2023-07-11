@@ -5,7 +5,7 @@
 3. [SIDE Unit](../rightside/3_SIDE_TRACKBALL.md)
 4. [TOP Unit](../rightside/4_TOP.md)
    - TOP Unit with wheel (selling separately) RIGHT Side
-5. [ADDITIONAL Unit](../rightside/5_ADD.md)
+5. [ADD Unit](../rightside/5_ADD.md)
 6. [Assemble](../rightside/6_ASSEMBLE.md)
 7. [Customize](../rightside/7_CUSTOM.md)
 8. [Misc](../rightside/8_MISC.md)
@@ -71,5 +71,5 @@ Solder pin sockets on the bottom.
 ![](../img/wheeltop/IMG_5978.jpg)  
 ![](../img/wheeltop/IMG_5981.jpg)  
 
-5. [ADDITIONAL Unit](../rightside/5_ADD.md)
+5. [ADD Unit](../rightside/5_ADD.md)
 6. [Assemble](../rightside/6_ASSEMBLE.md)

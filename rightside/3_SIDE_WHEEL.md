@@ -8,7 +8,7 @@
    - Wheel (selling separately) RIGHT Side
    - [Joystick (selling separately)](../rightside/3_SIDE_JOYSTICK.md)
 4. [TOP Unit](../rightside/4_TOP.md)
-5. [ADDITIONAL Unit](../rightside/5_ADD.md)
+5. [ADD Unit](../rightside/5_ADD.md)
 6. [Assemble](../rightside/6_ASSEMBLE.md)
 7. [Customize](../rightside/7_CUSTOM.md)
 8. [Misc](../rightside/8_MISC.md)
@@ -100,7 +100,7 @@ Solder pin sockets on the bottom.
 ![](../img/wheel/IMG_5438.jpg)  
 ![](../img/wheel/IMG_5448.jpg)  
 
-1. [TOP Unit](../rightside/4_TOP.md)
+4. [TOP Unit](../rightside/4_TOP.md)
    - [TOP Unit with wheel (selling separately)](../rightside/4_TOP_WHEEL.md)
 
 

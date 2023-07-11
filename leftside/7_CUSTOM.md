@@ -1,10 +1,10 @@
-# Killer Whale カスタマイズ 右手用Build Manual （[左手用](../leftside/7_CUSTOM.md)）
+# Killer Whale Customize LEFT Side Build Manual （[RIGHT Side](../leftside/7_CUSTOM.md)）
 
 1. [First Page](../README_EN.md)
 2. [BASE Unit](../leftside/2_BASE.md)
 3. [SIDE Unit](../leftside/3_SIDE_TRACKBALL.md)
 4. [TOP Unit](../leftside/4_TOP.md)
-5. [ADDITIONAL Unit](../leftside/5_ADD.md)
+5. [ADD Unit](../leftside/5_ADD.md)
 6. [Assemble](../leftside/6_ASSEMBLE.md)
 7. Customize
 8. [Misc](../leftside/8_MISC.md)

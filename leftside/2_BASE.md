@@ -97,7 +97,7 @@ Attach the pillars.　As it will be removed later, do not tighten too tightly no
 Remaining parts are used in subsequent processes.
 ![](../img/base/IMG_4910.jpg)    
 
-1. SIDE Unit
+3. SIDE Unit
    - [Trackball](../leftside/3_SIDE_TRACKBALL.md)
    - [D-PAD](../leftside/3_SIDE_DPAD.md)
    - [Wheel (selling separately)](../leftside/3_SIDE_WHEEL.md)
