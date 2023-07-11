@@ -91,7 +91,7 @@ Insert the square nuts.
 
 Thread the M3 washers onto 5 M3 screws.
 ![](../img/base/IMG_4879.jpg)    
-Attach the pillars.　Do not tighten too tightly now.
+Attach the pillars.　Take off it later, do not tighten too tightly now.
 ![](../img/base/IMG_4898.jpg)    
 Remaining parts.
 ![](../img/base/IMG_4910.jpg)    
