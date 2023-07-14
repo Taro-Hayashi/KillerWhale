@@ -60,6 +60,7 @@
 ![](../img/trackball/IMG_5084.jpg)  
 
 ![](../img/trackball/IMG_5091.jpg)  
+![](../img/trackball/IMG_7074.jpg)  
  
 ![](../img/trackball/IMG_5096.jpg)  
 

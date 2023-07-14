@@ -36,6 +36,7 @@
 |21|Jumpers|6||
 |22|Rubber feet|4||
 
+![](../img/base/IMG_7080.jpg)    
 <table>
     <tr>
       <td>23</td>
