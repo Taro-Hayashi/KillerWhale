@@ -26,7 +26,7 @@
     <tr>
       <td><a href="https://www.amazon.co.jp/gp/product/B07BDGSX5X">34mm トラックボール</a></td>
        <td>1</td>
-      <td>ブルー、シルバー、グリーンは動作確認済みです。</td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/oled">OLEDモジュール - ピンソケット付き</a></td> 
