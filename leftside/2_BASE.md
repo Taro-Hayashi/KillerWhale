@@ -54,7 +54,7 @@
 
  If the mosfet and resistor are not included in the package, short this jumper instead and assemble it.
  
-![](../img/base/IMG_4739J.jpg)  
+![](../img/base/IMG_4734J.jpg)  
  
 ## Soldering
 ### Raspberry Pi Pico
