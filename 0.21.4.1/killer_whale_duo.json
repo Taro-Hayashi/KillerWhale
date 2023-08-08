@@ -1,6 +1,6 @@
 {
     "name": "Killer Whale DUO",
-	"vendorId": "0x884",
+	"vendorId": "0x8884",
 	"productId": "0x0899",
 	"matrix": { "rows": 14, "cols": 7 },
     "layouts": {
