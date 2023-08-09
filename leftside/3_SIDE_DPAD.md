@@ -68,7 +68,7 @@ Attach M2 long spacers with M2 black screws.
 ![](../img/d-pad/IMG_5315.jpg)  
    
 Insert pin socket into pin header.
-![](../img/d-pad/IMG_5296.jpg)  
+![](../img/d-pad/IMG_7155.jpg)  
 Attach M3 washers with M3 screws.
 ![](../img/trackball/IMG_5169.jpg)   
 ![](../img/d-pad/IMG_5318.jpg)  
