@@ -58,9 +58,9 @@
 
 ## Assembling
 Attach M2 short spacers with M2 black screws.
-![](../img/d-pad/IMG_5290.jpg)  
+![](../img/d-pad/IMG_5291.jpg)  
 Attach cover plate with M2 short screws.
-![](../img/d-pad/IMG_5292.jpg)  
+![](../img/d-pad/IMG_5313.jpg)  
 If long spacer is silver, smaller cover plate is on top; if it is yellow, larger cover plate is on top.
 ![](../img/d-pad/IMG_6245.jpg)  
 
