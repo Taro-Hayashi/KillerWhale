@@ -81,7 +81,7 @@
 ## Write firmware
 Download uf2 file.
 - [tarohayashi_killerwhale_solo_default.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.6/tarohayashi_killerwhale_solo_default.uf2)
+](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.7/tarohayashi_killerwhale_solo_default.uf2)
 
 Connect the Raspberry Pi Pico to the PC while holding down the BOOTSEL button, it will be recognized as a USB memory device called RPI-RP2.
 ![](img/IMG_4689.jpg)     

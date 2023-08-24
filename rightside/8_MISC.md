@@ -12,26 +12,26 @@
 
 ## Firmware
 - SOLO [tarohayashi_killerwhale_solo_default.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.6/tarohayashi_killerwhale_solo_default.uf2)
+](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.7/tarohayashi_killerwhale_solo_default.uf2)
 - DUO Ball in LEFT Side [tarohayashi_killerwhale_duo_ballleft.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.6/tarohayashi_killerwhale_duo_ballleft.uf2)
+](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.7/tarohayashi_killerwhale_duo_ballleft.uf2)
 - DUO Ball in RIGHT Side [tarohayashi_killerwhale_duo_ballright.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.6/tarohayashi_killerwhale_duo_ballright.uf2)
+](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.7/tarohayashi_killerwhale_duo_ballright.uf2)
 - DUO Ball in BOTH Side [tarohayashi_killerwhale_duo_default.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.6/tarohayashi_killerwhale_duo_default.uf2)
+](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.7/tarohayashi_killerwhale_duo_default.uf2)
 
 
 ## JSON for VIA
 
 - SOLO [killer_whale_solo.json
-](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.6/killer_whale_solo.json)
+](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.7/killer_whale_solo.json)
 - DUO [killer_whale_duo.json
-](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.6/killer_whale_duo.json)
+](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.7/killer_whale_duo.json)
 
 ## Sample Keymaps
-- SOLO LEFT Side [solo_left.layout.json](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.6/solo_left.layout.json)
-- SOLO RIGHT Side [solo_right.layout.json](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.6/solo_right.layout.json)
-- DUO defaulte kymap [killer_whale_duo.layout.json](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.6/killer_whale_duo.layout.json)
+- SOLO LEFT Side [solo_left.layout.json](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.7/solo_left.layout.json)
+- SOLO RIGHT Side [solo_right.layout.json](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.7/solo_right.layout.json)
+- DUO defaulte kymap [killer_whale_duo.layout.json](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.7/killer_whale_duo.layout.json)
 
 ## Firmware Codes
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/killerwhale/

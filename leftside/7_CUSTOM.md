@@ -16,11 +16,11 @@ Hold B（N）to move to utility layer.
 
 
 - Ball in LEFT Side [tarohayashi_killerwhale_duo_ballleft.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.6/tarohayashi_killerwhale_duo_ballleft.uf2)
+](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.7/tarohayashi_killerwhale_duo_ballleft.uf2)
 - Ball in RIGHT Side [tarohayashi_killerwhale_duo_ballright.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.6/tarohayashi_killerwhale_duo_ballright.uf2)
+](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.7/tarohayashi_killerwhale_duo_ballright.uf2)
 - Ball in BOTH Side [tarohayashi_killerwhale_duo_default.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.6/tarohayashi_killerwhale_duo_default.uf2)
+](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.7/tarohayashi_killerwhale_duo_default.uf2)
 
 ![](../img/custom/IMG_5884.jpg)  
 
@@ -41,9 +41,9 @@ Hold 5（6）or use trackball to move to RGB setteing layer.
 ## Using VIA
 Download JSON File.
 - SOLO [killer_whale_solo.json
-](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.6/killer_whale_solo.json)
+](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.7/killer_whale_solo.json)
 - DUO [killer_whale_duo.json
-](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.6/killer_whale_duo.json)
+](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.7/killer_whale_duo.json)
 
 
 Access VIA.
@@ -55,7 +55,7 @@ Load JSON.
 
 ### Save and restore keymap
 ![](../img/custom/load.png)  
-- sample keymap [solo_left.layout.json](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.6/solo_left.layout.json)
+- sample keymap [solo_left.layout.json](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.7/solo_left.layout.json)
 
 
 ### Change layout
