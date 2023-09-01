@@ -24,9 +24,9 @@
 ### オプション（片手分）
 <table>
     <tr>
-      <td><a href="https://www.amazon.co.jp/gp/product/B07BDGSX5X">34mm トラックボール</a></td>
+      <td>34mm トラックボール</td>
        <td>1</td>
-      <td></td>
+      <td><a href="https://shop.yushakobo.jp/products/8020">遊舎工房</a>、<a href="https://www.amazon.co.jp/gp/product/B07BDGSX5X">Amazon</a></td>
     </tr>
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/oled">OLEDモジュール - ピンソケット付き</a></td> 
