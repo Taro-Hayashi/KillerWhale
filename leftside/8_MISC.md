@@ -17,8 +17,8 @@
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.7/tarohayashi_killerwhale_duo_ballleft.uf2)
 - DUO Ball in RIGHT Side [tarohayashi_killerwhale_duo_ballright.uf2
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.7/tarohayashi_killerwhale_duo_ballright.uf2)
-- DUO Ball in BOTH Side [tarohayashi_killerwhale_duo_default.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.7/tarohayashi_killerwhale_duo_default.uf2)
+- DUO Ball in BOTH Side [tarohayashi_killerwhale_duo_doubleball.uf2
+](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.21.7/tarohayashi_killerwhale_duo_doubleball.uf2)
 
 
 ## JSON for VIA
