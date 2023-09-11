@@ -27,7 +27,7 @@
 |12|M2 black spring washers|4|
 |13|M2 black nuts|4|
 |14|M3 screws|11|10mm|
-|15|M3 washers|11||
+|15|M3 washers|11|Nylon for TOP Unit|
 |16|M3 square nuts|11||
 |17|TRRS jacks|2||
 |18|Pin headers|2||
