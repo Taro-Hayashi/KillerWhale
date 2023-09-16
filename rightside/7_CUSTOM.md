@@ -44,6 +44,7 @@ Hold 5（6） to move to RGB setteing layer.
 - Remap https://remap-keys.app
 
 ![](../img/custom/remap.png)  
+![](../img/custom/remapkey.png) 
 
 ### Save and restore keymap
 ![](../img/custom/restore.png)  
