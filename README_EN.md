@@ -78,7 +78,7 @@
 ![](img/IMG_4649.jpg)    
 ![](img/IMG_4681.jpg)    
 
-## Write firmware
+## Write Testing firmware
 Download uf2 file.
 - [tarohayashi_killerwhale_solo_default.uf2
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_solo_default.uf2)

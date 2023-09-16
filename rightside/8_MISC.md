@@ -11,8 +11,12 @@
 
 
 ## Firmware
-- SOLO [tarohayashi_killerwhale_solo_default.uf2
+- SOLO Test [tarohayashi_killerwhale_solo_default.uf2
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_solo_default.uf2)
+- SOLO [tarohayashi_killerwhale_solo_via.uf2
+](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_solo_via.uf2)
+- DUO Test [tarohayashi_killerwhale_duo_default.uf2
+](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_duo_default.uf2)
 - DUO Ball in LEFT Side [tarohayashi_killerwhale_duo_ballleft.uf2
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_duo_ballleft.uf2)
 - DUO Ball in RIGHT Side [tarohayashi_killerwhale_duo_ballright.uf2
@@ -20,18 +24,15 @@
 - DUO Ball in BOTH Side [tarohayashi_killerwhale_duo_doubleball.uf2
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_duo_doubleball.uf2)
 
-
-## JSON for VIA
-
-- SOLO [killer_whale_solo.json
-](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/killer_whale_solo.json)
-- DUO [killer_whale_duo.json
-](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/killer_whale_duo.json)
-
-## Sample Keymaps
-- SOLO LEFT Side [solo_left.layout.json](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/solo_left.layout.json)
-- SOLO RIGHT Side [solo_right.layout.json](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/solo_right.layout.json)
-- DUO defaulte kymap [killer_whale_duo.layout.json](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/killer_whale_duo.layout.json)
+RGB Layer enabled
+- SOLO [tarohayashi_killerwhale_solo_via_layer_rgb.uf2
+](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_solo_via_layer_rgb.uf2)
+- DUO Ball in LEFT Side [tarohayashi_killerwhale_duo_ballleft_layer_rgb.uf2
+](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_duo_ballleft_layer_rgb.uf2)
+- DUO Ball in RIGHT Side [tarohayashi_killerwhale_duo_ballright_layer_rgb.uf2
+](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_duo_ballright_layer_rgb.uf2)
+- DUO Ball in BOTH Side [tarohayashi_killerwhale_duo_doubleball_layer_rgb.uf2
+](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_duo_doubleball_layer_rgb.uf2)
 
 ## Firmware Codes
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/killerwhale/
