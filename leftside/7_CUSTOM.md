@@ -31,12 +31,12 @@ Hold S（L）or use trackball to move to mouse layer.
 ![](../img/custom/auto_e.png)  
 
 ## Trackball settings
-Hold 4（7）or use trackball to move to ball setteing layer.
+Hold 4（7）to move to ball setteing layer.
 ![](../img/custom/mouse_e.png)  
 
 
 ## LED settings
-Hold 5（6）or use trackball to move to RGB setteing layer.
+Hold 5（6）to move to RGB setteing layer.
 ![](../img/custom/led_e.png)  
 
 ## Using Remap
