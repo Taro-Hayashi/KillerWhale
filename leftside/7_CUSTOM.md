@@ -44,12 +44,8 @@ Hold 5（6）to move to RGB setteing layer.
 
 ![](../img/custom/remap.png)  
 
-If required JSON
-- SOLO [killer_whale_solo.json
-](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.22.2/killer_whale_solo.json)
-- DUO [killer_whale_duo.json
-](https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.22.2/killer_whale_duo.json)
 
+![](../img/custom/remapkey.png) 
 ### Save and restore keymap
 ![](../img/custom/restore.png)  
 
