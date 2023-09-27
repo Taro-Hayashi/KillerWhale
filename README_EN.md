@@ -72,6 +72,21 @@
 
 ![](img/IMG_6297.jpg)     
 
+
+
+### Optional Plates
+<table>
+    <tr>
+      <td><a href="https://shop.yushakobo.jp/products/keyboard_acrylic_plate?variant=47873651245287">LEFT Side</a></td> 
+    </tr>
+    <tr>
+      <td><a href="https://shop.yushakobo.jp/products/keyboard_acrylic_plate?variant=47873651278055">RIGHT Side</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://shop.yushakobo.jp/products/keyboard_acrylic_plate?variant=47873651310823">Pillars</a></td>
+    </tr>
+ </table>
+
 ## Preparations
 ### Detach the switch plates
 ![](img/IMG_6058.jpg)    
