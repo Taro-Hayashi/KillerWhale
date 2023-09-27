@@ -36,6 +36,9 @@ RGB Layer enabled
 ## Firmware Codes
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/killerwhale/
   
+## Acrylic and switch plates
+- https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.22.9/killer_whale_plates.zip
+  
 ## Sales
 - Yushakobo
   - Killer Whale https://shop.yushakobo.jp/en/products/7948
