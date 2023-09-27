@@ -74,7 +74,7 @@
 
 
 
-### Optional Plates
+### Optional Acrylic Plates
 <table>
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/keyboard_acrylic_plate?variant=47873651245287">LEFT Side</a></td> 
