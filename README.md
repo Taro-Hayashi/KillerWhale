@@ -51,13 +51,9 @@
 ### 色違いのアクリルプレート
 <table>
     <tr>
-      <td><a href="https://shop.yushakobo.jp/products/keyboard_acrylic_plate?variant=47873651245287">左手用</a></td> 
-    </tr>
-    <tr>
-      <td><a href="https://shop.yushakobo.jp/products/keyboard_acrylic_plate?variant=47873651278055">右手用</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://shop.yushakobo.jp/products/keyboard_acrylic_plate?variant=47873651310823">支柱</a></td>
+        <td><a href="https://shop.yushakobo.jp/products/keyboard_acrylic_plate?variant=47873651245287">左手用</a></td> 
+        <td><a href="https://shop.yushakobo.jp/products/keyboard_acrylic_plate?variant=47873651278055">右手用</a></td>
+        <td><a href="https://shop.yushakobo.jp/products/keyboard_acrylic_plate?variant=47873651310823">支柱</a></td>
     </tr>
  </table>
 
