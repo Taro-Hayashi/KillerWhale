@@ -59,7 +59,9 @@
 
 ## Soldering
 ### Raspberry Pi Pico
-![](../img/base/IMG_6022.jpg)    
+Solder Raspberry Pi Pico with pin headers.
+![](../img/base/IMG_6022.jpg)  
+Be careful because the reverse side changes from left to right.  
 ![](../img/base/IMG_4744.jpg)    
 ![](../img/base/IMG_4750.jpg)    
 Solder both sides of the front and back. 
@@ -76,14 +78,15 @@ Attach six jumpers and specify how they are assembled.
 ![](../img/base/IMG_6117.jpg)    
 
 ### (Optional) LED
-![](../img/base/IMG_4811.jpg)       
+Solder the MOSFET and resistor.
+![](../img/base/IMG_4811.jpg)  
+LED have a direction. Match the direction of silk printing and foot chipping.     
 ![](../img/base/IMG_4820.jpg)    
 ![](../img/base/IMG_6133.jpg)    
 
 
 ## Pillars
 
-### 支柱の組み立て  
 ![](../img/base/IMG_4845.jpg)    
 Thread the M2 washers onto 12 M2 screws.
 ![](../img/base/IMG_4848.jpg)    
