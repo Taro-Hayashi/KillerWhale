@@ -49,7 +49,7 @@ Disclaimer: it is possible that the screws aspect or socket colors are different
 Keep in mind that components will be placed on both sides of the unit.
 ![](../img/trackball/IMG_5061.jpg)  
 The PCB side with text is the back side. 
-### Soldering of the LED (optional)  
+### Soldering of the LEDs (optional)  
 Solder the 3 LEDs. The round LED should be facing away from the side where soldering is done.
 ![](../img/trackball/IMG_5063.jpg)  
 
@@ -82,7 +82,7 @@ Solder the capacitors. The locations C1 and C2 correspond to capacitors with 106
 
 
 ### Soldering of pin headers (back side)
-Cut out 4 sets of 6 pins from the 40 pin headers. Insert the pin headers from the back side and solder.
+Cut out four sets of 6 pins from the 40 pin headers. Insert the pin headers from the back side and solder.
 Insert the long side of the pins. In case you have done it the other way around, cut the pins to make sure that the have the same length as the short side.
 ![](../img/trackball/IMG_5107.jpg)  
 
@@ -95,7 +95,7 @@ Solder the dedicated pin headers to the OLED module.
 ![](../img/trackball/IMG_5116.jpg)  
 Keep the module aside for later and do not connect it yet.
 
-## Temporary assembly and soldering of sockets
+## Intermediate assembly and soldering of sockets
 The side unit has an orientation. Be aware that for the right side of the keyboard, the OLED socket in placed on the lower side, while for the right side of the keyboard, it is on the upper side.
 ![](../img/trackball/IMG_5121.jpg)  
 
@@ -132,17 +132,17 @@ Place one arm in the bottom side, and two in the upper side, so as to form an eq
 After securing the 3 arms, insert a ball, and from a flat location, check if the ball moves smoothly. If there is no problem, remove the ball.
 
 ### Connecting to the base unit
-If this is the first side unit that you have built, remove two sets of 6 pins from the remaining base unit pin headers, and insert them in the pin sockets of the side unit.
+If this is the first SIDE unit that you have built, remove two sets of 6 pins from the remaining BASE unit pin headers, and insert them in the pin sockets of the SIDE unit.
 ![](../img/trackball/IMG_5208.jpg)  
-From the base unit remaining items, thread M3 washers onto M3 screws.  
+From the BASE unit remaining items, thread M3 washers onto M3 screws.  
 ![](../img/trackball/IMG_5169.jpg)  
-Place the side unit on the supports and secure it with the M3 screws. Make sure that the legs of the pin socket are inside the long through holes of the base unit.
+Place the SIDE unit on the supports and secure it with the M3 screws. Make sure that the legs of the pin sockets are inside the long through-holes of the BASE unit.
 ![](../img/trackball/IMG_5213.jpg)  
-Solder the pin sockets from the back side of the base unit.
+Solder the pin sockets from the back side of the BASE unit.
 ![](../img/trackball/IMG_5218.jpg)  
-Make sure to put enough solder to reach the front side of the base unit through the holes.
+Make sure to put enough solder to reach the front side of the BASE unit through the holes.
 ![](../img/trackball/IMG_5222.jpg)  
-This is the last soldering step for the side unit.
+This is the last soldering step for the SIDE unit.
 
 In case you plan on using the OLED module, insert it in the pin socket.
 ![](../img/trackball/IMG_5227.jpg) 
@@ -150,7 +150,7 @@ In case you plan on using the OLED module, insert it in the pin socket.
 Attach MX switches to the switch plate, and insert them in the MX sockets. 
 ![](../img/trackball/IMG_5228.jpg) 
 
-Check if everything is working by connecting the unit to a computer with a USB cable. Note that the LEDs will not work until the top and additional unit are completed.
+Confirm that everything is working by connecting the unit to a computer with a USB cable. Note that the LEDs will not work until the top and additional unit are completed.
 If the keys and ball are working, proceed with the top unit assembly (trackball speed and direction can be adjusted later).
 
 There are two types of top unit: the one included in the package, and a top unit with wheels sold separately.
