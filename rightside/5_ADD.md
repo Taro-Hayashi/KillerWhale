@@ -59,14 +59,14 @@ Keep the pin header in place with masking tape and solder from the back side of 
 ![](../img/add/IMG_7182.jpg)  
 
 ### Soldering of the wheel encoder (front side)
-Widen the space between teeth of the wheel encoder (to avoid any short circuit). 
+Slightly bend the plate at the base of the wheel encoder (to avoid any short circuit). 
 ![](../img/wheel/IMG_4976.jpg)  
 Insert the wheel encoder at the location with a square mark on the PCB, secure with masking tape, and solder from the back side of the PCB.
 ![](../img/add/IMG_4981.jpg)  
 Note that the orientation of the encoder is different for the LEFT and RIGHT units.
 
 ### Soldering of the toggle switch (front side)
-Insert from the from side of the PCB and solder from the back side.
+Insert from the from the front side of the PCB and solder from the back side.
 ![](../img/add/IMG_4991.jpg)  
 
 This is the last soldering step for the ADD unit.
@@ -78,7 +78,8 @@ Thread the M2 black washers onto 2 black M2 screws and 1 long black M2 screw.
 
 Place the bottom place on the back side of the ADD unit, and thread the long black M2 screw through the hole on the other side of the wheel encoder.
 ![](../img/add/IMG_5005.jpg)  
-Secure the short black screws with long M2 spacers on both sides of the long black screw.
+Secure the long black screw with the short M2 spacer.
+Then secure the short black screwas on both sides with long spacers.
 ![](../img/add/IMG_5010.jpg)  
 Insert the wheel in the encoder, place the protective acrylic plate and secure it with M2 screws. 
 ![](../img/add/IMG_5014.jpg)  
