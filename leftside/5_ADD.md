@@ -38,6 +38,8 @@ Disclaimer: it is possible that the screws aspect or socket colors are different
 
 ## Soldering
 Keep in mind that components will be placed on both sides of the ADD unit.
+![](../img/add/IMG_6219.jpg)  
+
 
 ### Soldering of the LEDs (optional, back side)  
 On the ADD unit, LEDs are soldered from the back side of the PCB, at 3 different locations.
@@ -58,7 +60,7 @@ Because of the relatively large surface, a lot of solder material is needed.
 
 ### Soldering of the angle pin header (front side)
 Keep the pin header in place with masking tape and solder from the back side of the PCB.
-![](../img/add/IMG_4971.jpg)  
+![](../img/add/IMG_7185.jpg)  
 
 ### Soldering of the wheel encoder (front side)
 Slightly bend the plate at the base of the wheel encoder (to avoid any short circuit). 
@@ -84,7 +86,7 @@ Secure the long black screw with the short M2 spacer.
 Then secure the short black screwas on both sides with long spacers.
 
 
-![](../img/add/IMG_5034.jpg)
+![](../img/add/IMG_5034.jpg)  
 Insert the wheel in the encoder, place the protective acrylic plate and secure it with M2 screws. 
 ![](../img/add/IMG_5037.jpg)  
 Attach the switches to the switch plate, and insert the assembly into the MX sockets.
