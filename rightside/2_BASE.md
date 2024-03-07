@@ -88,14 +88,13 @@ From the pin headers, cut out two sets of 3 pins, and 8 sets of 4 pins. Solder t
 ![](../img/base/IMG_4792.jpg)     
 The operation is easier to perform by placing masking tape through the pins and secure them.
 ![](../img/base/IMG_4781.jpg)    
-
-Select 6 pins from 3 locations by inserting jumpers, according to your planned configuration.
+Insert 6 jumpers at 3 locations according to your planned configuration.
 For the LEFT BASE unit, in case you plan to have the ADD unit and a keypad based SIDE unit, the jumper placement should be the same as the picture below.
 ![](../img/base/IMG_6117.jpg)    
 Please make sure to disconnect the USB cable when you change the configuration/jumpers.
 
 ### Soldering of the LEDs (optional)
-Take out the MOSFET and resistors out of the small plastic bag for LEDs. Since the components are very small, manipulate them with tweezers during soldering in order to avoid getting burned.
+Take out the MOSFET and resistors for the LEDs out of their containers. Since the components are very small, manipulate them with tweezers during soldering in order to avoid getting burned.
 ![](../img/base/IMG_4811.jpg)  
 If you have difficulties soldering such small components, you can short the jumper as in the picture below, in which case you will be able to use LEDs without soldering the MOSFET and resistors. 
 ![](../img/base/IMG_4734J.jpg)    
