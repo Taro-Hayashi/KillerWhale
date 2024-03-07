@@ -18,11 +18,11 @@
 |2|Switch plate|1|FR4|
 |3|Bottom plate|1|Acrylic|
 |4|Cover plate|1|Acrylic|
-|5|M2 silver screws|2|6mm|
+|5|M2 middle screws|2|6mm|
 |6|M2 short spacer|1|8mm|
 |7|M2 long spacers|2|16mm|
-|8|M2 short black screws|2|4mm|
-|9|M2 short black screws|5|8mm|
+|8|M2 short screws|2|4mm|
+|9|M2 short screws|5|8mm|
 |10|M2 black washers|6|
 |11|M2 black spring washers|3|
 |12|M2 black nuts|3|
