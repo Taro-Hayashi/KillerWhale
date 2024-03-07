@@ -57,12 +57,12 @@ Widen the plate at the hem of the encoder
 ![](../img/add/IMG_4991.jpg)  
   
 ## Assembling
-Attach M2 black washers with 2 M2 short black screws and M2 long black screw. 
+Attach M2 black washers with 2 M2 short screws and M2 long screw. 
 ![](../img/add/IMG_5027.jpg)  
 
-Attach bottom plate with M2 long black screw and M2 short spacer.
+Attach bottom plate with M2 long screw and M2 short spacer.
 ![](../img/add/IMG_5005.jpg)  
-Attach M2 short black screws and M2 long spacers.
+Attach M2 short screws and M2 long spacers.
 ![](../img/add/IMG_5010.jpg)  
 ![](../img/add/IMG_5014.jpg)  
 ![](../img/add/IMG_5016.jpg)  
