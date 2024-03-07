@@ -22,7 +22,7 @@
 |6|M2 short spacer|1|8mm|
 |7|M2 long spacers|2|16mm|
 |8|M2 short screws|2|4mm|
-|9|M2 short screws|5|8mm|
+|9|M2 long screws|5|8mm|
 |10|M2 black washers|6|
 |11|M2 black spring washers|3|
 |12|M2 black nuts|3|
