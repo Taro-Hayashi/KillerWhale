@@ -1,17 +1,17 @@
 # Killer Whale BASE Unit RIGHT Side Build Manual （[LEFT Side](../leftside/2_BASE.md)）
 
-1. [First Page](../README_EN.md)
+1. [Start Page](../README_EN.md)
 2. BASE Unit RIGHT Side
 3. [SIDE Unit](../rightside/3_SIDE_TRACKBALL.md)
 4. [TOP Unit](../rightside/4_TOP.md)
 5. [ADDITIONAL Unit](../rightside/5_ADD.md)
-6. [Assemble](../rightside/6_ASSEMBLE.md)
-7. [Customize](../rightside/7_CUSTOM.md)
+6. [Assembly](../rightside/6_ASSEMBLE.md)
+7. [Customizations](../rightside/7_CUSTOM.md)
 8. [Misc](../rightside/8_MISC.md)
 
 ## Contents
 ![](../img/base/IMG_4724.jpg)      
-||部品名|数||
+||Types |Quantities||
 |-|-|-|-|
 |1|Main Board|1|FR4|
 |2|Bottom Plate|1|Acrylic|
@@ -36,7 +36,10 @@
 |21|Jumpers|6||
 |22|Rubber feet|4||
 
-![](../img/base/IMG_7080.jpg)    
+
+Disclaimer: it is possible that the screws aspect is different from the pictures from the build guide.
+
+The following small components are only needed in case you plan on using LEDs.
 
 <table>
     <tr>
@@ -53,63 +56,93 @@
     </tr>
  </table>
 
-  If the mosfet and resistor are not included in the package, short this jumper instead and assemble it.
- 
-![](../img/base/IMG_4739J.jpg)  
+![](../img/base/IMG_7080.jpg)    
+
 
 ## Soldering
+The components of the BASE unit are all placed on the front side.
+![](../img/base/IMG_4739.jpg)    
+
 ### Raspberry Pi Pico
-Solder Raspberry Pi Pico with pin headers.
+Separate the pin header into sets of 20 pins with a nipper. 
 ![](../img/base/IMG_6022.jpg)  
-Be careful because the reverse side changes from left to right.  
+Insert the pins in the holes in the PCB, place the Raspberry Pi Pico and secure it with masking tape.
 ![](../img/base/IMG_4744.jpg)    
+Be careful to place the Raspberry Pi Pico on the correct side - you can confirm this by checking the position of GP0 and VBUS. Once this is done, proceed with soldering.
+
 ![](../img/base/IMG_4750.jpg)    
 Solder both sides of the front and back. 
+Solder from the front and back side. Cut the long side of the pins with a nipper.
 
-### Angle Pin Socket
+### Soldering of Angle Pin Socket
+Secure the socket with masking tape, then solder from the back side 
 ![](../img/base/IMG_4767.jpg)    
 
-### TRRS Jacks
+### Soldering of TRRS Jacks
+They are necessary to connect two units.
+THere are two locations on the BASE unit, you can solder both connector or just the position you prefer, or no connector if you plan to use a signle unit only.
 ![ ](../img/base/IMG_4770.jpg)    
 
 ### Jumpers
+From the pin headers, cut out two sets of 3 pins, and 8 sets of 4 pins. Solder them in the area deliminated by frames. Insert the short side in holes so that the long side is stick out from the front side of the PCB.
 ![](../img/base/IMG_4792.jpg)     
-Attach six jumpers and specify how they are assembled.
+The operation is easier to perform by placing masking tape through the pins and secure them.
+![](../img/base/IMG_4781.jpg)    
+
+Select 6 pins from 3 locations by inserting jumpers, according to your planned configuration.
+For the LEFT BASE unit, in case you plan to have the ADD unit and a keypad based SIDE unit, the jumper placement should be the same as the picture below.
 ![](../img/base/IMG_6117.jpg)    
+Please make sure to disconnect the USB cable when you change the configuration/jumpers.
 
-### (Optional) LED
-Solder the MOSFET and resistor.
+### Soldering of the LEDs (optional)
+Take out the MOSFET and resistors out of the small plastic bag for LEDs. Since the components are very small, manipulate them with tweezers during soldering in order to avoid getting burned.
 ![](../img/base/IMG_4811.jpg)  
-LED have a direction. Match the direction of silk printing and foot chipping.     
+If you have difficulties soldering such small components, you can short the jumper as in the picture below, in which case you will be able to use LEDs without soldering the MOSFET and resistors. 
+![](../img/base/IMG_4734J.jpg)    
+If you short the jumper, do not use the MOSFET and resistors. 
+
+LEDs have a direction. Make sure that the round part emitting light is facing away by placing the cut leg of LEDs on the pad with a mark on the PCB.
 ![](../img/base/IMG_4820.jpg)    
+There are 3 locations for LEDs on the base unit.
 ![](../img/base/IMG_6133.jpg)    
+Connect a USB cable and check if the LEDs are working.
 
+This is the last soldering step for the BASE unit.
 
-## Pillars
-
+## Supports
+### Assembly of the supports
+4 supports must be prepared with the 8 acrylic sheets.
 ![](../img/base/IMG_4845.jpg)    
-Thread the M2 washers onto 12 M2 screws.
+Thread the M2 silver washers onto 12 M2 silver screws. Washers with a cut are spring washers used on the other side of the screw when securing it with a nut.
 ![](../img/base/IMG_4848.jpg)    
-  
-Fasten with M2 spacers.
+Washers and spring washers are useful because they prevent nuts from getting loose. But it is not a major problem to assemble the unit without them.
+
+Insert the M2 screws with washers into one side of the pillars, and secure with M2 spacers.
 ![](../img/base/IMG_4856.jpg)    
-
-Insert the square nuts.
+Insert the square nut diagnoally into the slits of the supports. The small support has 2 slits, the medium on 3 and the large one 4. 
 ![](../img/base/IMG_4861.jpg)    
+Place the other side of the support on the screws and the square nut.
 ![](../img/base/IMG_4862.jpg)     
+Insert washers and spring washers, and secure with a nut.
 ![](../img/base/IMG_4864.jpg)    
+Finally, tighten the screws a bit with a screwdriver, but make sure not to exert too much force as the sheets may break.
 ![](../img/base/IMG_4874.jpg)    
+At this point, the 4 supports are complete.
 
-
-Thread the M3 washers onto 5 M3 screws. 
-![](../img/base/IMG_4879.jpg)     
-Attach the pillars. As it will be removed later, do not tighten too tightly now.
+### Assembly of the support onto the unit
+Thread M3 washers onto 5 M3 screws.
+![](../img/base/IMG_4879.jpg)    
+Place the pillar on the front side of the PCB and secure them from the back side with screws. As they will be removed later, do not tighten them too much.
 ![](../img/base/IMG_4891.jpg)    
-Remaining parts are used in subsequent processes.
+Refer to the picture for the location and orientation of the supports.
+
+Remaining parts will be used in later steps, therefore keep them at hand.
 ![](../img/base/IMG_4910.jpg)    
+
+Now you can proceed to the build guide of the SIDE unit that you are planning to use.
 
 3. SIDE Unit
    - [Trackball](../rightside/3_SIDE_TRACKBALL.md)
    - [D-PAD](../rightside/3_SIDE_DPAD.md)
-   - [Wheel (selling separately)](../rightside/3_SIDE_WHEEL.md)
-   - [Joystick (selling separately)](../rightside/3_SIDE_JOYSTICK.md)
+   - [Wheel (sold separately)](../rightside/3_SIDE_WHEEL.md)
+   - [Joystick (sold separately)](../rightside/3_SIDE_JOYSTICK.md)
