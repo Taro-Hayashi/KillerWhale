@@ -138,7 +138,7 @@ After sanding, make sure to clean your bench and brush off residues from you clo
 Switch plates will be used in the build guide of each unit.
 
 ## Write Testing firmware
-The Raspbeery Pi Pico is used as keyboard controller.
+The Raspberry Pi Pico is used as keyboard controller.
 Download the following uf2 file.
 - [tarohayashi_killerwhale_solo_default.uf2
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_solo_default.uf2)

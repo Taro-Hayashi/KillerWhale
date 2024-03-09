@@ -63,7 +63,7 @@ The following small components are only needed in case you plan on using LEDs.
 The components of the BASE unit are all placed on the front side.
 ![](../img/base/IMG_4739.jpg)    
 
-### Raspberry Pi Pico
+### Soldering of the Raspberry Pi Pico
 Separate the pin header into sets of 20 pins with a nipper. 
 ![](../img/base/IMG_6022.jpg)  
 Insert the pins in the holes in the PCB, place the Raspberry Pi Pico and secure it with masking tape.
@@ -80,11 +80,11 @@ Secure the socket with masking tape, then solder from the back side
 
 ### Soldering of TRRS Jacks
 They are necessary to connect two units.
-THere are two locations on the BASE unit, you can solder both connector or just the position you prefer, or no connector if you plan to use a signle unit only.
+THere are two locations on the BASE unit, you can solder both connector or just the position you prefer, or no connector if you plan to use a single unit only.
 ![ ](../img/base/IMG_4770.jpg)    
 
 ### Jumpers
-From the pin headers, cut out two sets of 3 pins, and 8 sets of 4 pins. Solder them in the area deliminated by frames. Insert the short side in holes so that the long side is stick out from the front side of the PCB.
+From the pin headers, cut out two sets of 3 pins, and 8 sets of 4 pins. Solder them in the area delimitated by frames. Insert the short side in holes so that the long side is stick out from the front side of the PCB.
 ![](../img/base/IMG_4792.jpg)     
 The operation is easier to perform by placing masking tape through the pins and secure them.
 ![](../img/base/IMG_4781.jpg)    
@@ -118,7 +118,7 @@ Washers and spring washers are useful because they prevent nuts from getting loo
 
 Insert the M2 screws with washers into one side of the pillars, and secure with M2 spacers.
 ![](../img/base/IMG_4856.jpg)    
-Insert the square nut diagnoally into the slits of the supports. The small support has 2 slits, the medium on 3 and the large one 4. 
+Insert the square nut diagonally into the slits of the supports. The small support has 2 slits, the medium on 3 and the large one 4. 
 ![](../img/base/IMG_4861.jpg)    
 Place the other side of the support on the screws and the square nut.
 ![](../img/base/IMG_4862.jpg)     

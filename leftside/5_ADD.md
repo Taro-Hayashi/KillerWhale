@@ -7,7 +7,7 @@
 4. [TOP Unit](../leftside/4_TOP.md)
 5. ADD Unit LEFT Side
 6. [Assembly](../leftside/6_ASSEMBLE.md)
-7. [Customizationsfrom](../leftside/7_CUSTOM.md)
+7. [Customizations](../leftside/7_CUSTOM.md)
 8. [Misc](../leftside/8_MISC.md)
 
 ## Contents
@@ -83,7 +83,7 @@ Thread the M2 black washers onto 2 black M2 screws and 1 long black M2 screw.
 Place the bottom place on the back side of the ADD unit, and thread the long black M2 screw through the hole on the other side of the wheel encoder.
 ![](../img/add/IMG_5033.jpg)  
 Secure the long black screw with the short M2 spacer.
-Then secure the short black screwas on both sides with long spacers.
+Then secure the short black screws on both sides with long spacers.
 
 
 ![](../img/add/IMG_5034.jpg)  

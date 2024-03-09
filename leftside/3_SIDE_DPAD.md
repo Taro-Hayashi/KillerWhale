@@ -90,7 +90,7 @@ Note that the switch plate has an orientation - refer to the picture.
 
 Attach the protection acrylic sheets to the spacers with M2 short screws.
 ![](../img/d-pad/IMG_5313.jpg)  
-If the spacers are long and silver, put the small protection acrylic sheet on top, and if the spacers color is copper, put the large protection crylic sheet on top.
+If the spacers are long and silver, put the small protection acrylic sheet on top, and if the spacers color is copper, put the large protection acrylic sheet on top.
 ![](../img/d-pad/IMG_6245.jpg)  
 
 Attach long M2 spacers with M2 black screws to the SIDE unit.
