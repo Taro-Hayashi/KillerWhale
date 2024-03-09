@@ -86,4 +86,5 @@ Insert the wheel in the encoder, place the protective acrylic plate and secure i
 Attach the switches to the switch plate, and insert the assembly into the MX sockets.
 ![](../img/add/IMG_5016.jpg)  
 Proceed with the overall assembly
+
 6. [Overall assembly](../rightside/6_ASSEMBLE.md)
