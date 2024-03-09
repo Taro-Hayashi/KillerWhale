@@ -150,8 +150,8 @@ In case you plan on using the OLED module, insert it in the pin socket.
 Attach MX switches to the switch plate, and insert them in the MX sockets. 
 ![](../img/trackball/IMG_5228.jpg) 
 
-Confirm that everything is working by connecting the unit to a computer with a USB cable. Note that the LEDs will not work until the top and additional unit are completed.
-If the keys and ball are working, proceed with the top unit assembly (trackball speed and direction can be adjusted later).
+Confirm that everything is working by connecting the unit to a computer with a USB cable. Note that the LEDs will not work until the TOP and ADD units are completed.
+If the keys and ball are working, proceed with the TOP unit assembly (trackball speed and direction can be adjusted later).
 
 There are two types of top unit: the one included in the package, and a top unit with wheels sold separately.
   
