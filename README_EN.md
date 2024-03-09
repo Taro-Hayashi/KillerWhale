@@ -1,6 +1,6 @@
 # Killer Whale Build Manual First Page（[日本語](README.md)）
 
-1. First Page
+1. Start Page
 2. [BASE Unit](rightside/2_BASE.md)
 3. [SIDE Unit](rightside/3_SIDE_TRACKBALL.md)
 4. [TOP Unit](rightside/4_TOP.md)
@@ -138,7 +138,7 @@ After sanding, make sure to clean your bench and brush off residues from you clo
 Switch plates will be used in the build guide of each unit.
 
 ## Write Testing firmware
-The Raspbeery Pi Pico is used as keyboard controller.
+The Raspberry Pi Pico is used as keyboard controller.
 Download the following uf2 file.
 - [tarohayashi_killerwhale_solo_default.uf2
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_solo_default.uf2)
