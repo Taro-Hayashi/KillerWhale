@@ -22,10 +22,10 @@
 |3|Ball pillars|6|Acrylic|
 |4|Cover plate|1|Acrylic|
 |5|M2 long screws|9|10mm|
-|6|M2 short screws|2|6mm|
+|6|M2 middle screws|2|6mm|
 |7|M2 silver washers|18||
 |8|M2 silver spring washers|9||
-|9|M2 black screws|2|4mm|
+|9|M2 short screws|2|4mm|
 |10|M2 short spacers|6|3mm|
 |11|M2 long spacers|2|7mm|
 |12|M2 nuts|9|
@@ -100,16 +100,16 @@ The side unit has an orientation. Be aware that for the right side of the keyboa
 ![](../img/trackball/IMG_5117.jpg)  
 
 ### Assembling the switch plate
-Attach the M2 long spacers and M2 dark screws to the switch plate.
+Attach the M2 long spacers and M2 short screws to the switch plate.
 ![](../img/trackball/IMG_5126.jpg)  
 Note that the switch plate also has an orientation (lower and top part).
   
-Attach the cover plate to the spacers with M2 short screws.  
+Attach the cover plate to the spacers with M2 middle screws.  
 ![](../img/trackball/IMG_5127.jpg)  
 
 ### Assembling the trackball
 
-Thread the M2 silver washers onto 9 M2 silver screws.  
+Thread the M2 silver washers onto 9 M2 long screws.  
 ![](../img/trackball/IMG_5130.jpg)  
 Insert the screws into the two holes of each of the 3 trackball arms and fasten with M2 spacers. 
 ![](../img/trackball/IMG_5134.jpg)

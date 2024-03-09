@@ -21,8 +21,8 @@
 |1|Mainboard|1|FR4|
 |2|Switch plate|1|FR4|
 |3|Cover plates|2|Acrylic|
-|4|M2 silver screws|5|6mm|
-|5|M2 black screws|5|4mm|
+|4|M2 middle screws|5|6mm|
+|5|M2 short screws|5|4mm|
 |6|M2 short spacers|2|9mm|
 |7|M2 long spacers|3|16mm|
 |8|Pin headers|1||
@@ -72,15 +72,15 @@
 
 
 ## Assembling
-Attach M2 short spacers with M2 black screws. 
+Attach M2 short spacers with M2 short screws. 
 ![](../img/joystick/IMG_5515.jpg)  
   
-Attach cover plate with M2 short screws.
+Attach cover plate with M2 middle screws.
 ![](../img/joystick/IMG_5519.jpg)  
 Larger cover plate is on top.
 
 
-Attach M2 long spacers with M2 black screws.
+Attach M2 long spacers with M2 short screws.
 ![](../img/joystick/IMG_5520.jpg)  
 Insert pin socket into pin header.
 ![](../img/joystick/IMG_5524.jpg)  

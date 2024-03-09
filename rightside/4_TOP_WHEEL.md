@@ -17,8 +17,8 @@
 |1|Main board|1|FR4|
 |2|Switch plate|1|FR4|
 |3|Cover plate|2|Acrylic|
-|4|M2 silver screws|4|6mm|
-|5|M2 black screws|6|4mm|
+|4|M2 middle screws|4|6mm|
+|5|M2 short screws|6|4mm|
 |6|M2 short spacers|2|8mm|
 |7|M2 long spacers|4|16mm|
 |8|Pin header|1||
@@ -53,7 +53,7 @@
 Widen the plate at the hem of the encoder 
 ![](../img/wheel/IMG_4976.jpg)  
 ![](../img/wheeltop/IMG_5942.jpg)  
-Attach M2 long spacers and short spacer with M2 black screws.
+Attach M2 long spacers and short spacer with M2 short screws.
 ![](../img/wheeltop/IMG_5954.jpg)  
 
 

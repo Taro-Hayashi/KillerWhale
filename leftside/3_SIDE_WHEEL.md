@@ -23,8 +23,8 @@ Vertical and horizontal common build manuals.
 |1|Main board|1|FR4|
 |2|Switch plate|1|FR4|
 |3|Cover plates|2|Acryic|
-|4|M2 silver screw|4|6mm|
-|5|M2 black screw|5|4mm|
+|4|M2 middle screw|4|6mm|
+|5|M2 short screw|5|4mm|
 |6|M2 short spacer|1|8mm|
 |6|M2 middle spacers|2|9mm|
 |7|M2 long spacers|2|16mm|
@@ -85,11 +85,11 @@ Widen the plate at the hem of the encoder
 ![](../img/wheel/IMG_5402.jpg)  
   
 
-Attach cover plate with M2 short screws.
+Attach cover plate with M2 middle screws.
 ![](../img/wheel/IMG_5406.jpg)  
 Larger cover plate is on top.
 
-Attach M2 long spacers and short spacer with M2 black screws.
+Attach M2 long spacers and short spacer with M2 short screws.
 ![](../img/wheel/IMG_5412.jpg)  
   
 Insert pin socket into pin header.

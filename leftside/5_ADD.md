@@ -86,7 +86,7 @@ Secure the long black with the short M2 spacer.
 Then secure the short screws on both sides with long spacers.
 
 ![](../img/add/IMG_5034.jpg)  
-Insert the wheel in the encoder, place the protective acrylic plate and secure it with M2 screws. 
+Insert the wheel in the encoder, place the protective acrylic plate and secure it with M2 middle screws. 
 ![](../img/add/IMG_5037.jpg)  
 Attach the switches to the switch plate, and insert the assembly into the MX sockets.
 ![](../img/add/IMG_5041.jpg)  

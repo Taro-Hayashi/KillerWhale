@@ -22,12 +22,12 @@
 |2|Switch plate|1|FR4|
 |3|Cover plate|2|Acrylic|
 |4|D-pad plate|2|Acrylic|
-|5|M2 short screws|5|6mm|
+|5|M2 middle screws|5|6mm|
 |6|M2 long screw|1|10mm|
 |7|M2 washer|1||
 |8|M2 spring washer|1||
 |9|M2 nut|1||
-|10|M2 black screws|5|4mm|
+|10|M2 short screws|5|4mm|
 |11|M2 short spacers|2|5mm|
 |12|M2 long spacers|3|12mm|
 |13|Pin header|1||
@@ -84,16 +84,16 @@ Insert the switches from the front side of the PCB and solder from the back side
 ## Assembling
 
 ### Attaching the switch plate
-Attach short spacers to the switch plate with black M2 screws.
+Attach short spacers to the switch plate with M2 short screws.
 ![](../img/d-pad/IMG_5291.jpg)  
 Note that the switch plate has an orientation - refer to the picture.
 
-Attach the protection acrylic sheets to the spacers with M2 short screws.
+Attach the protection acrylic sheets to the spacers with M2 middle screws.
 ![](../img/d-pad/IMG_5313.jpg)  
 If the spacers are long and silver, put the small protection acrylic sheet on top, and if the spacers color is copper, put the large protection acrylic sheet on top.
 ![](../img/d-pad/IMG_6245.jpg)  
 
-Attach long M2 spacers with M2 black screws to the SIDE unit.
+Attach long M2 spacers with M2 short screws to the SIDE unit.
 ![](../img/d-pad/IMG_5315.jpg)  
 There should be one spacer on the bottom side of the SIDE unit and two to the top, forming an equilateral triangle.
 
@@ -111,11 +111,11 @@ This is the last soldering step for the SIDE unit.
 In case you plan on using the OLED module, insert it in the pin socket.
 ![](../img/d-pad/IMG_5320.jpg)  
 
-Secure the D pad plate with one long M2 screw, washer, spring washer and nut.
+Secure the D pad plate with one M2 long screw, washer, spring washer and nut.
 ![](../img/d-pad/IMG_5297.jpg)  
 Attach the key switches to the plate and insert the assembly into the MX sockets, so that the D pad is in the middle. 
 ![](../img/d-pad/IMG_5322.jpg)  
-Secure the protection plate with short M2 screws. That's it for the SIDE unit!
+Secure the protection plate with M2 middle screws. That's it for the SIDE unit!
  
 Confirm that everything is working by connecting the unit to a computer with a USB cable. Note that the LEDs will not work until the top and additional unit are completed.
 If you do not detect any issue, proceed with the TOP unit assembly.
