@@ -1,13 +1,13 @@
 
 # Killer Whale ADD Unit RIGHT Side Build Manual （[Left Side](../leftside/5_ADD.md)）
 
-1. [Start Page](../README_EN.md)
+1. [First Page](../README_EN.md)
 2. [BASE Unit](../rightside/2_BASE.md)
 3. [SIDE Unit](../rightside/3_SIDE_TRACKBALL.md)
 4. [TOP Unit](../rightside/4_TOP.md)
 5. ADD Unit RIGHT Side
-6. [Assembly](../rightside/6_ASSEMBLE.md)
-7. [Customizations](../rightside/7_CUSTOM.md)
+6. [Assemble](../rightside/6_ASSEMBLE.md)
+7. [Customize](../rightside/7_CUSTOM.md)
 8. [Misc](../rightside/8_MISC.md)
 
 ## Contents
@@ -34,57 +34,37 @@
 |18|MX Hotswap sockets|2||
 |19|Rubber feet|2||
 
-Disclaimer: it is possible that the screws aspect or socket colors are different from the pictures from the build guide.
-
 ## Soldering
-Keep in mind that components will be placed on both sides of the ADD unit.
-![](../img/add/IMG_4931.jpg)  
-### Soldering of the LEDs (optional, back side)  
-On the ADD unit, LEDs are soldered from the back side of the PCB, at 3 different locations.
+### (Optional)LED 
 ![](../img/add/IMG_6183.jpg)  
-For 2 of the LEDs, the round LED should be facing away from the side where soldering is done, and the one in the middle has the opposite orientation.
 
-### Soldering of the diodes (back side)
-Insert the diodes from the back side of the PCB, solder from the front side and cut the legs.
+### Diodes
 ![](../img/add/IMG_6186.jpg)  
 
-### Soldering of MX hotswap socket (back side)
-Solder the MX hotswap sockets while keeping them in place with tweezers.
+### MX hotswap socket
 ![](../img/add/IMG_6190.jpg)  
-Once there is enough solder material on both sides of the socket so that it stays in place, you can put the tweezers aside and apply more solder.
-Because of the relatively large surface, a lot of solder material is needed.
 
-### Soldering of the angle pin header (front side)
-Keep the pin header in place with masking tape and solder from the back side of the PCB.
-![](../img/add/IMG_7182.jpg)  
+### Angle pin header 
+![](../img/add/IMG_4970.jpg)  
 
-### Soldering of the wheel encoder (front side)
-Slightly bend the plate at the base of the wheel encoder (to avoid any short circuit). 
+### Wheel encoder
+Widen the plate at the hem of the encoder 
 ![](../img/wheel/IMG_4976.jpg)  
-Insert the wheel encoder at the location with a square mark on the PCB, secure with masking tape, and solder from the back side of the PCB.
+ 
 ![](../img/add/IMG_4981.jpg)  
-Note that the orientation of the encoder is different for the LEFT and RIGHT units.
 
-### Soldering of the toggle switch (front side)
-Insert from the from the front side of the PCB and solder from the back side.
+### Toggle switch
 ![](../img/add/IMG_4991.jpg)  
-
-This is the last soldering step for the ADD unit.
-
-## Assembly
-### Assembly of the acrylic plate
-Thread the M2 black washers onto 2 M2 short screws and 1 long M2 screw.  
+  
+## Assembling
+Attach M2 black washers with 2 M2 short screws and M2 long screw. 
 ![](../img/add/IMG_5027.jpg)  
 
-Place the bottom place on the back side of the ADD unit, and thread the long M2 screw through the hole on the other side of the wheel encoder.
+Attach bottom plate with M2 long screw and M2 short spacer.
 ![](../img/add/IMG_5005.jpg)  
-Secure the long screw with the short M2 spacer.
-Then secure the short screws on both sides with long spacers.
+Attach M2 short screws and M2 long spacers.
 ![](../img/add/IMG_5010.jpg)  
-Insert the wheel in the encoder, place the protective acrylic plate and secure it with M2 screws. 
 ![](../img/add/IMG_5014.jpg)  
-Attach the switches to the switch plate, and insert the assembly into the MX sockets.
 ![](../img/add/IMG_5016.jpg)  
-Proceed with the overall assembly
 
-6. [Overall assembly](../rightside/6_ASSEMBLE.md)
+6. [Assemble](../rightside/6_ASSEMBLE.md)
