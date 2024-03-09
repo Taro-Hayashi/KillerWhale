@@ -48,7 +48,7 @@ Disclaimer: it is possible that the screws aspect or socket colors are different
 ## Soldering
 Keep in mind that components will be placed on both sides of the unit.
 ![](../img/trackball/IMG_5060.jpg)  
-The PCB side with text is the back side. 
+The PCB side with text in Japanese is the back side.
 ### Soldering of the LEDs (optional)  
 Solder the 3 LEDs. The round LED should be facing away from the side where soldering is done.
 ![](../img/trackball/IMG_5063.jpg)  
@@ -83,7 +83,7 @@ Solder the capacitors. The locations C1 and C2 correspond to capacitors with 106
 
 ### Soldering of pin headers (back side)
 Cut out four sets of 6 pins from the 40 pin headers. Insert the pin headers from the back side and solder.
-Insert the long side of the pins. In case you have done it the other way around, cut the pins to make sure that the have the same length as the short side.
+Insert the long side of the pins. In case you did it the other way around, cut the long side in order to match the length of the short side.
 ![](../img/trackball/IMG_5107.jpg)  
 
 ### Soldering of OLED Display (optional, front side)
@@ -150,8 +150,8 @@ In case you plan on using the OLED module, insert it in the pin socket.
 Attach MX switches to the switch plate, and insert them in the MX sockets. 
 ![](../img/trackball/IMG_5193.jpg) 
 
-Confirm that everything is working by connecting the unit to a computer with a USB cable. Note that the LEDs will not work until the top and additional unit are completed.
-If the keys and ball are working, proceed with the top unit assembly (trackball speed and direction can be adjusted later).
+Confirm that everything is working by connecting the unit to a computer with a USB cable. Note that the LEDs will not work until the TOP and ADD units are completed.
+If the keys and ball are working, proceed with the TOP unit assembly (trackball speed and direction can be adjusted later).
 
 There are two types of top unit: the one included in the package, and a top unit with wheels sold separately.
   
