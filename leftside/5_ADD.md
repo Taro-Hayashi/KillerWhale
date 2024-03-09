@@ -18,11 +18,11 @@
 |2|Switch plate|1|FR4|
 |3|Bottom plate|1|Acrylic|
 |4|Cover plate|1|Acrylic|
-|5|M2 silver screws|2|6mm|
+|5|M2 middle screws|2|6mm|
 |6|M2 short spacer|1|8mm|
 |7|M2 long spacers|2|16mm|
-|8|M2 short black screws|2|4mm|
-|9|M2 short black screws|5|8mm|
+|8|M2 short screws|2|4mm|
+|9|M2 long screws|5|8mm|
 |10|M2 black washers|6|
 |11|M2 black spring washers|3|
 |12|M2 black nuts|3|
@@ -77,14 +77,13 @@ This is the last soldering step for the ADD unit.
 
 ## Assembly
 ### Assembly of the acrylic plate
-Thread the M2 black washers onto 2 black M2 screws and 1 long black M2 screw.  
+Thread the M2 black washers onto 2 M2 short screws and 1 long M2 screw.  
 ![](../img/add/IMG_5027.jpg)  
 
-Place the bottom place on the back side of the ADD unit, and thread the long black M2 screw through the hole on the other side of the wheel encoder.
+Place the bottom place on the back side of the ADD unit, and thread the long M2 screw through the hole on the other side of the wheel encoder.
 ![](../img/add/IMG_5033.jpg)  
-Secure the long black screw with the short M2 spacer.
-Then secure the short black screws on both sides with long spacers.
-
+Secure the long black with the short M2 spacer.
+Then secure the short screws on both sides with long spacers.
 
 ![](../img/add/IMG_5034.jpg)  
 Insert the wheel in the encoder, place the protective acrylic plate and secure it with M2 screws. 
