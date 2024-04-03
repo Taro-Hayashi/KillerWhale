@@ -43,7 +43,7 @@ By long-pressing S (resp. L), you can exchange the roles of F and D, even if the
 Here is how to activate or deactivate the auto mouse function.
 ## Changing trackball (joystick) direction and speed
 Hold the second key from the corner (key 4, resp. 7) to move to the trackball setting layer, described in the picture below
-![](../img/custom/mouse_j.jpg)  
+![](../img/custom/mouse_e.jpg)  
 - Select the orientation of the trackball by adjusting angle or inverting across the X axis.
 - You can select scroll or cursor or key input modes via the mode change key.
 
