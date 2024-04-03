@@ -123,7 +123,7 @@ Secure with washers, spring washers and nuts.
 Thread the M3 washers onto 3 M3 screws. 
 ![](../img/trackball/IMG_5149.jpg)  
 Remove the protective film from the sensor and insert the lens. The lens has a specific mounting direction, therefore make sure not to apply too much force in case it does not fit well, and check direction instead.
-![](../img/trackball/IMG_5155.jpg)  
+![](../img/trackball/IMG_5156.jpg)  
 Place the arms on the PCB, put a square nut in the slits, and screw them from the back side.
 Be sure to check the orientation (upper vs. lower) of the main board.
 ![](../img/trackball/IMG_5157.jpg)  
