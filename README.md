@@ -29,7 +29,7 @@
       <td><a href="https://shop.yushakobo.jp/products/8020">遊舎工房</a>、<a href="https://www.amazon.co.jp/gp/product/B07BDGSX5X">Amazon</a></td>
     </tr>
     <tr>
-      <td><a href="https://shop.yushakobo.jp/products/oled">OLEDモジュール - ピンソケット付き</a></td> 
+      <td><a href="https://shop.yushakobo.jp/products/oled">OLEDモジュール</a></td> 
       <td>1〜2</td>
       <td>通常は1個、予備の側面ユニットにも付けるならもう1個</td>
     </tr>
