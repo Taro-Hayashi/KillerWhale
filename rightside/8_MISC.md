@@ -11,14 +11,17 @@
 
 
 ## Firmware
-- SOLO Test [tarohayashi_killerwhale_solo_default.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_solo_default.uf2)
 - SOLO [tarohayashi_killerwhale_solo_via.uf2
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_solo_via.uf2)
-- DUO Test [tarohayashi_killerwhale_duo_default.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_duo_default.uf2)
 - DUO [tarohayashi_killerwhale_duo_ballleft.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_duo_via.uf2)
+](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_duo_via.uf2)  
+  
+    
+- SOLO for testing [tarohayashi_killerwhale_solo_default.uf2
+](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_solo_default.uf2)
+- DUO for testing [tarohayashi_killerwhale_duo_default.uf2
+](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_duo_default.uf2)  
+
 
 ## Special Keys
 |Key name on remap|Function|
