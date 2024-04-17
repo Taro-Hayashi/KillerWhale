@@ -76,7 +76,7 @@
 |QK_USER_15|Toggle RGB layer function|
 
 ## Firmware Codes
-- https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi_0.23.9/keyboards/tarohayashi/killerwhale
+- https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/killerwhale
   
 ## Acrylic and switch plates
 - https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.22.9/killer_whale_plates.zip
