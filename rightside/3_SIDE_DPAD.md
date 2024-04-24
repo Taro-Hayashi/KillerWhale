@@ -24,8 +24,8 @@
 |4|D-pad plate|2|Acrylic|
 |5|M2 middle screws|5|6mm|
 |6|M2 long screw|1|10mm|
-|7|M2 washer|1||
-|8|M2 spring washer|1||
+|7|M2 washer|1|*not include currently|
+|8|M2 spring washer|1|*not include currently|
 |9|M2 nut|1||
 |10|M2 short screws|5|4mm|
 |11|M2 short spacers|2|5mm|
@@ -110,7 +110,7 @@ This is the last soldering step for the SIDE unit.
 In case you plan on using the OLED module, insert it in the pin socket.
 ![](../img/d-pad/IMG_6143.jpg)  
 
-Secure the D pad plate with one long M2 screw, washer, spring washer and nut.
+Secure the D pad plate with long M2 screw and nut.
 ![](../img/d-pad/IMG_5297.jpg)  
 Attach the key switches to the plate and insert the assembly into the MX sockets, so that the D pad is in the middle. 
 ![](../img/d-pad/IMG_5307.jpg)  
