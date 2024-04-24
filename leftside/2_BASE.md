@@ -93,10 +93,7 @@ Please make sure to disconnect the USB cable when you change the configuration/j
 
 ### Soldering of the LEDs (optional)
 Take out the MOSFET and resistors for the LEDs out of their containers. Since the components are very small, manipulate them with tweezers during soldering in order to avoid getting burned.
-![](../img/base/IMG_4817.jpg)      
-If you have difficulties soldering such small components, you can short the jumper as in the picture below, in which case you will be able to use LEDs without soldering the MOSFET and resistors. 
-![](../img/base/IMG_4734J.jpg)    
-If you short the jumper, do not use the MOSFET and resistors. 
+![](../img/base/IMG_4817.jpg)     
 
 LEDs have a direction. Make sure that the round part emitting light is facing away by placing the cut leg of LEDs on the pad with a mark on the PCB.
 ![](../img/base/IMG_4827.jpg)    
