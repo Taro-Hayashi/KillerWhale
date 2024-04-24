@@ -55,10 +55,11 @@ Because of the relatively large surface, a lot of solder material is needed.
 
 ### Soldering of the diodes (back side)
 Diodes are directional components. Make sure to align the lines with markings on the PCB.
-![](../img/d-pad/IMG_5265.jpg)  
+![](../img/diode.jpg)  
 Insert the diodes in the 8 locations on the back side of the PCB, and secure them with masking tape.
-![](../img/d-pad/IMG_5269.jpg)  
+![](../img/d-pad/IMG_5265.jpg)  
 Solder from the front side of the PCB and cut the diode legs.
+![](../img/d-pad/IMG_5269.jpg)  
 
 
 ### Soldering of the pin headers

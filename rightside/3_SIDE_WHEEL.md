@@ -61,6 +61,7 @@ Vertical and horizontal common build manuals.
 ### MX hotswap socket
 ![](../img/wheel/IMG_5354.jpg)  
 ### Diodes
+![](../img/diode.jpg)  
 ![](../img/wheel/IMG_5359.jpg)  
 ![](../img/wheel/IMG_5366.jpg)  
 

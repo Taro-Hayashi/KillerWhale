@@ -62,10 +62,11 @@ Because of the relatively large surface, a lot of solder material is needed.
 
 ### Soldering of the diodes (back side)
 Diodes are directional components. Make sure to align the lines with markings on the PCB.
-![](../img/trackball/IMG_6012.jpg)  
+![](../img/diode.jpg)  
 Insert the diodes in the 4 locations on the back side of the PCB, and secure them with masking tape.
-![](../img/trackball/IMG_6016.jpg)  
+![](../img/trackball/IMG_6012.jpg)  
 Solder from the front side of the PCB and cut the diode legs.
+![](../img/trackball/IMG_6016.jpg)  
 
 ### Soldering of sensor, regulator, capacitors (back side)
 As a precaution, do not remove the protecting tape from the sensor yet.

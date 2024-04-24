@@ -45,7 +45,6 @@ The PCB side with text in Japanese is the back side.
 ### Soldering of the LEDs (optional)  
 Solder the 3 LEDs. The round LED should be facing away from the side where soldering is done.
 ![](../img/d-pad/IMG_5260.jpg)  
-
 ### Soldering of MX hotswap socket (back side)
 From the back side of the unit, solder the MX hotswap sockets while keeping them in place with tweezers.
 ![](../img/d-pad/IMG_5264.jpg)  
@@ -53,11 +52,13 @@ Once there is enough solder material on both sides of the socket so that it stay
 Because of the relatively large surface, a lot of solder material is needed.
 
 ### Soldering of the diodes (back side)
-Diodes are directional components. Make sure to align the lines with markings on the PCB.
+Diodes are directional components. Make sure to align the lines with markings on the PCB.  
+![](../img/diode.jpg)  
+
+Insert the diodes in the 8 locations on the back side of the PCB, and secure them with masking tape.  
 ![](../img/d-pad/IMG_5266.jpg)  
-Insert the diodes in the 8 locations on the back side of the PCB, and secure them with masking tape.
+Solder from the front side of the PCB and cut the diode legs.  
 ![](../img/d-pad/IMG_5267.jpg)  
-Solder from the front side of the PCB and cut the diode legs.
 
 ### Soldering of the pin headers
 Cut out four sets of 6 pins from the 40 pin headers and insert the from the back side.

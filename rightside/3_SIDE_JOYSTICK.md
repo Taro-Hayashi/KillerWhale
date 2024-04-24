@@ -56,6 +56,7 @@
 ### MX hotswap socket
 ![](../img/joystick/IMG_5474.jpg)  
 ### Diodes
+![](../img/diode.jpg)  
 ![](../img/joystick/IMG_5477.jpg)  
 ![](../img/joystick/IMG_5481.jpg)  
 
