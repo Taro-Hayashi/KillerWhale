@@ -96,7 +96,7 @@ Take out the MOSFET and resistors for the LEDs out of their containers. Since th
 ![](../img/base/IMG_4817.jpg)     
 
 LEDs have a direction. Make sure that the round part emitting light is facing away by placing the cut leg of LEDs on the pad with a mark on the PCB.
-![](../img/base/IMG_4827.jpg)    
+![](../img/led.jpg)       
 There are 3 locations for LEDs on the base unit.
 ![](../img/base/IMG_4840.jpg) 
 Connect a USB cable and check if the LEDs are working.
