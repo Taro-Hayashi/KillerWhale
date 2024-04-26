@@ -35,7 +35,6 @@ Even if you do not have the ADD unit, you can toggle between left and right-hand
 
 ## Mouse layer and auto mouse
 Assuming that you are using a trackball SIDE unit, just after the trackball has moved, you can use the key F (resp. J) as mouse click, and D (resp. K) as right click.
-By long-pressing S (resp. L), you can exchange the roles of F and D, even if the trackball is not moving.
 ![](../img/custom/auto_e.jpg)  
 - You can scroll by moving the trackball while pressing the lowest key.
 - The keys in the ADD units also have the mouse and right mouse click assignments. You can scroll with the wheel as well.
