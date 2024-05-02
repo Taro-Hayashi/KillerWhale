@@ -73,7 +73,7 @@ Solder them in the area delimitated by frames. Insert the short side in holes so
 Insert 6 jumpers at 3 locations according to your planned configuration.
 
 ![](../img/2_base_r/2_11_jumper.jpg)      
-For the LEFT BASE unit, in case you plan to have the ADD unit and a keypad based SIDE unit, the jumper placement should be the same as the picture below.
+For the RIGHT BASE unit, in case you plan to have the ADD unit and a trackball SIDE unit, the jumper placement should be the same as the picture below.
 
 
 ### Soldering of the LEDs (optional)
