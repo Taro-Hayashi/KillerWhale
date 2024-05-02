@@ -10,7 +10,7 @@
 8. [Misc](rightside/8_MISC.md)
 
 There are 5 switch plates included in the largest bag.
-![](img/IMG_6281.jpg)     
+![](img/1_start/1_1_full.jpg)     
 
 ## Additionally Required (quantities for or one side)
 <table>
@@ -27,22 +27,27 @@ There are 5 switch plates included in the largest bag.
       <td>1</td>
     </tr>
     <tr>
-      <td>Micro USB cable</td>
+      <td>USB cable</td>
        <td>1</td>
+    </tr>
+    <tr>
+      <td>34mm Trackball</td>
+       <td>0 or 1</td>
     </tr>
  </table>
 
-![](img/IMG_4615.jpg)    
+![](img/1_start/1_2_additional_required.jpg)    
 ### Optional Parts (quantities for one side)
 <table>
     <tr>
-      <td>34mm Trackball</td>
-       <td>1</td>
-    </tr>
-    <tr>
-      <td>OLED Display module with pin socket</td> 
+      <td>OLED Display module</td> 
       <td>1 or 2</td>
       <td>Normally just one, but you can add one more to the side unit</td>
+    </tr>
+    <tr>
+      <td>Pin socket 4pin</td> 
+      <td>1 or 2</td>
+      <td>For OLED Displey module</td>
     </tr>
     <tr>
       <td>LEDs (SK6812MINI-E)</td>
@@ -56,8 +61,29 @@ There are 5 switch plates included in the largest bag.
     </tr>
  </table>
 
-![](img/IMG_4630.jpg)    
 
+![](img/1_start/1_3_optional_parts.jpg)    
+
+### Optional Units (sold separately)
+<table>
+    <tr>
+      <td><a href="https://tarohayashi.booth.pm/items/4877491">SIDE Unit (Vertical Wheel)</a></td> 
+    </tr>
+    <tr>
+      <td><a href="https://tarohayashi.booth.pm/items/4877491">SIDE Unit (Horizontal Wheel)</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://tarohayashi.booth.pm/items/4877491">SIDE Unit (Joystick)</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://tarohayashi.booth.pm/items/4877491">Ball pillars for 25mm ball</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://tarohayashi.booth.pm/items/4877486">TOP Unit with wheel</a></td>
+    </tr>
+ </table>
+
+![](img/1_start/1_4_optional_units.jpg)   
 
 ### Optional Acrylic Plates
 <table>
@@ -72,27 +98,8 @@ There are 5 switch plates included in the largest bag.
     </tr>
  </table>
 
-
-### Optional Units (sold separately)
-<table>
-    <tr>
-      <td><a href="https://tarohayashi.booth.pm/items/4877491">SIDE Unit (Vertical Wheel)</a></td> 
-    </tr>
-    <tr>
-      <td><a href="https://tarohayashi.booth.pm/items/4877491">SIDE Unit (Horizontal Wheel)</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://tarohayashi.booth.pm/items/4877491">SIDE Unit (Joystick)</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://tarohayashi.booth.pm/items/4877486">TOP Unit with wheel</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://tarohayashi.booth.pm/items/4877904">Ball pillars for 25mm ball</a></td>
-    </tr>
- </table>
-
-![](img/IMG_6297.jpg)     
+### 3D Printed Cases (made by Training&KBD)
+- https://booth.pm/ja/items/5410034
 
 ### Required tools and consumables
 <table>
@@ -112,40 +119,37 @@ There are 5 switch plates included in the largest bag.
       <td>Cutter</td>
     </tr>
     <tr>
-      <td>Masking tape</td>
-    </tr>
-    <tr>
       <td>File (for sanding)</td>
     </tr>
     <tr>
       <td>Precision screwdriver (cross/Philipps type)</td>
     </tr>
     <tr>
-      <td>Tool for tightening nuts (radio pliers, M2 spanner</td>
+      <td>Tool for tightening nuts (radio pliers, M2 spanner)</td>
     </tr>
  </table>
 
 ## Preparations
 ### Detach the switch plates
 Switch plates are initially attached, and must be separated.
-![](img/IMG_6058.jpg)
+![](img/1_start/1_5_switch_plate.jpg)    
 Make a cut with a cutter, and separate by bending the plates.    
-![](img/IMG_4649.jpg)    
+![](img/1_start/1_6_cut_plate.jpg)   
 Sand the side with a file.
-![](img/IMG_4681.jpg)    
+![](img/1_start/1_7_sanding.jpg) 
 After sanding, make sure to clean your bench and brush off residues from you clothes to prevent them from getting inside connectors or trackball sensor.
-![](img/IMG_6094.jpg)    
+![](img/1_start/1_8_switch_plates.jpg)  
 Switch plates will be used in the build guide of each unit.
 
 ## Write Testing firmware
-The Raspberry Pi Pico is used as keyboard controller.
 Download the following uf2 file.
 - [tarohayashi_killerwhale_solo_default.uf2
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_solo_default.uf2)
 
 Connect the Raspberry Pi Pico to the PC while holding down the BOOTSEL button, it will be recognized as a USB memory device called RPI-RP2.
-![](img/IMG_4689.jpg)     
-![](img/rpi.jpg)     
+
+![](img/1_start/1_9_raspberry_pi_pico.jpg)     
+![](img/1_start/1_10_rpi_rp2.jpg)     
 After downloading the uf2 file, drag and drop the file to the USB drive. If the drive disappears, flashing was successful.
 After flashing, disconnect the USB cable.
 
@@ -154,5 +158,6 @@ Decide if you build the left or right side of the keyboard and proceed to BASE U
 - [BASE Unit LEFT Side](leftside/2_BASE.md)
 - [BASE Unit RIGHT Side](rightside/2_BASE.md)
 
-The only differences between the left and right build guides are the pictures, but since it is easy to make mistakes, it is recommended to follow the right build guide.
+> [!NOTE] 
+> The only differences between the left and right build guides are the pictures, but since it is easy to make mistakes, it is recommended to follow the right build guide.
 
