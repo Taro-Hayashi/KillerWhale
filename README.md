@@ -96,6 +96,9 @@
     <tr>
       <td><a href="https://booth.pm/ja/items/5410034">3Dプリンター製ケース（Training&KBD様作）</a></td>
     </tr>
+    <tr>
+      <td><a href="https://nankatsukurouyo.myportfolio.com/killerwhale">トラックボールケース3Dプリントデータ（せう様作）</a></td>
+    </tr>
  </table>
 
 ### 必要な工具

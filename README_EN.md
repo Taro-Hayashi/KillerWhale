@@ -101,6 +101,9 @@ There are 5 switch plates included in the largest bag.
 ### 3D Printed Cases (made by Training&KBD)
 - https://booth.pm/ja/items/5410034
 
+### 3D Printed Trackball Case  (made by thw)
+- https://nankatsukurouyo.myportfolio.com/killerwhale
+
 ### Required tools and consumables
 <table>
     <tr>

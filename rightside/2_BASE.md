@@ -108,9 +108,10 @@ At this point, the 4 supports are complete.
 
 ### Assembly of the support onto the unit
 Place the pillar on the front side of the PCB and secure them from the back side with M3 screws. 
-![](../img/2_base_r/2_20_base_complete.jpg)    
 > [!NOTE]
 > As they will be removed later, do not tighten them too much.
+
+![](../img/2_base_r/2_20_base_complete.jpg)    
 
 Remaining parts will be used in later steps, therefore keep them at hand. 
 
