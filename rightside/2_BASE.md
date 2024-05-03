@@ -1,4 +1,4 @@
-# Killer Whale BASE Unit RIGHT Side Build Manual （[LEFT Side](../leftside/2_BASE.md)）
+# Killer Whale BASE Unit RIGHT Side Build Manual （[See LEFT Side there](../leftside/2_BASE.md)）
 
 1. [Start Page](../README_EN.md)
 2. BASE Unit RIGHT Side
