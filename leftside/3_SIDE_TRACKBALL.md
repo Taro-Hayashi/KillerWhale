@@ -160,16 +160,16 @@ Solder the pin sockets from the back side of the BASE unit.
 ![](../img/3_1_trackball_l/3_1_28_base_2.jpg)  
 This is the last soldering step for the SIDE unit.
 
-In case you plan on using the OLED module, insert it in the pin socket.
+In case you plan on using the OLED module, insert it in the pin socket.  
 ![](../img/3_1_trackball_l/3_1_29_base_3.jpg)   
 
-Attach MX switches to the switch plate, and insert them in the MX sockets. 
+Attach MX switches to the switch plate, and insert them in the MX sockets.  
 ![](../img/3_1_trackball_l/3_1_30_complete.jpg)   
 
-Confirm that everything is working by connecting the unit to a computer with a USB cable.
+Confirm that everything is working by connecting the unit to a computer with a USB cable.  
 > [!NOTE]
-> the LEDs will not work until the TOP (and ADD) units are completed.
-> trackball speed and direction can be adjusted later.
+> the LEDs will not work until the TOP (and ADD) units are completed.  
+> trackball speed and direction can be adjusted later.  
 
 If the keys and ball are working, proceed with the TOP unit assembly
 There are two types of top unit: the one included in the package, and a top unit with wheels sold separately.
