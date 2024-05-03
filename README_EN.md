@@ -47,7 +47,7 @@ There are 5 switch plates included in the largest bag.
     <tr>
       <td>Pin socket 4pin</td> 
       <td>1 or 2</td>
-      <td>For OLED Displey module</td>
+      <td>If you want to pull out OLED module.</td>
     </tr>
     <tr>
       <td>LEDs (SK6812MINI-E)</td>
