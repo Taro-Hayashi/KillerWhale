@@ -12,42 +12,46 @@
 ## Assembly
 ### Assembly of the  bottom plate
 Remove the bottom M3 screws, then the TOP unit by pulling out the pin headers from the pin sockets. Remove the SIDE Unit in a similar fashion.
-![](../img/whole/IMG_5650.jpg)  
 
-Thread 4 black washers onto 4 screws.   
-![](../img/whole/IMG_6110.jpg)  
-Place the bottom plate on the back of the BASE unit, and insert the screws from the back side.
+![](../img/6_whole_l/6_1_overall.jpg)  
 
-![](../img/whole/IMG_5660.jpg)  
-From the front side, secure the screws with washers, spring washers and nuts.
+Thread 4 black washers onto 4 screws.  
+![](../img/6_whole_l/6_2_screws_4.jpg)  
+Place the bottom plate on the back of the BASE unit, and insert the screws from the back side, and secure the screws with washers, spring washers and nuts.
+![](../img/6_whole_l/6_3_bottom.jpg)  
 
-![](../img/whole/IMG_5665.jpg)  
 Attach the 4 rubber feet.
-![](../img/whole/IMG_5671.jpg)  
+![](../img/6_whole_l/6_4_rubber_feet.jpg) 
+
 
 ### Assembly of the ADD Unit (Optional)
-Thread 3 block washers onto 3 black screws.    
-![](../img/whole/IMG_6106.jpg)  
-Like in the picture, slide the ADD unit and insert the angle pin header into the angle pin socket.
-![](../img/whole/IMG_5670.jpg)    
-The acrylic sheet and FR4 plate should fit together therefore be careful not exert too much force.
+Thread 3 black washers onto 3 black screws.  
+![](../img/6_whole_l/6_5_screws_3.jpg)  
+Slide the ADD unit and insert the angle pin header into the angle pin socket.
+
+![](../img/6_whole_l/6_6_union.jpg)  
+
 Insert black M2 screws into the 3 screw holes, and secure them with washers, spring washers and nuts.
-![](../img/whole/IMG_5674.jpg)  
+
+![](../img/6_whole_l/6_7_add_bottom.jpg)  
+
 Attach the rubber feet.
-![](../img/whole/IMG_5678.jpg)  
+![](../img/6_whole_l/6_8_add_rubber_feet.jpg)  
+
 Confirm that everything is working by connecting the unit to a computer with a USB cable. 
-The LEDs will only work if the TOP unit is connected.
-The direction of the scrolling can be configured later.
+> [!NOTE]
+> The LEDs will only work if the TOP unit is connected.  
+> The direction of the scrolling can be configured later.
 
 ### Completion
 Reattach the SIDE and TOP unit to the supports.
 
-![](../img/whole/IMG_5686.jpg)  
+![](../img/6_whole_l/6_9_reunion.jpg)  
 The keyboard will be complete after placing keycaps.
-![](../img/whole/IMG_5843.jpg)  
+![](../img/6_whole_l/6_10_complete.jpg)  
 Good job!
-
 Next, proceed to the guide for key settings.
+
 
 
 7. [Customizations](../rightside/7_CUSTOM.md)
