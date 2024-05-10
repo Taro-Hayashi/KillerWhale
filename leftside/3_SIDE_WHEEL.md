@@ -16,23 +16,23 @@
 
 
 ## Contents
-![](../img/wheel/IMG_5337.jpg)    
+![](../img/3_4_wheel_l/3_1_1_contents.jpg)    
 Vertical and horizontal common build manuals.
 ||types|quantities||
 |-|-|-|-|
 |1|Main board|1|FR4|
 |2|Switch plate|1|FR4|
 |3|Cover plates|2|Acryic|
-|4|M2 middle screw|4|6mm|
 |5|M2 short screw|5|4mm|
+|4|M2 middle screw|4|6mm|
 |6|M2 short spacer|1|8mm|
-|6|M2 middle spacers|2|9mm|
-|7|M2 long spacers|2|16mm|
-|8|Pin header|1||
-|9|Diodes|4|1N4148|
+|7|M2 middle spacers|2|9mm|
+|8|M2 long spacers|2|16mm|
+|9|MX hotswap sockets|2||
 |10|Wheel encoder|1||
 |11|Wheel|1||
-|12|MX hotswap sockets|2||
+|12|Diodes|4|1N4148|
+|13|Pin header|1||
 
 
 ### Additional Required
@@ -42,12 +42,14 @@ Vertical and horizontal common build manuals.
 |Keycaps|2|
 
 
-
-
 ### Optional Parts
 <table>
     <tr>
       <td>OLED Display</a></td> 
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>4Pin socket</a></td> 
       <td>1</td>
     </tr>
     <tr>
@@ -57,53 +59,101 @@ Vertical and horizontal common build manuals.
  </table>
  
 ## Soldering
-### (Optional)LED 
-![](../img/wheel/IMG_5353.jpg)  
-### MX hotswap socket
-![](../img/wheel/IMG_5358.jpg)  
-
-### Diodes
-![](../img/wheel/IMG_5362.jpg)  
-![](../img/wheel/IMG_5368.jpg)  
+Keep in mind that components will be placed on both sides of the unit.
+![](../img/3_4_wheel_l/3_1_2_overall.jpg)   
+The PCB side with text in Japanese is the back side.
+### Soldering of the LEDs (optional)  
+Solder the 3 LEDs. The round LED should be facing away from the side where soldering is done.
+![](../img/3_4_wheel_l/3_1_3_led.jpg)   
 
 
-### Pin headers
-![](../img/wheel/IMG_5380.jpg)  
+### Soldering of MX hotswap socket (back side)
+From the back side of the unit, solder the MX hotswap sockets while keeping them in place with tweezers.
 
+![](../img/3_4_wheel_l/3_1_4_mxsocket.jpg)   
 
-### (Optional) OLED Display
-![](../img/wheel/IMG_5383.jpg)  
-![](../img/trackball/IMG_5116.jpg)  
+### Soldering of the diodes (back side)
+Diodes are directional components. Make sure to align the lines with markings on the PCB.
+![](../img/c_diode.jpg)  
+Insert the diodes in the 4 locations on the back side of the PCB, and solder from the front side of the PCB, and cut the diode legs.
+![](../img/3_4_wheel_l/3_1_5_diodes.jpg) 
 
+### Soldering of pin headers (back side)
+Cut out four sets of 6 pins from the 40 pin headers. 
+
+![](../img/c_pin_header_6.jpg)   
+Insert the pin headers from the back side and solder.
+> [!WARNING]
+> Insert the long side of the pins. In case you did it the other way around, cut the long side in order to match the length of the short side.
+
+![](../img/3_4_wheel_l/3_1_10_pin_header.jpg) 
+
+### Soldering of OLED Display (optional, front side)
+If you want to make the OLED module removable, solder a 4pin socket on the surface.  
+![](../img/3_4_wheel_l/3_1_11_oled_socket.jpg)   
+
+Solder the pin headers to the OLED module.
+![](../img/c_oled_header.jpg)   
+If the OLED module is to be soldered directly, solder it to the main board at this time.
 ### Wheel encoder
-Widen the plate at the hem of the encoder 
-![](../img/wheel/IMG_4976.jpg)  
-![](../img/wheel/IMG_5390.jpg)  
+Insert the wheel encoder from the front side and solder.
+![](../img/3_4_wheel_l/3_1_12_encoder.jpg) 
 
+## Intermediate assembly and soldering of sockets
 
-## Assembling
-![](../img/wheel/IMG_5402.jpg)  
+### Assembling the switch plate
+
+If the switch plate is tagged, fold it and then sand it.
+![](../img/c_switch_l.jpg)   
+Attach the M2 long spacers and M2 short screws to the switch plate.
+> [!NOTE]
+> The switch plate has an orientation (lower and top part).
+
+![](../img/3_4_wheel_l/3_1_15_switch_1.jpg)  
   
+Attach the protection acrylic sheets to the spacers with M2 middle screws.  
+![](../img/3_4_wheel_l/3_1_17_switch_3.jpg) 
+Put the large protection acrylic sheet on top.
 
-Attach cover plate with M2 middle screws.
-![](../img/wheel/IMG_5406.jpg)  
-Larger cover plate is on top.
 
-Attach M2 long spacers and short spacer with M2 short screws.
-![](../img/wheel/IMG_5412.jpg)  
-  
-Insert pin socket into pin header.
-![](../img/wheel/IMG_5415.jpg)  
 
-Attach M3 washers with M3 screws. 
-![](../img/trackball/IMG_5169.jpg)   
-![](../img/wheel/IMG_5431.jpg)  
-Solder pin sockets on the bottom.
-![](../img/trackball/IMG_5184.jpg)  
+### Connecting to the BASE unit
+Attach long M2 spacers with M2 short screws to the SIDE unit.
 
-![](../img/wheel/IMG_5437.jpg)  
+> [!NOTE]
+> There should be one spacer on the bottom side of the SIDE unit and two to the top, forming an equilateral triangle.
 
-![](../img/wheel/IMG_5445.jpg)  
+![](../img/3_4_wheel_l/3_1_18_spacers.jpg)  
+
+
+If this is the first SIDE unit that you have built, remove two sets of 6 pins from the remaining BASE unit pin headers, and insert them in the pin sockets of the SIDE unit.
+![](../img/c_pin_socket_6.jpg)   
+![](../img/3_4_wheel_l/3_1_19_pinsocket.jpg)  
+
+Place the SIDE unit on the supports and secure it with the M3 screws excessed in base unit. 
+> [!CAUTION]
+> Make sure that the legs of the pin sockets are inside the long through-holes of the BASE unit.
+
+![](../img/3_4_wheel_l/3_1_27_base_1.jpg)   
+
+Solder the pin sockets from the back side of the BASE unit.
+![](../img/3_4_wheel_l/3_1_28_base_2.jpg)  
+This is the last soldering step for the SIDE unit.
+
+In case you plan on using the OLED module, insert it in the pin socket.  
+![](../img/3_4_wheel_l/3_1_29_base_3.jpg)   
+
+Attach MX switches to the switch plate, and insert them in the MX sockets, so that the joystick cap attached.
+![](../img/3_4_wheel_l/3_1_30_complete.jpg)   
+Secure the protection plate with M2 middle  screws.
+
+
+Confirm that everything is working by connecting the unit to a computer with a USB cable.  
+> [!NOTE]
+> The LEDs will not work until the TOP (and ADD) units are completed.  
+
+If the keys are working, proceed with the TOP unit assembly
+There are two types of top unit: the one included in the package, and a top unit with wheels sold separately.
   
 4. [TOP Unit](../leftside/4_TOP.md)
    - [TOP Unit with wheel (selling separately)](../leftside/4_TOP_WHEEL.md)

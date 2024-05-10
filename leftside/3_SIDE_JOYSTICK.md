@@ -111,6 +111,8 @@ Attach the protection acrylic sheets to the spacers with M2 middle screws.
 Put the large protection acrylic sheet on top.
 ![](../img/3_3_joystick_l/3_1_17_switch_3.jpg)  
 
+
+### Connecting to the BASE unit
 Attach long M2 spacers with M2 short screws to the SIDE unit.
 
 > [!NOTE]
@@ -138,7 +140,15 @@ In case you plan on using the OLED module, insert it in the pin socket.
 
 Attach MX switches to the switch plate, and insert them in the MX sockets, so that the joystick cap attached.
 ![](../img/3_3_joystick_l/3_1_30_complete.jpg)   
-Secure the protection plate with M2 middle 
+Secure the protection plate with M2 middle  screws.
+
+
+Confirm that everything is working by connecting the unit to a computer with a USB cable.  
+> [!NOTE]
+> The LEDs will not work until the TOP (and ADD) units are completed.  
+
+If the keys are working, proceed with the TOP unit assembly
+There are two types of top unit: the one included in the package, and a top unit with wheels sold separately.
 
 
 4. [TOP Unit](../leftside/4_TOP.md)

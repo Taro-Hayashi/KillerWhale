@@ -96,6 +96,7 @@ Attach the protection acrylic sheets to the spacers with M2 middle screws.
 Put the large protection acrylic sheet on top.
 ![](../img/3_2_dpad_l/3_1_17_switch_3.jpg)  
 
+### Connecting to the BASE unit
 Attach long M2 spacers with M2 short screws to the SIDE unit.
 
 > [!NOTE]

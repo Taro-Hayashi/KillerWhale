@@ -96,6 +96,7 @@ Attach the protection acrylic sheets to the spacers with M2 middle screws.
 Put the large protection acrylic sheet on top.
 ![](../img/3_2_dpad_r/3_1_17_switch_3.jpg)  
 
+### Connecting to the BASE unit
 Attach long M2 spacers with M2 short screws to the SIDE unit.
 
 > [!NOTE]
@@ -128,7 +129,7 @@ Secure the protection plate with M2 middle screws.
 
 Confirm that everything is working by connecting the unit to a computer with a USB cable.  
 > [!NOTE]
-> the LEDs will not work until the TOP (and ADD) units are completed.  
+> The LEDs will not work until the TOP (and ADD) units are completed.  
 
 If the keys and ball are working, proceed with the TOP unit assembly
 There are two types of top unit: the one included in the package, and a top unit with wheels sold separately.
