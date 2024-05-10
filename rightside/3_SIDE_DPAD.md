@@ -15,110 +15,124 @@
 8. [Misc](../rightside/8_MISC.md)
 
 ## Contents
-![](../img/d-pad/IMG_5253.jpg)    
+![](../img/3_2_dpad_r/3_1_1_contents.jpg)      
 ||types|quantities||
 |-|-|-|-|
 |1|Mainboard|1|FR4|
 |2|Switch plate|1|FR4|
 |3|Cover plate|2|Acrylic|
 |4|D-pad plate|2|Acrylic|
-|5|M2 middle screws|5|6mm|
-|6|M2 long screw|1|10mm|
-|7|M2 washer|1|*not include currently|
-|8|M2 spring washer|1|*not include currently|
-|9|M2 nut|1||
-|10|M2 short screws|5|4mm|
-|11|M2 short spacers|2|5mm|
-|12|M2 long spacers|3|12mm|
-|13|Pin header|1||
-|14|Diodes|8|1N4148|
-|15|Kailh mute switches|4|
-|16|MX hotswap sockets|2||
-
-Disclaimer: it is possible that the screws aspect or socket colors are different from the pictures from the build guide.
+|5|M2 short screws|5|4mm|
+|6|M2 middle screws|5|6mm|
+|7|M2 long screw|1|10mm|
+|8|M2 nut|1||
+|9|M2 short spacers|2|5mm|
+|10|M2 long spacers|3|12mm|
+|11|Diodes|8|1N4148|
+|12|MX hotswap sockets|2||
+|13|Mute switches|4|
+|14|Pin header|1||
 
 ## Soldering
 Note that components will be placed on both sides of the side unit.
-![](../img/d-pad/IMG_5256.jpg)  
+![](../img/3_2_dpad_r/3_1_2_overall.jpg)  
 The PCB side with text in Japanese is the back side.
 
 ### Soldering of the LEDs (optional)  
 Solder the 3 LEDs. The round LED should be facing away from the side where soldering is done.
-![](../img/d-pad/IMG_5260.jpg)  
+![](../img/3_2_dpad_r/3_1_3_led.jpg)  
+
 ### Soldering of MX hotswap socket (back side)
 From the back side of the unit, solder the MX hotswap sockets while keeping them in place with tweezers.
-![](../img/d-pad/IMG_5264.jpg)  
-Once there is enough solder material on both sides of the socket so that it stays in place, you can put the tweezers aside and apply more solder.
-Because of the relatively large surface, a lot of solder material is needed.
+![](../img/3_2_dpad_r/3_1_4_mxsocket.jpg)  
+
 
 ### Soldering of the diodes (back side)
-Diodes are directional components. Make sure to align the lines with markings on the PCB.  
-![](../img/diode.jpg)  
+Diodes are directional components. Make sure to align the lines with markings on the PCB.
+![](../img/c_diode.jpg)  
+Insert the diodes in the 4 locations on the back side of the PCB, and solder from the front side of the PCB, and cut the diode legs.
+![](../img/3_2_dpad_r/3_1_5_diodes.jpg)   
 
-Insert the diodes in the 8 locations on the back side of the PCB, and secure them with masking tape.  
-![](../img/d-pad/IMG_5266.jpg)  
-Solder from the front side of the PCB and cut the diode legs.  
-![](../img/d-pad/IMG_5267.jpg)  
 
-### Soldering of the pin headers
-Cut out four sets of 6 pins from the 40 pin headers and insert the from the back side.
-Insert the long side of the pins. In case you did it the other way around, cut the long side in order to match the length of the short side.
+### Soldering of pin headers (back side)
+Cut out four sets of 6 pins from the 40 pin headers. 
 
-![](../img/d-pad/IMG_5278.jpg)  
-### Soldering of the OLED Display (Optional, front side) 
-Solder the OLED display socket from the front side.
+![](../img/c_side_pinheader.jpg)   
+Insert the pin headers from the back side and solder.
+> [!WARNING]
+> Insert the long side of the pins. In case you did it the other way around, cut the long side in order to match the length of the short side.
 
-![](../img/d-pad/IMG_5280.jpg)  
-If you do not plan to remove the display later, it is also possible to directly solder it without socket.
+![](../img/3_2_dpad_r/3_1_10_pin_header.jpg) 
 
-Solder the dedicated pin headers to the OLED module.
+### Soldering of OLED Display (optional, front side)
+If you want to make the OLED module removable, solder a 4pin socket on the surface.  
+![](../img/3_2_dpad_r/3_1_11_oled_socket.jpg)   
 
-![](../img/trackball/IMG_5116.jpg)  
-Keep the module aside for later and do not connect it yet.
+Solder the pin headers to the OLED module.
+![](../img/c_oled_header.jpg)  
+If the OLED module is to be soldered directly, solder it to the main board at this time.
+
+### Mute switch
 ### Soldering of the Kailh mute switches (front side)
 Insert the switches from the front side of the PCB and solder from the back side.
-![](../img/d-pad/IMG_5284.jpg)  
 
-## Assembling
+![](../img/3_2_dpad_r/3_1_12_mute_switch.jpg)  
 
-### Attaching the switch plate
-Attach short spacers to the switch plate with M2 short screws.
-![](../img/d-pad/IMG_5286.jpg)  
 
-![](../img/d-pad/IMG_5290.jpg)  
-Note that the switch plate has an orientation - refer to the picture.
+## Intermediate assembly and soldering of sockets
 
-Attach the protection acrylic sheets to the spacers with M2 middle screws.
-![](../img/d-pad/IMG_5292.jpg)  
-If the spacers are long and silver, put the small protection acrylic sheet on top, and if the spacers color is copper, put the large protection acrylic sheet on top.
-![](../img/d-pad/IMG_6245.jpg)  
+### Assembling the switch plate
+
+If the switch plate is tagged, fold it and then sand it.
+![](../img/c_switch_l.jpg)   
+Attach the M2 long spacers and M2 short screws to the switch plate.
+> [!NOTE]
+> The switch plate has an orientation (lower and top part).
+
+![](../img/3_2_dpad_r/3_1_15_switch_1.jpg)  
+  
+Attach the protection acrylic sheets to the spacers with M2 middle screws.  
+![](../img/3_2_dpad_r/3_1_16_switch_2.jpg) 
+Put the large protection acrylic sheet on top.
+![](../img/3_2_dpad_r/3_1_17_switch_3.jpg)  
 
 Attach long M2 spacers with M2 short screws to the SIDE unit.
-![](../img/d-pad/IMG_5294.jpg) 
-There should be one spacer on the bottom side of the SIDE unit and two to the top, forming an equilateral triangle.
+
+> [!NOTE]
+> There should be one spacer on the bottom side of the SIDE unit and two to the top, forming an equilateral triangle.
+
+![](../img/3_2_dpad_r/3_1_18_spacers.jpg)  
+
 
 If this is the first SIDE unit that you have built, remove two sets of 6 pins from the remaining BASE unit pin headers, and insert them in the pin sockets of the SIDE unit.
-![](../img/d-pad/IMG_5296.jpg)  
-From the BASE unit remaining items, thread M3 washers onto M3 screws.  
-![](../img/trackball/IMG_5169.jpg)   
-Place the SIDE unit on the supports and secure it with the M3 screws. Make sure that the legs of the pin sockets are inside the long through-holes of the BASE unit.
-![](../img/d-pad/IMG_6134.jpg)    
-Solder the pin sockets from the back side of the BASE unit. Make sure to put enough solder to reach the front side of the BASE unit through the holes.
-![](../img/trackball/IMG_5184.jpg)  
+![](../img/c_pin_socket.jpg)   
+![](../img/3_2_dpad_r/3_1_19_pinsocket.jpg)  
+
+Place the SIDE unit on the supports and secure it with the M3 screws excessed in base unit. 
+> [!CAUTION]
+> Make sure that the legs of the pin sockets are inside the long through-holes of the BASE unit.
+
+![](../img/3_2_dpad_r/3_1_27_base_1.jpg)   
+
+Solder the pin sockets from the back side of the BASE unit.
+![](../img/3_2_dpad_r/3_1_28_base_2.jpg)  
 This is the last soldering step for the SIDE unit.
 
-In case you plan on using the OLED module, insert it in the pin socket.
-![](../img/d-pad/IMG_6143.jpg)  
+In case you plan on using the OLED module, insert it in the pin socket.  
+![](../img/3_2_dpad_r/3_1_29_base_3.jpg)   
 
-Secure the D pad plate with long M2 screw and nut.
-![](../img/d-pad/IMG_5297.jpg)  
-Attach the key switches to the plate and insert the assembly into the MX sockets, so that the D pad is in the middle. 
-![](../img/d-pad/IMG_5307.jpg)  
-Secure the protection plate with M2 middle screws. That's it for the SIDE unit!
+Attach MX switches to the switch plate, and insert them in the MX sockets, so that the D pad is in the middle.   
+![](../img/3_2_dpad_r/3_1_30_complete.jpg)   
+Secure the protection plate with M2 middle screws.
  
-Confirm that everything is working by connecting the unit to a computer with a USB cable. Note that the LEDs will not work until the top and additional unit are completed.
-If you do not detect any issue, proceed with the TOP unit assembly.
- 
+
+Confirm that everything is working by connecting the unit to a computer with a USB cable.  
+> [!NOTE]
+> the LEDs will not work until the TOP (and ADD) units are completed.  
+
+If the keys and ball are working, proceed with the TOP unit assembly
+There are two types of top unit: the one included in the package, and a top unit with wheels sold separately.
+
 4. [TOP Unit](../rightside/4_TOP.md)
    - [TOP Unit with wheel (sold separately)](../rightside/4_TOP_WHEEL.md)
 
