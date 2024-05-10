@@ -34,7 +34,6 @@
 |18|MX Hotswap sockets|2||
 |19|Rubber feet|2||
 
-Disclaimer: it is possible that the screws aspect or socket colors are different from the pictures from the build guide.
 
 ## Soldering
 Keep in mind that components will be placed on both sides of the ADD unit.
