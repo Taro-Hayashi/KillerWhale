@@ -94,7 +94,7 @@ If you want to make the OLED module removable, solder a 4pin socket on the surfa
 ![](../img/3_1_trackball_l/3_1_11_oled_socket.jpg)   
 
 Solder the pin headers to the OLED module.
-![](../img/3_1_trackball_l/3_1_12_oled_header.jpg)  
+![](../img/c_oled_header.jpg)  
 If the OLED module is to be soldered directly, solder it to the main board at this time.
 
 
