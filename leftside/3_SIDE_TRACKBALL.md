@@ -82,7 +82,7 @@ Insert the regulator pins from the back side and bend them so that the component
 ### Soldering of pin headers (back side)
 Cut out four sets of 6 pins from the 40 pin headers. 
 
-![](../img/c_side_pinheader.jpg)   
+![](../img/c_pin_header_6.jpg)   
 Insert the pin headers from the back side and solder.
 > [!WARNING]
 > Insert the long side of the pins. In case you did it the other way around, cut the long side in order to match the length of the short side.
@@ -148,7 +148,7 @@ After securing the 3 arms, insert a ball, and from a flat location, check if the
 
 ### Connecting to the BASE unit
 If this is the first SIDE unit that you have built, remove two sets of 6 pins from the remaining BASE unit pin headers, and insert them in the pin sockets of the SIDE unit.
-![](../img/c_pin_socket.jpg)   
+![](../img/c_pin_socket_6.jpg)   
 ![](../img/3_1_trackball_l/3_1_26_pin_socket.jpg)   
 
 Place the SIDE unit on the supports and secure it with the M3 screws excessed in base unit. 
