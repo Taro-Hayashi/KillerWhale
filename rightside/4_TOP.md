@@ -25,7 +25,9 @@
 For the TOP unit, all components are soldered from the back side.
 ![](../img/4_1_top_r/4_1_2_overall.jpg)  
 ### Soldering of the LEDs (optional)
-The light emitting side of LEDs must be facing away.
+
+> [!CAUTION]
+> Orientation varies by location.
 
 ![](../img/4_1_top_r/4_1_3_led.jpg)  
 
