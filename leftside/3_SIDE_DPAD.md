@@ -50,7 +50,7 @@ From the back side of the unit, solder the MX hotswap sockets while keeping them
 ### Soldering of the diodes (back side)
 Diodes are directional components. Make sure to align the lines with markings on the PCB.
 ![](../img/c_diode.jpg)  
-Insert the diodes in the 4 locations on the back side of the PCB, and solder from the front side of the PCB, and cut the diode legs.
+Insert the diodes in the 8 locations on the back side of the PCB, and solder from the front side of the PCB, and cut the diode legs.
 ![](../img/3_2_dpad_l/3_1_5_diodes.jpg)   
 
 
