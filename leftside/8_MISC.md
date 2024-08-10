@@ -15,13 +15,14 @@
 - SOLO [tarohayashi_killerwhale_solo_via.uf2
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_solo_via.uf2)
 - DUO [tarohayashi_killerwhale_duo_ballleft.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_duo_via.uf2)  
-  
-    
+](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_duo_via.uf2)
+
+
 - SOLO for testing [tarohayashi_killerwhale_solo_default.uf2
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_solo_default.uf2)
 - DUO for testing [tarohayashi_killerwhale_duo_default.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_duo_default.uf2)  
+](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_duo_default.uf2)
+
 
 ## Special Keys
 |Key name on remap|Function|
@@ -58,29 +59,40 @@
 |Scroll Mode|Scrolling with trackball/joystick only as long as it is pressed|
 |Toggle Auto Mouse|Toggle auto mouse function|
 |OLED Mode|Switching OLED display content|
-|QK_USER_0|ESC when tapped, scroll when hold|
-|QK_USER_1|Tab when tapped, scroll when hold|
-|QK_USER_2|lang1 when tapped, scroll when hold|
-|QK_USER_3|lang2 when tapped, scroll when hold|
-|QK_USER_4|Slowdown trackball/joystick only as long as it is pressed|
-|QK_USER_5|ESC when tapped, slowdown trackball/joystick when hold|
-|QK_USER_6|Tab when tapped, slowdown trackball/joystick when hold|
-|QK_USER_7|lang1 when tapped, slowdown trackball/joystick when hold|
-|QK_USER_8|lang2 when tapped, slowdown trackball/joystick when hold|
-|QK_USER_9|Left click when tapped, slowdown trackball/joystick when hold|
-|QK_USER_10|Right click when tapped, slowdown trackball/joystick when hold|
-|QK_USER_11|Center click when tapped, slowdown trackball/joystick when hold|
-|QK_USER_12|Trackball/joystick moves cursor only as long as it is pressed|
-|QK_USER_13|Trackball/joystick input keys only as long as it is pressed|
-|QK_USER_14|Exclude diagonal input on D-Pad and input key mode|
-|QK_USER_15|Toggle RGB layer function|
+|USER 0|ESC when tapped, scroll when hold|
+|USER 1|Tab when tapped, scroll when hold|
+|USER 2|lang1 when tapped, scroll when hold|
+|USER 3|lang2 when tapped, scroll when hold|
+|USER 4|Slowdown trackball/joystick only as long as it is pressed|
+|USER 5|ESC when tapped, slowdown trackball/joystick when hold|
+|USER 6|Tab when tapped, slowdown trackball/joystick when hold|
+|USER 7|lang1 when tapped, slowdown trackball/joystick when hold|
+|USER 8|lang2 when tapped, slowdown trackball/joystick when hold|
+|USER 9|Left click when tapped, slowdown trackball/joystick when hold|
+|USER 10|Right click when tapped, slowdown trackball/joystick when hold|
+|USER 11|Center click when tapped, slowdown trackball/joystick when hold|
+|USER 12|Trackball/joystick moves cursor only as long as it is pressed|
+|USER 13|Trackball/joystick input keys only as long as it is pressed|
+|USER 14|Exclude diagonal input on D-Pad and input key mode|
+|USER 15|Toggle RGB layer function|
+|USER 16|Reset joystick calibration|
+|USER 17|Key to Input Gamepad Up|
+|USER 18|Key to Input Gamepad Down|
+|USER 19|Key to Input Gamepad Left|
+|USER 20|Key to Input Gamepad Right|
+|USER 21|Game mode when hold|
+|USER 22|Reduce range to ignore small values (default: 50)||
+|USER 23|Expand range to ignore small values (max: 200)|
+|USER 24|Reduce range to ignore large values (default: 0)|
+|USER 25|Expand range to ignore large values (max: 200)|
+
 
 ## Firmware Codes
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/killerwhale
-  
+
 ## Acrylic and switch plates
 - https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.22.9/killer_whale_plates.zip
-  
+
 ## Sales
 - Yushakobo
   - Killer Whale https://shop.yushakobo.jp/en/products/7948
