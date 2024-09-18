@@ -25,7 +25,7 @@
 ### オプション（片手分）
 <table>
     <tr>
-      <td><a href="https://tarohayashi.booth.pm/items/4877491">OLEDモジュール</a></td> 
+      <td><a href="https://shop.yushakobo.jp/products/oled">OLEDモジュール</a></td> 
       <td>1〜2</td>
       <td>通常は1個、予備の側面ユニットにも付けるならもう1個</td>
     </tr>
