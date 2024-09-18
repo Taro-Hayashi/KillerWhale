@@ -17,7 +17,7 @@
 |-|-|-|
 |[キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|26〜30|Cherry MX互換|
 |[キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|26〜30|Cherry MX互換|
-|[Raspberry Pi Pico](https://shop.yushakobo.jp/products/raspberry-pi-pico)|1||
+|Raspberry Pi Pico|1|[秋月電子通商](https://akizukidenshi.com/catalog/g/g116132/)、[BOOTH（Type-C版）](https://tarohayashi.booth.pm/items/4877491)|
 |USBケーブル|1||
 |34mm トラックボール|0~1|[遊舎工房](https://shop.yushakobo.jp/products/8020)、[Amazon](https://www.amazon.co.jp/gp/product/B07BDGSX5X)|
 
@@ -25,7 +25,7 @@
 ### オプション（片手分）
 <table>
     <tr>
-      <td><a href="https://shop.yushakobo.jp/products/oled">OLEDモジュール</a></td> 
+      <td><a href="https://tarohayashi.booth.pm/items/4877491">OLEDモジュール</a></td> 
       <td>1〜2</td>
       <td>通常は1個、予備の側面ユニットにも付けるならもう1個</td>
     </tr>
