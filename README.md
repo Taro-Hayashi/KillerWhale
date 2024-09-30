@@ -19,6 +19,8 @@
 |[キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|26〜30|Cherry MX互換|
 |Type-C USBケーブル|1||
 |34mm トラックボール|0~1|[遊舎工房](https://shop.yushakobo.jp/products/8020)、[Amazon](https://www.amazon.co.jp/gp/product/B07BDGSX5X)|
+
+
 ※Raspberry Pi Picoは2024年10月より同梱品になりました。
 
 ![](img/1_start/1_2_additional_required.jpg)     
