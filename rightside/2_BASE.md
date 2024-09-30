@@ -49,7 +49,7 @@ Separate the pin header into sets of 20 pins with a nipper.
 Insert the pins in the holes in the PCB, place the Raspberry Pi Pico.
 
 > [!WARNING]
-> The Raspberry Pi Pico in the photo is Micro-USB, but a Type-C version is included.
+> The Raspberry Pi Pico in the photo is Micro-USB, but a Type-C version is included.  
 > Be careful to place the Raspberry Pi Pico on the correct side - you can confirm this by checking the position of GP0 and VBUS. Once this is done, proceed with soldering.
 
 ![](../img/2_base_r/2_4_raspberry_pi_pico_1.jpg)
