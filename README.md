@@ -9,8 +9,8 @@
 7. [カスタマイズ](右手用/7_カスタマイズ.md)
 8. [その他](右手用/8_その他.md)
 
-大きな袋の中にスイッチプレートと5つの袋が入っています。  
-![](img/1_start/1_1_full.jpg)     
+大きな袋の中にスイッチプレートと5つの袋が入っています。
+![](img/1_start/1_1_full.jpg)
 
 ## キット以外に必要なもの（片手分）
 |部品名|数||
@@ -21,18 +21,18 @@
 |34mm トラックボール|0~1|[遊舎工房](https://shop.yushakobo.jp/products/8020)、[Amazon](https://www.amazon.co.jp/gp/product/B07BDGSX5X)|
 
 
-※Raspberry Pi Picoは2024年10月より同梱品になりました。
+※2024年10月よりType-C版のRaspberry Pi Picoが同梱されています。
 
-![](img/1_start/1_2_additional_required.jpg)     
+![](img/1_start/1_2_additional_required.jpg)
 ### オプション（片手分）
 <table>
     <tr>
-      <td><a href="https://shop.yushakobo.jp/products/oled">OLEDモジュール</a></td> 
+      <td><a href="https://shop.yushakobo.jp/products/oled">OLEDモジュール</a></td>
       <td>1〜2</td>
       <td>通常は1個、予備の側面ユニットにも付けるならもう1個</td>
     </tr>
     <tr>
-      <td>ピンソケット4ピン分</td> 
+      <td>ピンソケット4ピン分</td>
       <td>1〜2</td>
       <td>OLEDモジュールを付け外しする場合</td>
     </tr>
@@ -49,12 +49,12 @@
  </table>
 
 
-![](img/1_start/1_3_optional_parts.jpg)    
+![](img/1_start/1_3_optional_parts.jpg)
 
 ### 別売ユニット
 <table>
     <tr>
-      <td><a href="https://tarohayashi.booth.pm/items/4877491">側面ユニット ホイール 縦</a></td> 
+      <td><a href="https://tarohayashi.booth.pm/items/4877491">側面ユニット ホイール 縦</a></td>
     </tr>
     <tr>
       <td><a href="https://tarohayashi.booth.pm/items/4877491">側面ユニット ホイール 横</a></td>
@@ -69,13 +69,13 @@
       <td><a href="https://tarohayashi.booth.pm/items/4877486">ホイール付き天面ユニット</a></td>
     </tr>
  </table>
-  
-![](img/1_start/1_4_optional_units.jpg)    
+
+![](img/1_start/1_4_optional_units.jpg)
 
 ### 色違いのアクリルプレート
 <table>
     <tr>
-        <td><a href="https://shop.yushakobo.jp/products/keyboard_acrylic_plate?variant=47873651245287">左手用</a></td> 
+        <td><a href="https://shop.yushakobo.jp/products/keyboard_acrylic_plate?variant=47873651245287">左手用</a></td>
         <td><a href="https://shop.yushakobo.jp/products/keyboard_acrylic_plate?variant=47873651278055">右手用</a></td>
         <td><a href="https://shop.yushakobo.jp/products/keyboard_acrylic_plate?variant=47873651310823">支柱</a></td>
     </tr>
@@ -130,33 +130,31 @@
 
 ## 準備
 ### スイッチプレートの切り離し
-スイッチプレートは繋がった状態で入っていて切り離して使います。  
-![](img/1_start/1_5_switch_plate.jpg)    
-カッターで切れ目を入れ折って切り離します。  
-![](img/1_start/1_6_cut_plate.jpg)    
-断面はやすりで綺麗にします。  
-![](img/1_start/1_7_sanding.jpg)    
-削った粉がコネクタ類やトラックボールのセンサーに入り込まないようにここで一度服を払ったり机の上の掃除をすると安心です。  
-![](img/1_start/1_8_switch_plates.jpg)    
-それぞれのユニットのビルドガイドでスイッチプレートとして使います。  
+スイッチプレートは繋がった状態で入っていて切り離して使います。
+![](img/1_start/1_5_switch_plate.jpg)
+カッターで切れ目を入れ折って切り離します。
+![](img/1_start/1_6_cut_plate.jpg)
+断面はやすりで綺麗にします。
+![](img/1_start/1_7_sanding.jpg)
+削った粉がコネクタ類やトラックボールのセンサーに入り込まないようにここで一度服を払ったり机の上の掃除をすると安心です。
+![](img/1_start/1_8_switch_plates.jpg)
+それぞれのユニットのビルドガイドでスイッチプレートとして使います。
 
 ## テスト用ファームウェアを書き込む
-こちらのファイルをダウンロードしてください。    
+こちらのファイルをダウンロードしてください。
 - [tarohayashi_killerwhale_solo_default.uf2
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_solo_default.uf2)
 
-Raspberry Pi PicoのBOOTSELボタン押しながらUSBケーブルでPCと接続すると、RPI-RP2というUSBメモリとして認識されます。    
-![](img/1_start/1_9_raspberry_pi_pico.jpg)     
-![](img/1_start/1_10_rpi_rp2.jpg)     
-ダウンロードしたファイルをドラッグ&ドロップしてドライブが自動的に消えたら成功です。    
-書き込みが終わったら一旦USBケーブルは外します。    
+Raspberry Pi PicoのBOOTSELボタン押しながらUSBケーブルでPCと接続すると、RPI-RP2というUSBメモリとして認識されます。
+![](img/1_start/1_9_raspberry_pi_pico.jpg)
+![](img/1_start/1_10_rpi_rp2.jpg)
+ダウンロードしたファイルをドラッグ&ドロップしてドライブが自動的に消えたら成功です。
+書き込みが終わったら一旦USBケーブルは外します。
 
 ### 左右を決める
 キットを左右どちらで作るか決めてベースユニットの組み立てに進みます。
 - [ベースユニット 左手用](左手用/2_ベースユニット.md)
 - [ベースユニット 右手用](右手用/2_ベースユニット.md)
 
-> [!NOTE] 
-> 左右のビルドガイドの違いは写真だけですが間違えやすいので合った側を見るのがおすすめです。  
-
-
+> [!NOTE]
+> 左右のビルドガイドの違いは写真だけですが間違えやすいので合った側を見るのがおすすめです。
