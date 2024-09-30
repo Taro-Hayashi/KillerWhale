@@ -17,9 +17,9 @@
 |-|-|-|
 |[キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|26〜30|Cherry MX互換|
 |[キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|26〜30|Cherry MX互換|
-|Raspberry Pi Pico|1|[秋月電子通商](https://akizukidenshi.com/catalog/g/g116132/)、[BOOTH（Type-C版）](https://tarohayashi.booth.pm/items/4877491)|
-|USBケーブル|1||
+|Type-C USBケーブル|1||
 |34mm トラックボール|0~1|[遊舎工房](https://shop.yushakobo.jp/products/8020)、[Amazon](https://www.amazon.co.jp/gp/product/B07BDGSX5X)|
+※Raspberry Pi Picoは2024年10月より同梱品になりました。
 
 ![](img/1_start/1_2_additional_required.jpg)     
 ### オプション（片手分）
@@ -83,9 +83,6 @@
 <table>
     <tr>
       <td><a href="https://shop.yushakobo.jp/products/31?variant=40815840067745">コンスルー20ピン 2.5mm</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://shop.yushakobo.jp/products/7497">Raspberry Pi Pico W</a></td>
     </tr>
     <tr>
       <td>ゲームボーイの十字キー</td>
