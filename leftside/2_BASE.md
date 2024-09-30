@@ -10,7 +10,7 @@
 8. [Misc](../leftside/8_MISC.md)
 
 ## Contents
-![](../img/2_base_l/2_1_contents.jpg)      
+![](../img/2_base_l/2_1_contents.jpg)
 ||Types|Quantities||
 |-|-|-|-|
 |1|Main Board|1|FR4|
@@ -36,84 +36,86 @@
 |21|Rubber feet|4||
 |22|MOSFET|4|BSS138|
 |23|Resistors|4|10k|
+|24|Type-C Raspberry Pico|1||
 
- 
+
 ## Soldering
 The components of the BASE unit are all placed on the front side.
-![](../img/2_base_l/2_2_overall.jpg)   
+![](../img/2_base_l/2_2_overall.jpg)
 
 ### Soldering of the Raspberry Pi Pico
-Separate the pin header into sets of 20 pins with a nipper. 
-![](../img/2_base_l/2_3_pin_header.jpg)    
+Separate the pin header into sets of 20 pins with a nipper.
+![](../img/2_base_l/2_3_pin_header.jpg)
 Insert the pins in the holes in the PCB, place the Raspberry Pi Pico.
-![](../img/2_base_l/2_4_raspberry_pi_pico_1.jpg)   
-> [!WARNING]  
+> [!WARNING]
+> The Raspberry Pi Pico in the photo is Micro-USB, but a Type-C version is included.
 > Be careful to place the Raspberry Pi Pico on the correct side - you can confirm this by checking the position of GP0 and VBUS. Once this is done, proceed with soldering.
+![](../img/2_base_l/2_4_raspberry_pi_pico_1.jpg)
 
-![](../img/2_base_l/2_5_raspberry_pi_pico_2.jpg)      
+![](../img/2_base_l/2_5_raspberry_pi_pico_2.jpg)
 Solder from the front and back side. Cut the long side of the pins with a nipper.
-![](../img/2_base_l/2_6_raspberry_pi_pico_3.jpg)    
+![](../img/2_base_l/2_6_raspberry_pi_pico_3.jpg)
 
 ### Soldering of Angle Pin Socket
 Place the socket, then solder from the back side.
-![](../img/2_base_l/2_7_angle_sockert.jpg)       
+![](../img/2_base_l/2_7_angle_sockert.jpg)
 
 ### Soldering of TRRS Jacks
 Place the trrs jacks, then solder from the back side.
-![ ](../img/2_base_l/2_8_trrs.jpg)      
+![ ](../img/2_base_l/2_8_trrs.jpg)
 
 ### Jumpers
 From the pin headers, cut out two sets of 3 pins, and 8 sets of 4 pins.
 
-![](../img/2_base_l/2_9_pin_header_1.jpg)   
+![](../img/2_base_l/2_9_pin_header_1.jpg)
 
 Solder them in the area delimitated by frames. Insert the short side in holes so that the long side is stick out from the front side of the PCB.
 
-![](../img/2_base_l/2_10_pin_header_2.jpg)    
+![](../img/2_base_l/2_10_pin_header_2.jpg)
 Insert 6 jumpers at 3 locations according to your planned configuration.
 
-![](../img/2_base_l/2_11_jumper.jpg)      
+![](../img/2_base_l/2_11_jumper.jpg)
 For the LEFT BASE unit, in case you plan to have the ADD unit and a keypad based SIDE unit, the jumper placement should be the same as the picture below.
 
 
 ### Soldering of the LEDs (optional)
 Since the components are very small, manipulate them with tweezers during soldering in order to avoid getting burned.
-![](../img/2_base_l/2_12_mosfet.jpg)          
+![](../img/2_base_l/2_12_mosfet.jpg)
 
 LEDs have a direction. Make sure that the round part emitting light is facing away by placing the cut leg of LEDs on the pad with a mark on the PCB.
-![](../img/c_led.jpg)       
+![](../img/c_led.jpg)
 There are 3 locations for LEDs on the base unit.
 
-![](../img/2_base_l/2_13_sk6812mini_e.jpg) 
+![](../img/2_base_l/2_13_sk6812mini_e.jpg)
 Connect a USB cable and check if the LEDs are working.
 
 ## Supports
 ### Assembly of the supports
 4 supports must be prepared with the 8 acrylic sheets.
-![](../img/2_base_l/2_14_pillars.jpg)    
+![](../img/2_base_l/2_14_pillars.jpg)
 Thread the M2 silver washers onto 12 M2 silver screws.
 
-![](../img/2_base_l/2_15_m2screw.jpg)    
+![](../img/2_base_l/2_15_m2screw.jpg)
 
 Insert the M2 screws with washers into one side of the pillars, and secure with M2 spacers.
-![](../img/2_base_l/2_16_pillar_1.jpg)    
-Insert the square nut diagonally into the slits of the supports. The small support has 2 slits, the medium on 3 and the large one 4. 
-![](../img/2_base_l/2_17_pillar_2.jpg)    
+![](../img/2_base_l/2_16_pillar_1.jpg)
+Insert the square nut diagonally into the slits of the supports. The small support has 2 slits, the medium on 3 and the large one 4.
+![](../img/2_base_l/2_17_pillar_2.jpg)
 Place the other side of the support and insert washers and spring washers, and secure with a nut.
-![](../img/2_base_l/2_18_pillar_3.jpg)     
+![](../img/2_base_l/2_18_pillar_3.jpg)
 
 
 At this point, the 4 supports are complete.
-![](../img/2_base_l/2_19_pillars_complete.jpg)   
+![](../img/2_base_l/2_19_pillars_complete.jpg)
 
 ### Assembly of the support onto the unit
-Place the pillar on the front side of the PCB and secure them from the back side with M3 screws. 
+Place the pillar on the front side of the PCB and secure them from the back side with M3 screws.
 > [!NOTE]
 > As they will be removed later, do not tighten them too much.
 
-![](../img/2_base_l/2_20_base_complete.jpg)    
+![](../img/2_base_l/2_20_base_complete.jpg)
 
-Remaining parts will be used in later steps, therefore keep them at hand. 
+Remaining parts will be used in later steps, therefore keep them at hand.
 
 Now you can proceed to the build guide of the SIDE unit that you are planning to use.
 
