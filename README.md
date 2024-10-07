@@ -52,25 +52,8 @@
 ![](img/1_start/1_3_optional_parts.jpg)
 
 ### 別売ユニット
-<table>
-    <tr>
-      <td><a href="https://tarohayashi.booth.pm/items/4877491">側面ユニット ホイール 縦</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://tarohayashi.booth.pm/items/4877491">側面ユニット ホイール 横</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://tarohayashi.booth.pm/items/4877491">側面ユニット ジョイスティック</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://tarohayashi.booth.pm/items/4877491">25mm トラックボール支柱</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://tarohayashi.booth.pm/items/4877486">ホイール付き天面ユニット</a></td>
-    </tr>
- </table>
-
 ![](img/1_start/1_4_optional_units.jpg)
+https://tarohayashi.booth.pm/items/4877491
 
 ### 色違いのアクリルプレート
 <table>

@@ -63,25 +63,10 @@ There are 5 switch plates included in the largest bag.
 ![](img/1_start/1_3_optional_parts.jpg)
 
 ### Optional Units (sold separately)
-<table>
-    <tr>
-      <td><a href="https://tarohayashi.booth.pm/items/4877491">SIDE Unit (Vertical Wheel)</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://tarohayashi.booth.pm/items/4877491">SIDE Unit (Horizontal Wheel)</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://tarohayashi.booth.pm/items/4877491">SIDE Unit (Joystick)</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://tarohayashi.booth.pm/items/4877491">Ball pillars for 25mm ball</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://tarohayashi.booth.pm/items/4877486">TOP Unit with wheel</a></td>
-    </tr>
- </table>
 
 ![](img/1_start/1_4_optional_units.jpg)
+https://tarohayashi.booth.pm/items/4877491
+
 
 ### Optional Acrylic Plates
 <table>
