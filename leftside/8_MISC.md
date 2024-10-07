@@ -94,8 +94,5 @@
 - https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.22.9/killer_whale_plates.zip
 
 ## Sales
-- Yushakobo
-  - Killer Whale https://shop.yushakobo.jp/en/products/7948
-- BOOTH（Unit only）
-  - Killer Whale SIDE Unit https://tarohayashi.booth.pm/items/4877491
-  - Killer Whale TOP Unit with Wheels https://tarohayashi.booth.pm/items/4877486
+- Yushakobo https://shop.yushakobo.jp/en/products/7948
+- BOOTH https://tarohayashi.booth.pm/items/5771739
