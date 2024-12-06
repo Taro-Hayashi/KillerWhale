@@ -87,6 +87,9 @@ https://tarohayashi.booth.pm/items/4877491
 ### 3D Printed Trackball Case  (made by thw)
 - https://nankatsukurouyo.myportfolio.com/killerwhale
 
+- ### Killer Whale Keyboard trackball case  (made by NHRD)
+- https://nankatsukurouyo.myportfolio.com/killerwhale
+
 ### Undertow
 - https://booth.pm/ja/items/5676575
 
