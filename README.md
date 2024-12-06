@@ -79,6 +79,9 @@ https://tarohayashi.booth.pm/items/4877491
       <td><a href="https://nankatsukurouyo.myportfolio.com/killerwhale">トラックボールケース3Dプリントデータ（せう様作）</a></td>
     </tr>
     <tr>
+      <td><a href="https://booth.pm/ja/items/5341402">Killer Whale Keyboard trackball case（NHRD様作）</a></td>
+    </tr>
+    <tr>
       <td><a href="https://booth.pm/ja/items/5676575">UndertowとUndertow Alterna</a></td>
     </tr>
  </table>
