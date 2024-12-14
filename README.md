@@ -128,8 +128,8 @@ https://tarohayashi.booth.pm/items/4877491
 
 ## テスト用ファームウェアを書き込む
 こちらのファイルをダウンロードしてください。
-- [tarohayashi_killerwhale_solo_default.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_solo_default.uf2)
+- [tarohayashi_killerwhale_solo_test.uf2
+](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_solo_test.uf2)
 
 Raspberry Pi PicoのBOOTSELボタン押しながらUSBケーブルでPCと接続すると、RPI-RP2というUSBメモリとして認識されます。
 ![](img/1_start/1_9_raspberry_pi_pico.jpg)

@@ -135,8 +135,8 @@ Switch plates will be used in the build guide of each unit.
 
 ## Write Testing firmware
 Download the following uf2 file.
-- [tarohayashi_killerwhale_solo_default.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_solo_default.uf2)
+- [tarohayashi_killerwhale_solo_test.uf2
+](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_solo_test.uf2)
 
 Connect the Raspberry Pi Pico to the PC while holding down the BOOTSEL button, it will be recognized as a USB memory device called RPI-RP2.
 
