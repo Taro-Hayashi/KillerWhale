@@ -46,7 +46,7 @@
 ![](../img/4_2_wheeltop_l/4_2_5_sockets.jpg)
 
 
-### Pin headers
+### Pin headers![](../img/c_pin_header_7.jpg)
 ![](../img/4_2_wheeltop_l/4_2_6_pinheaders.jpg)
 
 ### Wheel encoder
