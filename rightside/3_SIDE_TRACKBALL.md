@@ -32,7 +32,7 @@
 |13|M3 square nuts|3||
 |14|M2 short spacers|6|3mm|
 |15|M2 long spacers|2|7mm|
-|16|Bearing|3|2x5x2.5|
+|16|Bearing|3|2x6x2.5|
 |17|Capacitor C1, C2|2|10uF|
 |18|Capacitor C3|1|4.7uF|
 |19|Regulator|1|UT7500L-18|
