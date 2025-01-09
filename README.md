@@ -117,13 +117,13 @@ https://tarohayashi.booth.pm/items/4877491
 ## 準備
 ### スイッチプレートの切り離し
 スイッチプレートは繋がった状態で入っていて切り離して使います。
-![](img/1_start/1_5_switch_plate.jpg)
+![](img/1_start/1_5_switch_plate.jpg)  
 カッターで切れ目を入れ折って切り離します。
-![](img/1_start/1_6_cut_plate.jpg)
+![](img/1_start/1_6_cut_plate.jpg)  
 断面はやすりで綺麗にします。
-![](img/1_start/1_7_sanding.jpg)
+![](img/1_start/1_7_sanding.jpg)  
 削った粉がコネクタ類やトラックボールのセンサーに入り込まないようにここで一度服を払ったり机の上の掃除をすると安心です。
-![](img/1_start/1_8_switch_plates.jpg)
+![](img/1_start/1_8_switch_plates.jpg)  
 それぞれのユニットのビルドガイドでスイッチプレートとして使います。
 
 ## テスト用ファームウェアを書き込む
@@ -132,8 +132,8 @@ https://tarohayashi.booth.pm/items/4877491
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_solo_test.uf2)
 
 Raspberry Pi PicoのBOOTSELボタン押しながらUSBケーブルでPCと接続すると、RPI-RP2というUSBメモリとして認識されます。
-![](img/1_start/1_9_raspberry_pi_pico.jpg)
-![](img/1_start/1_10_rpi_rp2.jpg)
+![](img/1_start/1_9_raspberry_pi_pico.jpg)  
+![](img/1_start/1_10_rpi_rp2.jpg)  
 ダウンロードしたファイルをドラッグ&ドロップしてドライブが自動的に消えたら成功です。  
 書き込みが終わったら一旦USBケーブルは外します。
 
