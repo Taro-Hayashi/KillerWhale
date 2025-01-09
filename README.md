@@ -134,7 +134,7 @@ https://tarohayashi.booth.pm/items/4877491
 Raspberry Pi PicoのBOOTSELボタン押しながらUSBケーブルでPCと接続すると、RPI-RP2というUSBメモリとして認識されます。
 ![](img/1_start/1_9_raspberry_pi_pico.jpg)
 ![](img/1_start/1_10_rpi_rp2.jpg)
-ダウンロードしたファイルをドラッグ&ドロップしてドライブが自動的に消えたら成功です。
+ダウンロードしたファイルをドラッグ&ドロップしてドライブが自動的に消えたら成功です。  
 書き込みが終わったら一旦USBケーブルは外します。
 
 ### 左右を決める
