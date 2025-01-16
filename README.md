@@ -45,6 +45,9 @@
     </tr>
  </table>
 
+![](img/1_start/1_3_optional_parts.jpg)
+
+
 ### 必要な工具
 <table>
     <tr>
@@ -73,7 +76,6 @@
     </tr>
  </table>
 
-![](img/1_start/1_3_optional_parts.jpg)
 
 ### 別売ユニット
 ![](img/1_start/1_4_optional_units.jpg)
