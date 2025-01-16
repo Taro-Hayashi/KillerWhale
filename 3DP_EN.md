@@ -16,7 +16,7 @@ Covering.
 ### Bearing case
 
 ![](img/3DP/2_1_BearingCase.jpg)
-https://github.com/Taro-Hayashi/KillerWhale/tree/main/stl/34mm_Bearing
+https://github.com/Taro-Hayashi/KillerWhale/tree/main/stl/Ballcase_34mm_Bearing
 |Filename|
 |-|
 |Integrated.stl|
@@ -33,7 +33,7 @@ https://github.com/Taro-Hayashi/KillerWhale/tree/main/stl/34mm_Bearing
 ### Ceramic ball case
 
 ![](img/3DP/2_2_SphereCase.jpg)
-https://github.com/Taro-Hayashi/KillerWhale/tree/main/stl/34mm_Sphere
+https://github.com/Taro-Hayashi/KillerWhale/tree/main/stl/Ballcase_34mm_Sphere
 
 |Filename|
 |-|

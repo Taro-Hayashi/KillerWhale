@@ -18,7 +18,7 @@
 ### ベアリング方式
 
 ![](img/3DP/2_1_BearingCase.jpg)
-https://github.com/Taro-Hayashi/KillerWhale/tree/main/stl/34mm_Bearing
+https://github.com/Taro-Hayashi/KillerWhale/tree/main/stl/Ballcase_34mm_Bearing
 |ファイル名||
 |-|-|
 |Integrated.stl|一体型データ|
@@ -35,7 +35,7 @@ https://github.com/Taro-Hayashi/KillerWhale/tree/main/stl/34mm_Bearing
 ### 支持球方式
 
 ![](img/3DP/2_2_SphereCase.jpg)
-https://github.com/Taro-Hayashi/KillerWhale/tree/main/stl/34mm_Sphere
+https://github.com/Taro-Hayashi/KillerWhale/tree/main/stl/Ballcase_34mm_Sphere
 
 |ファイル名||
 |-|-|
