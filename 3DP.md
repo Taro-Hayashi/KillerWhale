@@ -55,6 +55,7 @@ https://github.com/Taro-Hayashi/KillerWhale/tree/main/stl/Sphere_Unit
 |3.175mm.stl||
 |3.5mm 0.2mm nozzle.stl|0.2mmノズル向けモデル|
 |3.5mm 0.4mm nozzle.stl|0.4mmノズル向けモデル|
+![](img/3DP/2_3_1_measure.jpg)
 
 # 十字キー
 ![](img/3DP/3_1_D-Pad.jpg)
