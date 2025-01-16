@@ -45,6 +45,33 @@
     </tr>
  </table>
 
+### 必要な工具
+<table>
+    <tr>
+      <td>はんだごて</td>
+    </tr>
+    <tr>
+      <td>はんだ</td>
+    </tr>
+    <tr>
+      <td>ピンセット</td>
+    </tr>
+    <tr>
+      <td>ニッパー</td>
+    </tr>
+    <tr>
+      <td>カッター</td>
+    </tr>
+    <tr>
+      <td>やすり</td>
+    </tr>
+    <tr>
+      <td>精密ドライバー</td>
+    </tr>
+    <tr>
+      <td>ナットをしめるもの（ラジオペンチ等）</td>
+    </tr>
+ </table>
 
 ![](img/1_start/1_3_optional_parts.jpg)
 
@@ -88,33 +115,6 @@ https://tarohayashi.booth.pm/items/4877491
     </tr>
  </table>
 
-### 必要な工具
-<table>
-    <tr>
-      <td>はんだごて</td>
-    </tr>
-    <tr>
-      <td>はんだ</td>
-    </tr>
-    <tr>
-      <td>ピンセット</td>
-    </tr>
-    <tr>
-      <td>ニッパー</td>
-    </tr>
-    <tr>
-      <td>カッター</td>
-    </tr>
-    <tr>
-      <td>やすり</td>
-    </tr>
-    <tr>
-      <td>精密ドライバー</td>
-    </tr>
-    <tr>
-      <td>ナットをしめるもの（ラジオペンチ等）</td>
-    </tr>
- </table>
 
 ## 準備
 ### スイッチプレートの切り離し
