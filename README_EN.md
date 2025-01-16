@@ -57,8 +57,12 @@ There are 5 switch plates included in the largest bag.
        <td>1</td>
        <td>Used to connect the left and right parts of the keyboard</td>
     </tr>
- </table>
+</table>
 
+### 3D Printed Trackball Case
+The bearing type is included in the package.
+![](img/1_start/1_4_1_ballcase.jpg)
+https://github.com/Taro-Hayashi/KillerWhale/blob/main/3DP_EN.md
 
 ![](img/1_start/1_3_optional_parts.jpg)
 
@@ -66,6 +70,7 @@ There are 5 switch plates included in the largest bag.
 
 ![](img/1_start/1_4_optional_units.jpg)
 https://tarohayashi.booth.pm/items/4877491
+
 
 
 ### Optional Acrylic Plates
@@ -80,6 +85,7 @@ https://tarohayashi.booth.pm/items/4877491
       <td><a href="https://shop.yushakobo.jp/products/keyboard_acrylic_plate?variant=47873651310823">Pillars</a></td>
     </tr>
  </table>
+
 
 ### 3D Printed Cases (made by Training&KBD)
 - https://booth.pm/ja/items/5410034
