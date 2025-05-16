@@ -62,6 +62,7 @@ https://github.com/Taro-Hayashi/KillerWhale/tree/main/stl/D-Pad
 |D-Pad.stl|
 # Wheel
 ![](img/3DP/4_1_Wheel.jpg)
+![](img/3DP/4_2_Wheel.jpg)
 https://github.com/Taro-Hayashi/KillerWhale/tree/main/stl/Wheel
 |Filename|
 |-|
