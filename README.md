@@ -92,7 +92,7 @@
 - https://tarohayashi.booth.pm/items/6485486
 
 ### 3Dプリント品データ
-https://github.com/Taro-Hayashi/KillerWhale/blob/main/3DP.md
+- https://github.com/Taro-Hayashi/KillerWhale/blob/main/3DP.md
 
 ### 色違いのアクリルプレート
 <table>
@@ -130,7 +130,7 @@ https://github.com/Taro-Hayashi/KillerWhale/blob/main/3DP.md
 
 ### 3Dプリンター製部品の確認
 以下の部品が入っている袋があることを確認します。
-![](img/1_start/IMG_3411.jpg)]
+![](img/1_start/IMG_3411.jpg)
 
 ### スイッチプレートの切り離し
 スイッチプレートは繋がった状態で入っていて切り離して使います。
