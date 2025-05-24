@@ -9,7 +9,12 @@
 7. [Customize](rightside/7_CUSTOM.md)
 8. [Misc](rightside/8_MISC.md)
 
-There are 5 switch plates included in the largest bag.
+![](img/1_start/1_0_overall.jpg)
+
+> [!NOTE]
+> Some parts have been replaced by 3D printer-made parts from late May 2025. There may be differences from photographs and examples.
+
+There are 6 bag and switch plates included in the largest bag.
 ![](img/1_start/1_1_full.jpg)
 
 ## Additionally Required (quantities for or one side)
@@ -31,8 +36,6 @@ There are 5 switch plates included in the largest bag.
        <td>0 or 1</td>
     </tr>
  </table>
-
- *A Type-C version of Raspberry Pi Pico has been included since October 2024.
 
 ![](img/1_start/1_2_additional_required.jpg)
 ### Optional Parts (quantities for one side)
@@ -59,17 +62,25 @@ There are 5 switch plates included in the largest bag.
     </tr>
 </table>
 
-### 3D Printed Trackball Case
-The bearing type is included in the package.
-![](img/1_start/1_4_1_ballcase.jpg)
-https://github.com/Taro-Hayashi/KillerWhale/blob/main/3DP_EN.md
-
 ![](img/1_start/1_3_optional_parts.jpg)
+
 
 ### Optional Units (sold separately)
 
 ![](img/1_start/1_4_optional_units.jpg)
 https://tarohayashi.booth.pm/items/4877491
+
+### Optional 3D Printed Parts (sold separately)
+
+![](img/1_start/1_4_1_ballcase.jpg)
+- https://tarohayashi.booth.pm/items/6485486
+
+### 3D Printed Parts Data
+
+https://github.com/Taro-Hayashi/KillerWhale/blob/main/3DP_EN.md
+
+![](img/1_start/1_3_optional_parts.jpg)
+https://github.com/Taro-Hayashi/KillerWhale/blob/main/3DP_EN.md
 
 
 

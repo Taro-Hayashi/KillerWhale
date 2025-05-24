@@ -9,7 +9,13 @@
 7. [カスタマイズ](右手用/7_カスタマイズ.md)
 8. [その他](右手用/8_その他.md)
 
-大きな袋の中にスイッチプレートと5つの袋が入っています。
+
+![](img/1_start/1_0_overall.jpg)
+
+> [!NOTE]
+> 2025年5月下旬より一部の部品が3Dプリンター製に置き換わりました。写真や作例と差異がある場合があります。
+
+大きな袋の中にスイッチプレートと6つの袋が入っています。
 ![](img/1_start/1_1_full.jpg)
 
 ## キット以外に必要なもの（片手分）
@@ -79,12 +85,14 @@
 
 ### 別売ユニット
 ![](img/1_start/1_4_optional_units.jpg)
-https://tarohayashi.booth.pm/items/4877491
+- https://tarohayashi.booth.pm/items/4877491
 
-### 3Dプリンター製ボールケース
+### 別売3Dプリンター製部品
 ![](img/1_start/1_4_1_ballcase.jpg)
-- ベアリング方式（同梱されています）  https://tarohayashi.booth.pm/items/6485486
-- 支持球方式 https://tarohayashi.booth.pm/items/6485619
+- https://tarohayashi.booth.pm/items/6485486
+
+### 3Dプリント品データ
+https://github.com/Taro-Hayashi/KillerWhale/blob/main/3DP.md
 
 ### 色違いのアクリルプレート
 <table>
@@ -119,6 +127,10 @@ https://tarohayashi.booth.pm/items/4877491
 
 
 ## 準備
+
+### 3Dプリンター製部品の確認
+以下の部品が入っています。
+
 ### スイッチプレートの切り離し
 スイッチプレートは繋がった状態で入っていて切り離して使います。
 ![](img/1_start/1_5_switch_plate.jpg)
