@@ -35,7 +35,7 @@ Vertical and horizontal common build manuals.
 
 
 The following 3D printed parts are also used.
-![](../img/3_4_wheel_r/IMG_3406.jpg)
+![](../img/3_4_wheel_r/IMG_3343.jpg)
 
 ### Additional Required
 |Types|quantities|
