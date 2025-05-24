@@ -113,19 +113,6 @@ Attach the cover plate to the spacers with M2 middle screws.
 
 ### Assembling the trackball
 
-Thread the M2 silver washers onto 9 M2 long screws.
-![](../img/3_1_trackball_r/3_1_17_m2_screws.jpg)
-Insert the screws into the two holes of each of the 3 trackball arms and fasten with M2 spacers.
-![](../img/3_1_trackball_r/3_1_18_pillars_1.jpg)
-On the opposite side, secure the screws with washers, spring washers and nuts.
-![](../img/3_1_trackball_r/3_1_19_pillars_2.jpg)
-Thread bearings onto the remaining 3 screws and hook them into the notches of the trackball arms, then  secure with washers, spring washers and nuts.
-![](../img/3_1_trackball_r/3_1_20_pillars_3.jpg)
-Make three.
-![](../img/3_1_trackball_r/3_1_21_pillars_4.jpg)
-
-Thread the M3 washers onto 3 M3 screws.
-![](../img/3_1_trackball_r/3_1_22_m3_screws.jpg)
 Remove the protective film from the sensor and insert the lens.
 > [!IMPORTANT]
 > The lens has a specific mounting direction, therefore make sure not to apply too much force in case it does not fit well, and check direction instead.
@@ -133,17 +120,15 @@ Remove the protective film from the sensor and insert the lens.
 ![](../img/3_1_trackball_r/3_1_23_lens_1.jpg)
 Heat the lens legs on the back side with a soldering iron to fix them in place.
 ![](../img/3_1_trackball_r/3_1_24_lens_2.jpg)
+Fix the bearings in three places on the ball case prop with three screws and three nuts.
+![](../img/3_1_trackball_r/IMG_3361.jpg)
 
 Place the arms on the PCB, put a square nut in the slits, and screw them from the back side.
 
 > [!NOTE]
 > Place one arm in the bottom side, and two in the upper side, so as to form an equilateral triangle.
 
-![](../img/3_1_trackball_r/3_1_25_pillars_5.jpg)
-
-After securing the 3 arms, insert a ball, and from a flat location, check if the ball moves smoothly. If there is no problem, remove the ball.
-![](../img/3_1_trackball_r/3_1_25_pillars_complete.jpg)
-
+![](../img/3_1_trackball_r/IMG_3367.jpg)
 ### Connecting to the BASE unit
 If this is the first SIDE unit that you have built, remove two sets of 6 pins from the remaining BASE unit pin headers, and insert them in the pin sockets of the SIDE unit.
 ![](../img/c_pin_socket_6.jpg)
@@ -161,10 +146,12 @@ This is the last soldering step for the SIDE unit.
 In case you plan on using the OLED module, insert it in the pin socket.
 ![](../img/3_1_trackball_r/3_1_29_base_3.jpg)
 
-Attach MX switches to the switch plate, and insert them in the MX sockets.
-![](../img/3_1_trackball_r/3_1_30_complete.jpg)
+Attach MX switches to the switch plate, and insert them in the MX sockets, and attach 3DP case.
+![](../img/3_1_trackball_r/IMG_3376.jpg)
+
 
 Confirm that everything is working by connecting the unit to a computer with a USB cable.
+![](../img/3_1_trackball_r/IMG_3378.jpg)
 > [!NOTE]
 > The LEDs will not work until the TOP (and ADD) units are completed.
 > Trackball speed and direction can be adjusted later.
