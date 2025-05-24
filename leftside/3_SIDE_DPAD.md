@@ -21,11 +21,8 @@
 |1|Mainboard|1|FR4|
 |2|Switch plate|1|FR4|
 |3|Cover plate|2|Acrylic|
-|4|D-pad plate|2|Acrylic|
 |5|M2 short screws|5|4mm|
 |6|M2 middle screws|5|6mm|
-|7|M2 long screw|1|10mm|
-|8|M2 nut|1||
 |9|M2 short spacers|2|5mm|
 |10|M2 long spacers|3|12mm|
 |11|Diodes|8|1N4148|
