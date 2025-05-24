@@ -26,7 +26,9 @@
 |9|MX hotswap sockets|21||
 |10|Diodes|27||
 |11|Wheel encoders|2||
-|12|Wheels|2||
+
+The following 3D printed parts are also used.
+![](../img/4_2_wheeltop_r/IMG_3343.jpg)
 
 ### Additional Required
 |Types|quantities|
@@ -67,6 +69,12 @@ Thread the M3 washers onto 4 M3 screws.
 Solder pin sockets on the bottom.
 ![](../img/4_2_wheeltop_r/4_2_11_base.jpg)
 ![](../img/4_2_wheeltop_r/4_2_12_keyswitches.jpg)
+Combine the wheel parts. Be careful with the direction of the axis of the thinner one.
+![](../img/4_2_wheeltop_r/IMG_3348.jpg)
+It may require a little force. The medium axis can come from either direction.
+![](../img/4_2_wheeltop_r/IMG_3351.jpg)
+
+
 ![](../img/4_2_wheeltop_r/4_2_13_wheels.jpg)
 
 5. [ADD Unit](../rightside/5_ADD.md)
