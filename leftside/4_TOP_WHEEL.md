@@ -27,7 +27,7 @@
 |11|Wheel encoders|2||
 
 The following 3D printed parts are also used.
-![](../img/4_2_wheeltop_l/IMG_3343.jpg)
+![](../img/4_2_wheeltop_l/IMG_3406.jpg)
 
 ### Additional Required
 |Types|quantities|
