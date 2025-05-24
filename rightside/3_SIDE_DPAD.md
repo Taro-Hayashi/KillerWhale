@@ -34,7 +34,7 @@
 |14|Pin header|1||
 
 The following 3D printed parts are also used.
-![](../img/3_1_trackball_r/IMG_3353.jpg)
+![](../img/3_2_dpad_r/IMG_3353.jpg)
 
 ## Soldering
 Note that components will be placed on both sides of the side unit.
