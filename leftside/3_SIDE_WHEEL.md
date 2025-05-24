@@ -34,6 +34,11 @@ Vertical and horizontal common build manuals.
 |13|Pin header|1||
 
 
+The following 3D printed parts are also used.
+
+![](../img/3_4_wheel_l/IMG_3343.jpg)
+
+
 ### Additional Required
 |Types|quantities|
 |-|-|
