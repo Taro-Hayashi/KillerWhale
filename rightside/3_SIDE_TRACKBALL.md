@@ -12,29 +12,28 @@
 6. [Assembly](../rightside/6_ASSEMBLE.md)
 7. [Customizations](../rightside/7_CUSTOM.md)
 8. [Misc](../rightside/8_MISC.md)
-
 ## Contents
 ![](../img/3_1_trackball_l/3_1_1_contents.jpg)
 ||types|quantities||
 |-|-|-|-|
 |1|Mainboard|1|FR4|
 |2|Switch plate|1|FR4|
-|4|Cover plate|1|Acrylic|
-|5|M2 short screws|2|4mm|
-|6|M2 middle screws|2|6mm|
-|7|M2 long screws|3|10mm|
-|8|M3 screws|3|10mm|
-|11|M2 nuts|3|
-|13|M3 square nuts|3||
-|15|M2 long spacers|2|7mm|
-|16|Bearing|3|2x6x2.5|
-|17|Capacitor C1, C2|2|10uF|
-|18|Capacitor C3|1|4.7uF|
-|19|Regulator|1|UT7500L-18|
-|20|MX Switch Socket|2||
-|21|Diodes|4|1N4148|
-|22|Sensor & lens|1|PMW3360|
-|23|Pin header|1||
+|3|Cover plate|1|Acrylic|
+|4|M2 short screws|2|4mm|
+|5|M2 middle screws|2|6mm|
+|6|M2 long screws|3|10mm|
+|7|M3 screws|3|10mm|
+|8|M2 nuts|3|
+|9|M3 square nuts|3||
+|10|M2 long spacers|2|7mm or 8mm|
+|11|Bearing|3|2x6x2.5|
+|12|Capacitor C3|1|4.7uF|
+|13|Capacitor C1, C2|2|10uF|
+|14|Regulator|1|UT7500L-18|
+|15|MX Switch Socket|2||
+|16|Diodes|4|1N4148|
+|17|Sensor & lens|1|PMW3360|
+|18|Pin header|1||
 
 The following 3D printed parts are also used.
 ![](../img/3_1_trackball_r/IMG_3411.jpg)
