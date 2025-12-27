@@ -43,10 +43,6 @@ Hold the second key from the corner (key 4, resp. 7) to move to the trackball se
 - Select the orientation of the trackball by adjusting angle or inverting across the X axis.
 - You can select scroll or cursor modes via the mode change key.
 
-## LED settings
-Hold the key in the corner, so 5 (resp. 6) to move to the RGB setting layer.
-![](../img/custom/rgb_e.jpg)  
-
 ## Using Remap
 You can customize everything, including the joystick or wheels with a the Remap website. It is very easy to use, therefore highly recommended.
 
