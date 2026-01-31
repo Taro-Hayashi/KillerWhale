@@ -33,7 +33,7 @@
 |14|Regulator|1|UT7500L-18|
 |15|MX Switch Socket|2||
 |16|Diodes|4|1N4148|
-|17|Sensor & lens|1|PMW3360|
+|17|Sensor & lens|1|PMW3360DM-T2QU / LM19-LSI|
 |18|Pin header|1||
 
 The following 3D printed parts are also used.
