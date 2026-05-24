@@ -1,22 +1,22 @@
-# Killer Whale ビルドガイド スタートページ（[English](README_EN.md)）
+# Killer Whale ビルドガイド スタートページ（[English](doc/README_EN.md)）
 
 1. スタートページ（このページ）
-2. [ベースユニットの組み立て](右手用/2_ベースユニット.md)
-3. [側面ユニットの組み立て](右手用/3_側面ユニット_トラックボール.md)
-4. [天面ユニットの組み立て](右手用/4_天面ユニット.md)
-5. [追加ユニットの組み立て](右手用/5_追加ユニット.md)
-6. [全体の組み立て](右手用/6_全体の組み立て.md)
-7. [カスタマイズ](右手用/7_カスタマイズ.md)
-8. [その他](右手用/8_その他.md)
+2. [ベースユニットの組み立て](doc/右手用/2_ベースユニット.md)
+3. [側面ユニットの組み立て](doc/右手用/3_側面ユニット_トラックボール.md)
+4. [天面ユニットの組み立て](doc/右手用/4_天面ユニット.md)
+5. [追加ユニットの組み立て](doc/右手用/5_追加ユニット.md)
+6. [全体の組み立て](doc/右手用/6_全体の組み立て.md)
+7. [カスタマイズ](doc/右手用/7_カスタマイズ.md)
+8. [その他](doc/右手用/8_その他.md)
 
 
-![](img/1_start/1_0_overall.jpg)
+![](doc/img/1_start/1_0_overall.jpg)
 
 > [!NOTE]
 > 2025年5月下旬より一部の部品が3Dプリンター製に置き換わりました。写真や作例と差異がある場合があります。
 
 大きな袋の中にスイッチプレートと6つの袋が入っています。
-![](img/1_start/1_1_full.jpg)
+![](doc/img/1_start/1_1_full.jpg)
 
 ## キット以外に必要なもの（片手分）
 |部品名|数||
@@ -26,7 +26,7 @@
 |Type-C USBケーブル|1||
 |34mm トラックボール|0~1|[遊舎工房](https://shop.yushakobo.jp/products/8020)、[Amazon](https://www.amazon.co.jp/gp/product/B07BDGSX5X)|
 
-![](img/1_start/1_2_additional_required.jpg)
+![](doc/img/1_start/1_2_additional_required.jpg)
 ### オプション（片手分）
 <table>
     <tr>
@@ -51,7 +51,7 @@
     </tr>
  </table>
 
-![](img/1_start/1_3_optional_parts.jpg)
+![](doc/img/1_start/1_3_optional_parts.jpg)
 
 
 ### 必要な工具
@@ -84,15 +84,15 @@
 
 
 ### 別売ユニット
-![](img/1_start/1_4_optional_units.jpg)
+![](doc/img/1_start/1_4_optional_units.jpg)
 - https://tarohayashi.booth.pm/items/4877491
 
 ### 別売3Dプリンター製部品
-![](img/1_start/1_4_1_ballcase.jpg)
+![](doc/img/1_start/1_4_1_ballcase.jpg)
 - https://tarohayashi.booth.pm/items/6485486
 
 ### 3Dプリント品データ
-- https://github.com/Taro-Hayashi/KillerWhale/blob/main/3DP.md
+- https://github.com/Taro-Hayashi/KillerWhale/blob/main/doc/3DP.md
 
 ### 色違いのアクリルプレート
 <table>
@@ -130,17 +130,17 @@
 
 ### 3Dプリンター製部品の確認
 以下の部品が入っている袋があることを確認します（ナット締め器が同梱されていることがあります）。
-![](img/1_start/IMG_3411.jpg)
+![](doc/img/1_start/IMG_3411.jpg)
 
 ### スイッチプレートの切り離し
 スイッチプレートは繋がった状態で入っていて切り離して使います。
-![](img/1_start/1_5_switch_plate.jpg)
+![](doc/img/1_start/1_5_switch_plate.jpg)
 カッターで切れ目を入れ折って切り離します。
-![](img/1_start/1_6_cut_plate.jpg)
+![](doc/img/1_start/1_6_cut_plate.jpg)
 断面はやすりで綺麗にします。
-![](img/1_start/1_7_sanding.jpg)
+![](doc/img/1_start/1_7_sanding.jpg)
 削った粉がコネクタ類やトラックボールのセンサーに入り込まないようにここで一度服を払ったり机の上の掃除をすると安心です。
-![](img/1_start/1_8_switch_plates.jpg)
+![](doc/img/1_start/1_8_switch_plates.jpg)
 それぞれのユニットのビルドガイドでスイッチプレートとして使います。
 
 ## テスト用ファームウェアを書き込む
@@ -149,15 +149,15 @@
 ](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_solo_test.uf2)
 
 Raspberry Pi PicoのBOOTSELボタン押しながらUSBケーブルでPCと接続すると、RPI-RP2というUSBメモリとして認識されます。
-![](img/1_start/1_9_raspberry_pi_pico.jpg)
-![](img/1_start/1_10_rpi_rp2.jpg)
+![](doc/img/1_start/1_9_raspberry_pi_pico.jpg)
+![](doc/img/1_start/1_10_rpi_rp2.jpg)
 ダウンロードしたファイルをドラッグ&ドロップしてドライブが自動的に消えたら成功です。
 書き込みが終わったら一旦USBケーブルは外します。
 
 ### 左右を決める
 キットを左右どちらで作るか決めてベースユニットの組み立てに進みます。
-- [ベースユニット 左手用](左手用/2_ベースユニット.md)
-- [ベースユニット 右手用](右手用/2_ベースユニット.md)
+- [ベースユニット 左手用](doc/左手用/2_ベースユニット.md)
+- [ベースユニット 右手用](doc/右手用/2_ベースユニット.md)
 
 > [!NOTE]
 > 左右のビルドガイドの違いは写真だけですが間違えやすいので合った側を見るのがおすすめです。
