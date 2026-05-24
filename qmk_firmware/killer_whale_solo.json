@@ -1,0 +1,400 @@
+{
+  "name": "Killer Whale SOLO",
+	"vendorId": "0x8884",
+	"productId": "0x0898",
+  "lighting": "qmk_rgblight",
+	"matrix": { "rows": 7, "cols": 7 },
+  "customKeycodes": [
+    { "name": "Cmd / Ctrl", "title": "MacOS/iOS:Command, Windows:Control", "shortName": "Cmd / Ctrl"},
+    { "name": "Undo", "title": "MacOS/iOS:Cmd+Z, Windows:Ctrl+Z", "shortName": "Undo"},
+    { "name": "Redo", "title": "MacOS/iOS:Shift+Cmd+Z, Windows:Shift+Ctrl+Z", "shortName": "Redo"},
+    { "name": "Copy", "title": "MacOS/iOS:Cmd+C, Windows:Ctrl+C", "shortName": "Copy"},
+    { "name": "Cut", "title": "MacOS/iOS:Cmd+X, Windows:Ctrl+X", "shortName": "Cut"},
+    { "name": "Paste", "title": "MacOS/iOS:Cmd+V, Windows:Ctrl+V", "shortName": "Paste"},
+    { "name": "Scale Up", "title": "MacOS/iOS:Cmd++, Windows:Ctrl++", "shortName": "Scale Up"},
+    { "name": "Scale Down", "title": "MacOS/iOS:Cmd+-, Windows:Ctrl+-", "shortName": "Scale Down"},
+    { "name": "Scale Reset", "title": "MacOS/iOS:Cmd+0, Windows:Ctrl+0", "shortName": "Scale Reset"},
+    { "name": "Captcha", "title": "MacOS/iOS:Shift+Cmd+4, Windows:Shift+Win+S", "shortName": "Captcha"},
+    { "name": "Save", "title": "MacOS/iOS:Cmd+S, Windows:Ctrl+S", "shortName": "Save"},
+    { "name": "Save As", "title": "MacOS/iOS:Shift+Cmd+S, Windows:Shift+Ctrl+S", "shortName": "Save As"},
+    { "name": "Next Tab", "title": "MacOS/iOS:Ctrl+Tab, Windows:Ctrl+Tab", "shortName": "Next Tab"},
+    { "name": "Prev Tab", "title": "MacOS/iOS:Shift+Ctrl+Tab, Windows:Shift+Ctrl+Tab", "shortName": "Prev Tab"},
+    { "name": "Close Tab", "title": "MacOS/iOS:Cmd+W, Windows:Ctrl+W", "shortName": "Close Tab"},
+    { "name": "Restore Tab", "title": "MacOS/iOS:Shift+Cmd+T, Windows:Shift+Ctrl+T", "shortName": "Restore Tab"},
+    { "name": "Speed + Left", "title": "Increase speed and sensitivity on the left hand side", "shortName": "Speed + Left"},
+    { "name": "Speed - Left", "title": "Decrease speed and sensitivity on the left hand side", "shortName": "Speed - Left"},
+    { "name": "Speed + Right", "title": "Increase speed and sensitivity on the right hand side", "shortName": "Speed + Right"},
+    { "name": "Speed - Right", "title": "Decrease speed and sensitivity on the right hand side", "shortName": "Speed - Right"},
+    { "name": "Angle + Left", "title": "Increase Angle (Left Trackball)", "shortName": "Angle + Left"},
+    { "name": "Angle - Left", "title": "Decrease Angle (Left Trackball)", "shortName": "Angle - Left"},
+    { "name": "Invert X Left", "title": "Invert X Axis (Left Trackball)", "shortName": "Invert X Left"},
+    { "name": "Mode Change Left", "title": "Cycle Mode Left", "shortName": "Mode Change Left"},
+    { "name": "Angle + Right", "title": "Increase Angle (Right Trackball)", "shortName": "Angle + Right"},
+    { "name": "Angle - Right", "title": "Decrease Angle (Right Trackball)", "shortName": "Angle - Left"},
+    { "name": "Invert X Right", "title": "Invert X Axis (Right Trackball)", "shortName": "Invert X Right"},
+    { "name": "Mode Change Right", "title": "Mode Change Right", "shortName": "Mode Change Right"},
+    { "name": "Invert Scroll", "title": "Invert Scroll Direction", "shortName": "Invert Scroll"},
+    { "name": "Scroll Mode", "title": "Scroll Mode When Pressed", "shortName": "Scroll Mode"},
+    { "name": "Toggle Auto Mouse", "title": "Toggle Auto Mouse", "shortName": "Toggle Auto Mouse"},
+    { "name": "OLED Mode", "title": "Cycle OLED Mode", "shortName": "OLED Mode"}
+  ],
+  "layouts": {
+    "labels": [
+      [ "LEFT / RIGHT", "LEFT", "RIGHT"]
+    ],
+    "keymap": [
+      [
+        {
+          "x": 1.75
+        },
+        "\n\n\n0,0\n\n\n\n\n\ne1",
+        {
+          "x": 13.75
+        },
+        "\n\n\n0,1\n\n\n\n\n\ne1"
+      ],
+      [
+        {
+          "y": -0.75,
+          "x": 0.5
+        },
+        "\n\n\n0,0\n\n\n\n\n\ne0",
+        {
+          "x": 2.5
+        },
+        "0,3\n\n\n0,0",
+        {
+          "x": 9.25
+        },
+        "0,3\n\n\n0,1",
+        {
+          "x": 2.5
+        },
+        "\n\n\n0,1\n\n\n\n\n\ne0"
+      ],
+      [
+        {
+          "y": -0.75,
+          "x": 3
+        },
+        "0,4\n\n\n0,0",
+        {
+          "x": 1
+        },
+        "0,2\n\n\n0,0",
+        {
+          "x": 7.25
+        },
+        "0,2\n\n\n0,1",
+        {
+          "x": 1
+        },
+        "0,4\n\n\n0,1"
+      ],
+      [
+        {
+          "y": -0.75,
+          "x": 6
+        },
+        "0,1\n\n\n0,0",
+        {
+          "x": 5.25
+        },
+        "0,1\n\n\n0,1"
+      ],
+      [
+        {
+          "y": -0.5,
+          "x": 2
+        },
+        "0,5\n\n\n0,0",
+        {
+          "x": 1
+        },
+        "1,4\n\n\n0,0",
+        {
+          "x": 9.25
+        },
+        "1,4\n\n\n0,1",
+        {
+          "x": 1
+        },
+        "0,5\n\n\n0,1"
+      ],
+      [
+        {
+          "y": -0.75,
+          "x": 1
+        },
+        "1,0\n\n\n0,0",
+        {
+          "x": 1
+        },
+        "1,5\n\n\n0,0",
+        {
+          "x": 1
+        },
+        "1,3\n\n\n0,0",
+        {
+          "x": 7.25
+        },
+        "1,3\n\n\n0,1",
+        {
+          "x": 1
+        },
+        "1,5\n\n\n0,1",
+        {
+          "x": 1
+        },
+        "1,0\n\n\n0,1"
+      ],
+      [
+        {
+          "y": -0.75,
+          "x": 6
+        },
+        "1,2\n\n\n0,0",
+        {
+          "x": 5.25
+        },
+        "1,2\n\n\n0,1"
+      ],
+      [
+        {
+          "y": -0.5,
+          "x": 2
+        },
+        "2,0\n\n\n0,0",
+        {
+          "x": 1
+        },
+        "2,5\n\n\n0,0",
+        {
+          "x": 9.25
+        },
+        "2,5\n\n\n0,1",
+        {
+          "x": 1
+        },
+        "2,0\n\n\n0,1"
+      ],
+      [
+        {
+          "y": -0.75,
+          "x": 1
+        },
+        "2,1\n\n\n0,0",
+        {
+          "x": 1
+        },
+        "3,0\n\n\n0,0",
+        {
+          "x": 1
+        },
+        "2,4\n\n\n0,0",
+        {
+          "x": 7.25
+        },
+        "2,4\n\n\n0,1",
+        {
+          "x": 1
+        },
+        "3,0\n\n\n0,1",
+        {
+          "x": 1
+        },
+        "2,1\n\n\n0,1"
+      ],
+      [
+        {
+          "y": -0.75,
+          "x": 6
+        },
+        "2,3\n\n\n0,0",
+        {
+          "x": 0.75,
+          "w": 1.5
+        },
+        "4,3\n\n\n0,0",
+        {
+          "x": 0.75,
+          "w": 1.5
+        },
+        "4,3\n\n\n0,1",
+        {
+          "x": 0.75
+        },
+        "2,3\n\n\n0,1"
+      ],
+      [
+        {
+          "y": -0.5,
+          "x": 2
+        },
+        "3,1\n\n\n0,0",
+        {
+          "x": 1
+        },
+        "4,0\n\n\n0,0",
+        {
+          "x": 9.25
+        },
+        "4,0\n\n\n0,1",
+        {
+          "x": 1
+        },
+        "3,1\n\n\n0,1"
+      ],
+      [
+        {
+          "y": -0.75,
+          "x": 1
+        },
+        "3,2\n\n\n0,0",
+        {
+          "x": 1
+        },
+        "4,1\n\n\n0,0",
+        {
+          "x": 1
+        },
+        "3,5\n\n\n0,0",
+        {
+          "x": 7.25
+        },
+        "3,5\n\n\n0,1",
+        {
+          "x": 1
+        },
+        "4,1\n\n\n0,1",
+        {
+          "x": 1
+        },
+        "3,2\n\n\n0,1"
+      ],
+      [
+        {
+          "y": -0.75,
+          "x": 6
+        },
+        "3,4\n\n\n0,0",
+        {
+          "x": 5.25
+        },
+        "3,4\n\n\n0,1"
+      ],
+      [
+        {
+          "y": -0.75,
+          "x": 8
+        },
+        "\n\n\n0,0\n\n\n\n\n\ne3",
+        {
+          "x": 1.25
+        },
+        "\n\n\n0,1\n\n\n\n\n\ne3"
+      ],
+      [
+        {
+          "y": -0.75,
+          "x": 2
+        },
+        "4,2\n\n\n0,0",
+        {
+          "x": 13.25
+        },
+        "4,2\n\n\n0,1"
+      ],
+      [
+        {
+          "y": -0.75,
+          "x": 3
+        },
+        "4,5\n\n\n0,0",
+        {
+          "x": 11.25
+        },
+        "4,5\n\n\n0,1"
+      ],
+      [
+        {
+          "y": -0.25,
+          "x": 7.5
+        },
+        "5,4\n\n\n0,0",
+        "5,3\n\n\n0,0",
+        {
+          "x": 0.25
+        },
+        "5,3\n\n\n0,1",
+        "5,4\n\n\n0,1"
+      ],
+      [
+        {
+          "y": -0.5,
+          "x": 1
+        },
+        "3,6\n\n\n0,0",
+        {
+          "x": 15.25
+        },
+        "4,6\n\n\n0,1"
+      ],
+      [
+        {
+          "y": -0.5,
+          "x": 4.5
+        },
+        "6,5\n\n\n0,0",
+        {
+          "x": 8.25
+        },
+        "5,6\n\n\n0,1"
+      ],
+      [
+        {
+          "y": -0.5
+        },
+        "2,6\n\n\n0,0",
+        "0,6\n\n\n0,0",
+        "4,6\n\n\n0,0",
+        {
+          "x": 0.25
+        },
+        "\n\n\n0,0\n\n\n\n\n\ne2",
+        {
+          "x": 10.75
+        },
+        "\n\n\n0,1\n\n\n\n\n\ne2",
+        {
+          "x": 0.25
+        },
+        "3,6\n\n\n0,1",
+        "0,6\n\n\n0,1",
+        "1,6\n\n\n0,1"
+      ],
+      [
+        {
+          "y": -0.5,
+          "x": 4.5
+        },
+        "5,6\n\n\n0,0",
+        {
+          "x": 8.25
+        },
+        "6,5\n\n\n0,1"
+      ],
+      [
+        {
+          "y": -0.5,
+          "x": 1
+        },
+        "1,6\n\n\n0,0",
+        {
+          "x": 15.25
+        },
+        "2,6\n\n\n0,1"
+      ]
+    ]
+  }
+}

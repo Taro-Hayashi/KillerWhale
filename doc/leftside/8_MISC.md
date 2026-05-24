@@ -88,7 +88,7 @@
 
 
 ## Firmware Codes
-- https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/killerwhale
+- [qmk_firmware](../../qmk_firmware/keyboards/killerwhale)
 
 ## Acrylic and switch plates
 - https://github.com/Taro-Hayashi/KillerWhale/releases/download/0.27.1/killer_whale_plates.zip
