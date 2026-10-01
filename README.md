@@ -19,10 +19,13 @@
 ![](doc/img/1_start/1_1_full.jpg)
 
 ## キット以外に必要なもの（片手分）
+
+リンクにはアフィリエイトリンクを含みます。
+
 |部品名|数||
 |-|-|-|
-|[キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|26〜30|Cherry MX互換|
-|[キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|26〜30|Cherry MX互換|
+|キースイッチ|26〜30|Cherry MX互換、[遊舎工房](https://shop.yushakobo.jp/collections/cherry-mx-clone)、[TALPKEYBOARD](https://shop.talpkeyboard.com/collections/keyswitch?ref=tarohayashi)|
+|キーキャップ|26〜30|Cherry MX互換、[遊舎工房](https://shop.yushakobo.jp/collections/keycaps)、[TALPKEYBOARD](https://shop.talpkeyboard.com/collections/keycaps?ref=tarohayashi)|
 |Type-C USBケーブル|1||
 |34mm トラックボール|0~1|[遊舎工房](https://shop.yushakobo.jp/products/8020)、[Amazon](https://www.amazon.co.jp/gp/product/B07BDGSX5X)|
 
