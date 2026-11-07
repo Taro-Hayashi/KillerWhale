@@ -141,7 +141,7 @@ https://github.com/Taro-Hayashi/KillerWhale/blob/main/doc/3DP_EN.md
 ## Preparations
 ### Confirmation of parts made by 3D printer
 Make sure the following components are included in one of the bag.
-![](img/1_start/IMG_3411.jpg)]
+![](img/IMG_9795.jpg)]
 ### Detach the switch plates
 Switch plates are initially attached, and must be separated.
 ![](img/1_start/1_5_switch_plate.jpg)
